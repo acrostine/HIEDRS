@@ -1,0 +1,17 @@
+source \ target,Administer Student Standard,Admit Students,Award and Monitor Financial Aid,Bill Customer or Payor,Enroll in Classes,Issue Diplomas and Diploma Supplements,Maintain Campus Community Directory,Maintain Student Records,Manage Erasmus+ Mobility,Manage Financial Relationships,Manage State Funding and Enrollment Quotas,Plan Recruiting Initiatives,Provide Housing and Auxiliary Services,Recognize Foreign Qualifications,Recruit Prospects,OUT (row sum)
+Administer Student Standard,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2
+Admit Students,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,3
+Award and Monitor Financial Aid,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2
+Bill Customer or Payor,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Enroll in Classes,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,4
+Issue Diplomas and Diploma Supplements,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Maintain Campus Community Directory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maintain Student Records,1,0,1,1,1,1,1,0,0,1,1,0,1,0,0,9
+Manage Erasmus+ Mobility,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Manage Financial Relationships,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Manage State Funding and Enrollment Quotas,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,3
+Plan Recruiting Initiatives,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Provide Housing and Auxiliary Services,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Recognize Foreign Qualifications,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+Recruit Prospects,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+IN (col sum),1,2,5,6,2,1,1,5,0,4,2,0,2,0,1,32

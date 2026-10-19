@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Higher Education — Serbia/EU edition — Search</title>
+<style>
+body { font-family: 'Segoe UI', system-ui, sans-serif; margin: 0;
+       background: #f4f3ee; color: #2c2c2a; overflow-y: auto; }
+main.content { padding: 24px 28px; min-width: 0; }
+h1 { font-size: 20px; font-weight: 700; margin: 0 0 4px; }
+p.sub { color: #5f5e5a; margin: 0 0 14px; font-size: 13px; }
+input.search-box { width: 100%; max-width: 480px; padding: 10px 14px; font-size: 15px;
+           border: 1px solid #d8d6cd; border-radius: 8px; margin-bottom: 18px;
+           box-sizing: border-box; }
+input.search-box:focus { outline: none; border-color: #639922; }
+p.count { font-size: 12px; color: #888; margin: 0 0 14px; }
+.grid.compact { display: grid; grid-template-columns: repeat(auto-fill, minmax(var(--tile, 300px), 1fr));
+        gap: 10px; }
+.lb-row { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; margin: 0 0 14px; }
+.lb-row input.search-box { flex: 1 1 260px; margin: 0; }
+.lb-row .fbar { margin: 0; }
+.lb-size { display: flex; align-items: center; gap: 6px; font-size: 13px; color: #33424f; }
+.lb-size label { font-weight: 700; }
+.lb-size button { width: 26px; height: 26px; border: 1px solid #d8d6cd; border-radius: 6px;
+        background: #fff; cursor: pointer; font-weight: 700; line-height: 1; padding: 0; }
+.lb-size input[type=range] { width: 140px; accent-color: #639922; }
+a.tile { display: block; text-decoration: none; color: inherit; background: #fff;
+         border: 1px solid #d8d6cd; border-radius: 8px; overflow: hidden; }
+a.tile:hover { border-color: #639922; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+.thumb { width: 100%; height: calc(var(--tile, 300px) * 0.6); object-fit: contain; background: #fafafa;
+         border-bottom: 1px solid #eee; display: block; }
+.cap { padding: 6px 8px; font-size: 11px; font-weight: 500; }
+a.tile.hidden { display: none; }
+
+.hidden { display: none !important; }
+.fbar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+        margin: 0 0 16px; font-size: 13px; }
+.fbar label { font-weight: 700; color: #33424f; }
+.fbar select { padding: 7px 10px; font-size: 13px; border: 1px solid #d8d6cd;
+        border-radius: 8px; background: #fff; color: #2c2c2a; max-width: 100%; }
+.fbar select:focus { outline: none; border-color: #639922; }
+.fbar a { color: #639922; font-weight: 700; text-decoration: none; }
+.fbar .n { color: #888; font-size: 12px; }
+p.maps { font-size: 13px; margin: 0 0 14px; color: #5f5e5a; }
+p.maps a { color: #639922; font-weight: 700; text-decoration: none; }
+</style>
+</head>
+<body>
+<main class="content">
+<h1>Higher Education — Serbia/EU edition — Search</h1>
+<p class="sub">Type any word from a diagram's title -- e.g. "Context" -- to filter to matching pictures.</p>
+<p class="maps">Maps: <a target="view" href="nav-home_thumbs.html">Home maps</a> &middot; <a target="view" href="nav-catalogue_thumbs.html">Catalogue</a> &middot; <a target="view" href="view-capabilities_overview-[HIEDRS]_thumbs.html">Capabilities Overview</a></p>
+<div class="lb-row"><input class="search-box" id="search-box" type="text" placeholder="Search by title..."><div class="fbar" id="fbar"><label for="type-filter">View type</label><select id="type-filter" data-filter="type"><option value="">All types (83)</option><option value="home">Home (1)</option><option value="system_overview">System overview (1)</option><option value="elements_map">Elements map (1)</option><option value="capabilities_overview">Capabilities overview (1)</option><option value="domain_capabilities">Domain capabilities (7)</option><option value="capability_context">Capability context (53)</option><option value="value_stream_context">Value stream context (10)</option><option value="stakeholder_motivation">Stakeholder motivation (8)</option><option value="motivation_navigation">Motivation navigation (1)</option></select><a href="#" id="fbar-clear">Clear</a></div><div class="lb-size" id="lb-size"><label for="lb-sizeRange">Size</label><button type="button" id="lb-sizeDown" aria-label="Smaller">&minus;</button><input type="range" id="lb-sizeRange" min="140" max="720" step="20" value="300"><button type="button" id="lb-sizeUp" aria-label="Larger">+</button></div></div>
+<p class="count" id="search-count">83 of 83 diagrams</p>
+<div class="grid compact">
+  <a class="tile" target="view" href="../views/view-home-[HIEDRS].html" data-title="home" data-type="home">
+    <img class="thumb" src="../images/view-home-[HIEDRS].png" alt="Home" loading="lazy">
+    <div class="cap">Home</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-system_overview-[HIEDRS].html" data-title="system overview" data-type="system_overview">
+    <img class="thumb" src="../images/view-system_overview-[HIEDRS].png" alt="System Overview" loading="lazy">
+    <div class="cap">System Overview</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-elements_map-[HIEDRS].html" data-title="elements map" data-type="elements_map">
+    <img class="thumb" src="../images/view-elements_map-[HIEDRS].png" alt="Elements Map" loading="lazy">
+    <div class="cap">Elements Map</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capabilities_overview-[HIEDRS].html" data-title="capabilities overview" data-type="capabilities_overview">
+    <img class="thumb" src="../images/view-capabilities_overview-[HIEDRS].png" alt="Capabilities Overview" loading="lazy">
+    <div class="cap">Capabilities Overview</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-domain_capabilities-[id-c60c95fc-180b-4784-9b6f-08c912f70dce].html" data-title="grant management - capabilities" data-type="domain_capabilities">
+    <img class="thumb" src="../images/view-domain_capabilities-[id-c60c95fc-180b-4784-9b6f-08c912f70dce].png" alt="Grant Management - Capabilities" loading="lazy">
+    <div class="cap">Grant Management - Capabilities</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-domain_capabilities-[id-32ef1aee-f646-4fb4-8a01-90c553ac705a].html" data-title="institutional advancement - capabilities" data-type="domain_capabilities">
+    <img class="thumb" src="../images/view-domain_capabilities-[id-32ef1aee-f646-4fb4-8a01-90c553ac705a].png" alt="Institutional Advancement - Capabilities" loading="lazy">
+    <div class="cap">Institutional Advancement - Capabilities</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-domain_capabilities-[id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9].html" data-title="manage academics - capabilities" data-type="domain_capabilities">
+    <img class="thumb" src="../images/view-domain_capabilities-[id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9].png" alt="Manage Academics - Capabilities" loading="lazy">
+    <div class="cap">Manage Academics - Capabilities</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-domain_capabilities-[id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58].html" data-title="manage students - capabilities" data-type="domain_capabilities">
+    <img class="thumb" src="../images/view-domain_capabilities-[id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58].png" alt="Manage Students - Capabilities" loading="lazy">
+    <div class="cap">Manage Students - Capabilities</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-domain_capabilities-[id-bd24036d-055c-476f-8c7c-ada1e2d8ebac].html" data-title="marketing - capabilities" data-type="domain_capabilities">
+    <img class="thumb" src="../images/view-domain_capabilities-[id-bd24036d-055c-476f-8c7c-ada1e2d8ebac].png" alt="Marketing - Capabilities" loading="lazy">
+    <div class="cap">Marketing - Capabilities</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-domain_capabilities-[id-d282e41f-2f23-4160-9a6f-d9401cc14f2a].html" data-title="sales - capabilities" data-type="domain_capabilities">
+    <img class="thumb" src="../images/view-domain_capabilities-[id-d282e41f-2f23-4160-9a6f-d9401cc14f2a].png" alt="Sales - Capabilities" loading="lazy">
+    <div class="cap">Sales - Capabilities</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-domain_capabilities-[id-ae0ab1dc-95a9-4226-8013-05a65cb447de].html" data-title="support - capabilities" data-type="domain_capabilities">
+    <img class="thumb" src="../images/view-domain_capabilities-[id-ae0ab1dc-95a9-4226-8013-05a65cb447de].png" alt="Support - Capabilities" loading="lazy">
+    <div class="cap">Support - Capabilities</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-e5bf6235-0851-40cc-9e21-86b9fbcaac81].html" data-title="account management - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-e5bf6235-0851-40cc-9e21-86b9fbcaac81].png" alt="Account Management - Context" loading="lazy">
+    <div class="cap">Account Management - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-a4637e89-2929-4077-a22a-d756585cb025].html" data-title="acknowledge donors - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-a4637e89-2929-4077-a22a-d756585cb025].png" alt="Acknowledge Donors - Context" loading="lazy">
+    <div class="cap">Acknowledge Donors - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-703c3278-af18-4e57-8bd0-ef52b23dc077].html" data-title="administer student standard - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-703c3278-af18-4e57-8bd0-ef52b23dc077].png" alt="Administer Student Standard - Context" loading="lazy">
+    <div class="cap">Administer Student Standard - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d].html" data-title="admit students - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d].png" alt="Admit Students - Context" loading="lazy">
+    <div class="cap">Admit Students - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-d7a1670b-5b1f-4419-a987-19f2b699fecb].html" data-title="advise students and provide - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-d7a1670b-5b1f-4419-a987-19f2b699fecb].png" alt="Advise Students and Provide - Context" loading="lazy">
+    <div class="cap">Advise Students and Provide - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b].html" data-title="approval and award - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b].png" alt="Approval and Award - Context" loading="lazy">
+    <div class="cap">Approval and Award - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-4a109615-89b7-4d83-9527-666fb431ad35].html" data-title="assistance - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-4a109615-89b7-4d83-9527-666fb431ad35].png" alt="Assistance - Context" loading="lazy">
+    <div class="cap">Assistance - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-2e6834a2-c238-4cf4-989a-cca3222baa9f].html" data-title="award and monitor financial aid - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-2e6834a2-c238-4cf4-989a-cca3222baa9f].png" alt="Award and Monitor Financial Aid - Context" loading="lazy">
+    <div class="cap">Award and Monitor Financial Aid - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3].html" data-title="bill customer or payor - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3].png" alt="Bill Customer or Payor - Context" loading="lazy">
+    <div class="cap">Bill Customer or Payor - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-1db93bd4-1dfe-459a-8324-c55dee07ec4f].html" data-title="bill sponsor - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-1db93bd4-1dfe-459a-8324-c55dee07ec4f].png" alt="Bill Sponsor - Context" loading="lazy">
+    <div class="cap">Bill Sponsor - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-6d5adb53-67bb-47a3-86a7-6157091b49aa].html" data-title="customer portfolio management - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-6d5adb53-67bb-47a3-86a7-6157091b49aa].png" alt="Customer Portfolio Management - Context" loading="lazy">
+    <div class="cap">Customer Portfolio Management - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651].html" data-title="define marketing strategy - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651].png" alt="Define Marketing Strategy - Context" loading="lazy">
+    <div class="cap">Define Marketing Strategy - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009].html" data-title="diagnose/resolve issues - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009].png" alt="Diagnose/Resolve Issues - Context" loading="lazy">
+    <div class="cap">Diagnose/Resolve Issues - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-8b80a6ea-0dfa-4673-9eab-027449e3bf84].html" data-title="effectiveness - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-8b80a6ea-0dfa-4673-9eab-027449e3bf84].png" alt="Effectiveness - Context" loading="lazy">
+    <div class="cap">Effectiveness - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-dd24e87e-c22c-4207-8c1a-a42a041e2a10].html" data-title="enroll in classes - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-dd24e87e-c22c-4207-8c1a-a42a041e2a10].png" alt="Enroll in Classes - Context" loading="lazy">
+    <div class="cap">Enroll in Classes - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-d8e4c197-826c-4d16-8f57-a29cd7b40c14].html" data-title="evaluate academic program - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-d8e4c197-826c-4d16-8f57-a29cd7b40c14].png" alt="Evaluate Academic Program - Context" loading="lazy">
+    <div class="cap">Evaluate Academic Program - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-8fcac125-67c1-46c5-b3a6-0cb03f136833].html" data-title="evaluate student performance - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-8fcac125-67c1-46c5-b3a6-0cb03f136833].png" alt="Evaluate Student Performance - Context" loading="lazy">
+    <div class="cap">Evaluate Student Performance - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3].html" data-title="execute fundraising initiatives - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3].png" alt="Execute Fundraising Initiatives - Context" loading="lazy">
+    <div class="cap">Execute Fundraising Initiatives - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-c442ac23-7d84-40ae-83f0-05cbdd824769].html" data-title="execute programs - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-c442ac23-7d84-40ae-83f0-05cbdd824769].png" alt="Execute Programs - Context" loading="lazy">
+    <div class="cap">Execute Programs - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-7867ed7a-a6c0-499b-a13e-41619962e307].html" data-title="issue diplomas and diploma supplements - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-7867ed7a-a6c0-499b-a13e-41619962e307].png" alt="Issue Diplomas and Diploma Supplements - Context" loading="lazy">
+    <div class="cap">Issue Diplomas and Diploma Supplements - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-a609d67d-c8e5-42b1-86fb-23647dc01b52].html" data-title="lead and opportunity management - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-a609d67d-c8e5-42b1-86fb-23647dc01b52].png" alt="Lead and Opportunity Management - Context" loading="lazy">
+    <div class="cap">Lead and Opportunity Management - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-d6e5d220-7427-459d-b8f4-8fae0c27c848].html" data-title="maintain campus community directory - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-d6e5d220-7427-459d-b8f4-8fae0c27c848].png" alt="Maintain Campus Community Directory - Context" loading="lazy">
+    <div class="cap">Maintain Campus Community Directory - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca].html" data-title="maintain student records - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca].png" alt="Maintain Student Records - Context" loading="lazy">
+    <div class="cap">Maintain Student Records - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-a6bbc833-d30e-460f-9df3-0ebe783e8f43].html" data-title="manage accreditation and quality assurance - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-a6bbc833-d30e-460f-9df3-0ebe783e8f43].png" alt="Manage Accreditation and Quality Assurance - Context" loading="lazy">
+    <div class="cap">Manage Accreditation and Quality Assurance - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2].html" data-title="manage contributors - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2].png" alt="Manage Contributors - Context" loading="lazy">
+    <div class="cap">Manage Contributors - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-f7b60e7c-3f68-40f5-9f7d-335d13dd7c1c].html" data-title="manage data protection - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-f7b60e7c-3f68-40f5-9f7d-335d13dd7c1c].png" alt="Manage Data Protection - Context" loading="lazy">
+    <div class="cap">Manage Data Protection - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-a398a43a-7375-47d1-af1b-49bf78188b6c].html" data-title="manage endowments - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-a398a43a-7375-47d1-af1b-49bf78188b6c].png" alt="Manage Endowments - Context" loading="lazy">
+    <div class="cap">Manage Endowments - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-1bdefe7d-266e-4b95-8f83-c2539d0148ab].html" data-title="manage erasmus+ mobility - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-1bdefe7d-266e-4b95-8f83-c2539d0148ab].png" alt="Manage Erasmus+ Mobility - Context" loading="lazy">
+    <div class="cap">Manage Erasmus+ Mobility - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-b334c94a-a2ff-449e-869e-70a0960b4aca].html" data-title="manage financial relationships - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-b334c94a-a2ff-449e-869e-70a0960b4aca].png" alt="Manage Financial Relationships - Context" loading="lazy">
+    <div class="cap">Manage Financial Relationships - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-54df2c7e-67f4-4959-8243-c1c192a5cf63].html" data-title="manage pledges and gifts - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-54df2c7e-67f4-4959-8243-c1c192a5cf63].png" alt="Manage Pledges and Gifts - Context" loading="lazy">
+    <div class="cap">Manage Pledges and Gifts - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-fea4c7b7-058d-4326-a804-3451a3d9276e].html" data-title="manage project - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-fea4c7b7-058d-4326-a804-3451a3d9276e].png" alt="Manage Project - Context" loading="lazy">
+    <div class="cap">Manage Project - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-58101092-095e-42fc-a263-ddc537d93a84].html" data-title="manage state funding and enrollment quotas - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-58101092-095e-42fc-a263-ddc537d93a84].png" alt="Manage State Funding and Enrollment Quotas - Context" loading="lazy">
+    <div class="cap">Manage State Funding and Enrollment Quotas - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-99e8ec1c-bd58-4c5a-b20b-ac6b885c1253].html" data-title="market research and analysis - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-99e8ec1c-bd58-4c5a-b20b-ac6b885c1253].png" alt="Market Research and Analysis - Context" loading="lazy">
+    <div class="cap">Market Research and Analysis - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-4d75a20e-4723-4e0a-b0f8-c439ccd4037f].html" data-title="measure program effectiveness - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-4d75a20e-4723-4e0a-b0f8-c439ccd4037f].png" alt="Measure Program Effectiveness - Context" loading="lazy">
+    <div class="cap">Measure Program Effectiveness - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-23e7115f-0500-4038-95a8-21e2597ef3b0].html" data-title="monitor compliance - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-23e7115f-0500-4038-95a8-21e2597ef3b0].png" alt="Monitor Compliance - Context" loading="lazy">
+    <div class="cap">Monitor Compliance - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d].html" data-title="multi-channel sales - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d].png" alt="Multi-Channel Sales - Context" loading="lazy">
+    <div class="cap">Multi-Channel Sales - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-4d2511d9-a1f7-4fd0-aa32-3792735a926a].html" data-title="plan curriculum and courses - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-4d2511d9-a1f7-4fd0-aa32-3792735a926a].png" alt="Plan Curriculum and Courses - Context" loading="lazy">
+    <div class="cap">Plan Curriculum and Courses - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-85305cf8-0cba-49a6-a668-a99f37128a68].html" data-title="plan programs - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-85305cf8-0cba-49a6-a668-a99f37128a68].png" alt="Plan Programs - Context" loading="lazy">
+    <div class="cap">Plan Programs - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-f02c8a55-396b-4810-ab8a-cea744018b10].html" data-title="plan recruiting initiatives - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-f02c8a55-396b-4810-ab8a-cea744018b10].png" alt="Plan Recruiting Initiatives - Context" loading="lazy">
+    <div class="cap">Plan Recruiting Initiatives - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-a711bf13-8d88-4d21-8410-ab448500566a].html" data-title="price and commission management - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-a711bf13-8d88-4d21-8410-ab448500566a].png" alt="Price and Commission Management - Context" loading="lazy">
+    <div class="cap">Price and Commission Management - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-05994d0d-610b-45e2-b8c2-a60663547d24].html" data-title="profitability analysis - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-05994d0d-610b-45e2-b8c2-a60663547d24].png" alt="Profitability Analysis - Context" loading="lazy">
+    <div class="cap">Profitability Analysis - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-a1b2e963-145c-42d9-a3b0-fdaff60f0fc3].html" data-title="proposal and application - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-a1b2e963-145c-42d9-a3b0-fdaff60f0fc3].png" alt="Proposal and Application - Context" loading="lazy">
+    <div class="cap">Proposal and Application - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-3c048211-0449-40be-a766-678a749f7390].html" data-title="provide housing and auxiliary services - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-3c048211-0449-40be-a766-678a749f7390].png" alt="Provide Housing and Auxiliary Services - Context" loading="lazy">
+    <div class="cap">Provide Housing and Auxiliary Services - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-8abb076b-05fc-4e17-8f75-51b43cf80016].html" data-title="provide information and advice - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-8abb076b-05fc-4e17-8f75-51b43cf80016].png" alt="Provide Information and Advice - Context" loading="lazy">
+    <div class="cap">Provide Information and Advice - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-51cd6874-501c-40ec-b797-8d46bc6d2240].html" data-title="receive funding - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-51cd6874-501c-40ec-b797-8d46bc6d2240].png" alt="Receive Funding - Context" loading="lazy">
+    <div class="cap">Receive Funding - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-9475e03b-21b2-44ad-a009-25c3be831b1e].html" data-title="recognize foreign qualifications - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-9475e03b-21b2-44ad-a009-25c3be831b1e].png" alt="Recognize Foreign Qualifications - Context" loading="lazy">
+    <div class="cap">Recognize Foreign Qualifications - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef].html" data-title="recruit prospects - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef].png" alt="Recruit Prospects - Context" loading="lazy">
+    <div class="cap">Recruit Prospects - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-ebfac6ac-707e-497a-b678-abc00810b609].html" data-title="sales force management - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-ebfac6ac-707e-497a-b678-abc00810b609].png" alt="Sales Force Management - Context" loading="lazy">
+    <div class="cap">Sales Force Management - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-52f6b145-944f-43d6-8dff-7f43ef37bc51].html" data-title="sales planning and forecasting - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-52f6b145-944f-43d6-8dff-7f43ef37bc51].png" alt="Sales Planning and Forecasting - Context" loading="lazy">
+    <div class="cap">Sales Planning and Forecasting - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-1ca721ed-d3db-46c1-8ad3-1680c683cace].html" data-title="schedule classes - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-1ca721ed-d3db-46c1-8ad3-1680c683cace].png" alt="Schedule Classes - Context" loading="lazy">
+    <div class="cap">Schedule Classes - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-cbacfae9-ac1b-47fa-9b0f-25a035e0e5c8].html" data-title="schedule resources and facilities - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-cbacfae9-ac1b-47fa-9b0f-25a035e0e5c8].png" alt="Schedule Resources and Facilities - Context" loading="lazy">
+    <div class="cap">Schedule Resources and Facilities - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-6f1e97f2-f962-4853-b211-ad1f254d6ecc].html" data-title="segment customers - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-6f1e97f2-f962-4853-b211-ad1f254d6ecc].png" alt="Segment Customers - Context" loading="lazy">
+    <div class="cap">Segment Customers - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-capability_context-[id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9].html" data-title="solicit prospects - context" data-type="capability_context">
+    <img class="thumb" src="../images/view-capability_context-[id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9].png" alt="Solicit Prospects - Context" loading="lazy">
+    <div class="cap">Solicit Prospects - Context</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-value_stream_context-[vs-call-to-grant-closeout].html" data-title="call-to-grant-closeout" data-type="value_stream_context">
+    <img class="thumb" src="../images/view-value_stream_context-[vs-call-to-grant-closeout].png" alt="Call-to-Grant-Closeout" loading="lazy">
+    <div class="cap">Call-to-Grant-Closeout</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-value_stream_context-[vs-campaign-to-profitability].html" data-title="campaign-to-profitability" data-type="value_stream_context">
+    <img class="thumb" src="../images/view-value_stream_context-[vs-campaign-to-profitability].png" alt="Campaign-to-Profitability" loading="lazy">
+    <div class="cap">Campaign-to-Profitability</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-value_stream_context-[vs-curriculum-to-class-schedule].html" data-title="curriculum-to-class-schedule" data-type="value_stream_context">
+    <img class="thumb" src="../images/view-value_stream_context-[vs-curriculum-to-class-schedule].png" alt="Curriculum-to-Class-Schedule" loading="lazy">
+    <div class="cap">Curriculum-to-Class-Schedule</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-value_stream_context-[vs-donor-prospect-to-endowment].html" data-title="donor-prospect-to-endowment" data-type="value_stream_context">
+    <img class="thumb" src="../images/view-value_stream_context-[vs-donor-prospect-to-endowment].png" alt="Donor-Prospect-to-Endowment" loading="lazy">
+    <div class="cap">Donor-Prospect-to-Endowment</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-value_stream_context-[vs-enrollment-to-graduation].html" data-title="enrollment-to-graduation" data-type="value_stream_context">
+    <img class="thumb" src="../images/view-value_stream_context-[vs-enrollment-to-graduation].png" alt="Enrollment-to-Graduation" loading="lazy">
+    <div class="cap">Enrollment-to-Graduation</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-value_stream_context-[vs-enrollment-to-paid-tuition].html" data-title="enrollment-to-paid-tuition" data-type="value_stream_context">
+    <img class="thumb" src="../images/view-value_stream_context-[vs-enrollment-to-paid-tuition].png" alt="Enrollment-to-Paid-Tuition" loading="lazy">
+    <div class="cap">Enrollment-to-Paid-Tuition</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-value_stream_context-[vs-issue-report-to-resolution].html" data-title="issue-report-to-resolution" data-type="value_stream_context">
+    <img class="thumb" src="../images/view-value_stream_context-[vs-issue-report-to-resolution].png" alt="Issue-Report-to-Resolution" loading="lazy">
+    <div class="cap">Issue-Report-to-Resolution</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-value_stream_context-[vs-programme-proposal-to-accreditation].html" data-title="programme-proposal-to-accreditation" data-type="value_stream_context">
+    <img class="thumb" src="../images/view-value_stream_context-[vs-programme-proposal-to-accreditation].png" alt="Programme-Proposal-to-Accreditation" loading="lazy">
+    <div class="cap">Programme-Proposal-to-Accreditation</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-value_stream_context-[vs-prospect-to-enrollment].html" data-title="prospect-to-enrollment" data-type="value_stream_context">
+    <img class="thumb" src="../images/view-value_stream_context-[vs-prospect-to-enrollment].png" alt="Prospect-to-Enrollment" loading="lazy">
+    <div class="cap">Prospect-to-Enrollment</div>
+  </a>
+  <a class="tile" target="view" href="../views/view-value_stream_context-[vs-sales-plan-to-revenue].html" data-title="sales-plan-to-revenue" data-type="value_stream_context">
+    <img class="thumb" src="../images/view-value_stream_context-[vs-sales-plan-to-revenue].png" alt="Sales-Plan-to-Revenue" loading="lazy">
+    <div class="cap">Sales-Plan-to-Revenue</div>
+  </a>
+  <a class="tile" target="view" href="../views/id-mot-stkdiag-academic-and-non-academic-staff.html" data-title="academic and non-academic staff — motivation" data-type="stakeholder_motivation">
+    <img class="thumb" src="../images/id-mot-stkdiag-academic-and-non-academic-staff.png" alt="Academic and non-academic staff — Motivation" loading="lazy">
+    <div class="cap">Academic and non-academic staff — Motivation</div>
+  </a>
+  <a class="tile" target="view" href="../views/id-mot-stkdiag-commissioner-for-information-of-public-importance-and-personal-data-protection.html" data-title="commissioner for information of public importance and personal data protection — motivation" data-type="stakeholder_motivation">
+    <img class="thumb" src="../images/id-mot-stkdiag-commissioner-for-information-of-public-importance-and-personal-data-protection.png" alt="Commissioner for Information of Public Importance and Personal Data Protection — Motivation" loading="lazy">
+    <div class="cap">Commissioner for Information of Public Importance and Personal Data Protection — Motivation</div>
+  </a>
+  <a class="tile" target="view" href="../views/id-mot-stkdiag-employers.html" data-title="employers — motivation" data-type="stakeholder_motivation">
+    <img class="thumb" src="../images/id-mot-stkdiag-employers.png" alt="Employers — Motivation" loading="lazy">
+    <div class="cap">Employers — Motivation</div>
+  </a>
+  <a class="tile" target="view" href="../views/id-mot-stkdiag-facility-providers.html" data-title="facility providers — motivation" data-type="stakeholder_motivation">
+    <img class="thumb" src="../images/id-mot-stkdiag-facility-providers.png" alt="Facility providers — Motivation" loading="lazy">
+    <div class="cap">Facility providers — Motivation</div>
+  </a>
+  <a class="tile" target="view" href="../views/id-mot-stkdiag-ministry-responsible-for-higher-education.html" data-title="ministry responsible for higher education — motivation" data-type="stakeholder_motivation">
+    <img class="thumb" src="../images/id-mot-stkdiag-ministry-responsible-for-higher-education.png" alt="Ministry responsible for higher education — Motivation" loading="lazy">
+    <div class="cap">Ministry responsible for higher education — Motivation</div>
+  </a>
+  <a class="tile" target="view" href="../views/id-mot-stkdiag-national-accreditation-body.html" data-title="national accreditation body — motivation" data-type="stakeholder_motivation">
+    <img class="thumb" src="../images/id-mot-stkdiag-national-accreditation-body.png" alt="National Accreditation Body — Motivation" loading="lazy">
+    <div class="cap">National Accreditation Body — Motivation</div>
+  </a>
+  <a class="tile" target="view" href="../views/id-mot-stkdiag-partner-institutions.html" data-title="partner institutions — motivation" data-type="stakeholder_motivation">
+    <img class="thumb" src="../images/id-mot-stkdiag-partner-institutions.png" alt="Partner institutions — Motivation" loading="lazy">
+    <div class="cap">Partner institutions — Motivation</div>
+  </a>
+  <a class="tile" target="view" href="../views/id-mot-stkdiag-students.html" data-title="students — motivation" data-type="stakeholder_motivation">
+    <img class="thumb" src="../images/id-mot-stkdiag-students.png" alt="Students — Motivation" loading="lazy">
+    <div class="cap">Students — Motivation</div>
+  </a>
+  <a class="tile" target="view" href="../views/id-mot-view-navigation.html" data-title="stakeholder navigation" data-type="motivation_navigation">
+    <img class="thumb" src="../images/id-mot-view-navigation.png" alt="Stakeholder Navigation" loading="lazy">
+    <div class="cap">Stakeholder Navigation</div>
+  </a>
+</div>
+</main>
+<script>
+(function() {
+  var MODEL = "model-HIEDRS";
+  var sel = document.getElementById('type-filter');
+  var box = document.getElementById('search-box');
+  var cnt = document.getElementById('search-count') || document.getElementById('fbar-count');
+  var clr = document.getElementById('fbar-clear');
+  var tiles = Array.prototype.slice.call(document.querySelectorAll('a.tile'));
+  var grids = Array.prototype.slice.call(document.querySelectorAll('div.grid'));
+  var KT = 'lightbox.type.' + MODEL, KN = 'lightbox.name.' + MODEL;
+  function get(k) { try { return window.sessionStorage.getItem(k); } catch (e) { return null; } }
+  function put(k, v) { try { window.sessionStorage.setItem(k, v); } catch (e) {} }
+  function apply(save) {
+    var q = box ? box.value.trim().toLowerCase() : '';
+    var t = sel ? sel.value : '';
+    var shown = 0;
+    tiles.forEach(function(el) {
+      var ok = (!q || (el.dataset.title || '').indexOf(q) !== -1) && (!t || el.dataset.type === t);
+      el.classList.toggle('hidden', !ok);
+      if (ok) shown++;
+    });
+    grids.forEach(function(g) {
+      var vis = g.querySelector('a.tile:not(.hidden)');
+      g.classList.toggle('hidden', !vis);
+      var h = g.previousElementSibling;
+      if (h && h.tagName === 'H2') h.classList.toggle('hidden', !vis);
+    });
+    if (cnt) cnt.textContent = shown + ' of ' + tiles.length + ' diagrams';
+    if (save) { put(KT, t); if (box) put(KN, box.value); }
+  }
+  if (sel) {
+    var v = get(KT);
+    if (v) { for (var i = 0; i < sel.options.length; i++) { if (sel.options[i].value === v) { sel.value = v; break; } } }
+    sel.addEventListener('change', function() { apply(true); });
+  }
+  if (box) {
+    var n = get(KN);
+    if (n !== null) box.value = n;
+    box.addEventListener('input', function() { apply(true); });
+  }
+  if (clr) clr.addEventListener('click', function(e) {
+    e.preventDefault();
+    if (sel) sel.value = '';
+    if (box) box.value = '';
+    apply(true);
+  });
+  apply(false);
+  if (box) box.focus();
+})();
+</script>
+<script>
+(function() {
+  var r = document.getElementById('lb-sizeRange');
+  if (!r) return;
+  var K = 'lightbox.tile';
+  function set(v, save) {
+    v = Math.max(+r.min, Math.min(+r.max, +v));
+    r.value = v;
+    document.documentElement.style.setProperty('--tile', v + 'px');
+    if (save) { try { window.localStorage.setItem(K, v); } catch (e) {} }
+  }
+  var saved = null;
+  try { saved = window.localStorage.getItem(K); } catch (e) {}
+  set(saved || r.value, false);
+  r.addEventListener('input', function() { set(r.value, true); });
+  document.getElementById('lb-sizeDown').addEventListener('click', function() { set(+r.value - 40, true); });
+  document.getElementById('lb-sizeUp').addEventListener('click', function() { set(+r.value + 40, true); });
+})();
+</script>
+</body>
+</html>

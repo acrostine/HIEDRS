@@ -1,0 +1,5 @@
+source \ target,Diagnose/Resolve Issues,Manage Data Protection,Provide Information and Advice,OUT (row sum)
+Diagnose/Resolve Issues,0,1,1,2
+Manage Data Protection,0,0,0,0
+Provide Information and Advice,0,0,0,0
+IN (col sum),0,1,1,2

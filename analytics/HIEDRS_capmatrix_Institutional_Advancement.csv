@@ -1,0 +1,8 @@
+source \ target,Acknowledge Donors,Execute Fundraising Initiatives,Manage Contributors,Manage Endowments,Manage Pledges and Gifts,Solicit Prospects,OUT (row sum)
+Acknowledge Donors,0,0,1,0,0,0,1
+Execute Fundraising Initiatives,1,0,1,0,1,1,4
+Manage Contributors,1,1,0,0,0,1,3
+Manage Endowments,0,0,1,0,0,0,1
+Manage Pledges and Gifts,1,0,1,1,0,0,3
+Solicit Prospects,0,0,1,0,1,0,2
+IN (col sum),3,1,5,1,2,2,14

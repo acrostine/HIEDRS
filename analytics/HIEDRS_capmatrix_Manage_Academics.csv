@@ -1,0 +1,11 @@
+source \ target,Advise Students and Provide,Assistance,Effectiveness,Evaluate Academic Program,Evaluate Student Performance,Manage Accreditation and Quality Assurance,Plan Curriculum and Courses,Schedule Classes,Schedule Resources and Facilities,OUT (row sum)
+Advise Students and Provide,0,0,0,0,0,0,1,0,0,1
+Assistance,0,0,0,0,0,0,0,0,0,0
+Effectiveness,0,0,0,1,0,1,1,0,0,3
+Evaluate Academic Program,0,0,0,0,0,1,1,0,0,2
+Evaluate Student Performance,1,0,1,0,0,0,0,0,0,2
+Manage Accreditation and Quality Assurance,0,0,0,0,0,0,0,0,0,0
+Plan Curriculum and Courses,1,0,0,1,1,1,0,1,0,5
+Schedule Classes,1,0,0,0,0,0,0,0,1,2
+Schedule Resources and Facilities,0,0,0,0,0,0,0,0,0,0
+IN (col sum),3,0,1,2,1,3,3,1,1,15

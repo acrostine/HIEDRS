@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Segment Customers</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+	<!-- MARKDOWN -->
+	<script type="text/javascript" src="../../lib/marked/marked.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Segment Customers</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-Capability"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Capability" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="markdown-doc"><script type="text/plain">**New leads and survey responses arrive.** The marketing team groups these prospects into segments for targeted campaigns and lead prioritisation. Personal data is cleansed and pseudonymised where required before any segmentation happens. Records without a consent timestamp or source are rejected, so no individual is assigned to a segment without a lawful basis. A segment with fewer than ten leads is not used, keeping campaign effort focused on groups large enough to act on.
+
+**The outputs go to the campaign team.** This work depends on consent-carrying Prospective Student Data and complete Survey Responses, and it produces a Customer Segment Profile and a Segment Assignment Rule for campaign planning. Segmentation on personal data adheres to the Serbian Law on Personal Data Protection, and cross-border segmentation for joint programmes meets GDPR requirements, including data minimisation and pseudonymisation.
+
+**Lead Scoring Model checked yearly.** Every year, the model is compared against actual enrolment outcomes. If it no longer predicts enrolment, it is retired. That keeps lead prioritisation tied to whether a prospect actually converts.
+
+### Key processes
+- Define Segmentation Criteria
+- Create Prospect Segment
+- Score Prospective Student Lead
+- Assign Leads to Campaign
+- Update Segment with New Data
+- Monitor Segment Conversion
+- Pseudonymise Personal Data
+- Validate Segment Accuracy</script></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-view-domain_capabilities-[id-bd24036d-055c-476f-8c7c-ada1e2d8ebac]">
+																	<td><a href="../views/view-domain_capabilities-[id-bd24036d-055c-476f-8c7c-ada1e2d8ebac].html" target="view" title="Marketing - Capabilities"> Marketing - Capabilities </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-view-capability_context-[id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef]">
+																	<td><a href="../views/view-capability_context-[id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef].html" target="view" title="Recruit Prospects - Context"> Recruit Prospects - Context </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-view-capability_context-[id-c442ac23-7d84-40ae-83f0-05cbdd824769]">
+																	<td><a href="../views/view-capability_context-[id-c442ac23-7d84-40ae-83f0-05cbdd824769].html" target="view" title="Execute Programs - Context"> Execute Programs - Context </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-id-mot-stkdiag-students">
+																	<td><a href="../views/id-mot-stkdiag-students.html" target="view" title="Students &#8212; Motivation"> Students &#8212; Motivation </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-view-elements_map-[HIEDRS]">
+																	<td><a href="../views/view-elements_map-[HIEDRS].html" target="view" title="Elements Map"> Elements Map </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-view-capability_context-[id-6f1e97f2-f962-4853-b211-ad1f254d6ecc]">
+																	<td><a href="../views/view-capability_context-[id-6f1e97f2-f962-4853-b211-ad1f254d6ecc].html" target="view" title="Segment Customers - Context"> Segment Customers - Context </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-view-capabilities_overview-[HIEDRS]">
+																	<td><a href="../views/view-capabilities_overview-[HIEDRS].html" target="view" title="Capabilities Overview"> Capabilities Overview </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-view-domain_capabilities-[id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58]">
+																	<td><a href="../views/view-domain_capabilities-[id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58].html" target="view" title="Manage Students - Capabilities"> Manage Students - Capabilities </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-view-value_stream_context-[vs-campaign-to-profitability]">
+																	<td><a href="../views/view-value_stream_context-[vs-campaign-to-profitability].html" target="view" title="Campaign-to-Profitability"> Campaign-to-Profitability </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/rel-flow-hiedrs-0046.html" target="element" title="Lead Scoring Model">Lead Scoring Model</a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-6f1e97f2-f962-4853-b211-ad1f254d6ecc.html" target="element"> Segment Customers</a></td>
+											<td><a href="../elements/id-c442ac23-7d84-40ae-83f0-05cbdd824769.html" target="element"> Execute Programs</a></td>
+										</tr><tr>
+											<td><a href="../elements/rel-mot-hiedrs-0080.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-InfluenceRelationship" /></td>
+											<td><a href="../elements/id-6f1e97f2-f962-4853-b211-ad1f254d6ecc.html" target="element"> Segment Customers</a></td>
+											<td><a href="../elements/gl-marketing-accredited-demand.html" target="element"> Promote only accredited programmes and generate qualified demand</a></td>
+										</tr><tr>
+											<td><a href="../elements/rel-vs-hiedrs-0003.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-ServingRelationship" /></td>
+											<td><a href="../elements/id-6f1e97f2-f962-4853-b211-ad1f254d6ecc.html" target="element"> Segment Customers</a></td>
+											<td><a href="../elements/vs-campaign-to-profitability.html" target="element"> Campaign-to-Profitability</a></td>
+										</tr><tr>
+											<td><a href="../elements/rel-vstrig-hiedrs-0003.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-TriggeringRelationship" /></td>
+											<td><a href="../elements/id-6f1e97f2-f962-4853-b211-ad1f254d6ecc.html" target="element"> Segment Customers</a></td>
+											<td><a href="../elements/id-c442ac23-7d84-40ae-83f0-05cbdd824769.html" target="element"> Execute Programs</a></td>
+										</tr>
+									<tr>
+											<td><a href="../elements/rel-comp-id-6f1e97f2-f962-4853-b211-ad1f254d6ecc.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
+											<td><a href="../elements/id-bd24036d-055c-476f-8c7c-ada1e2d8ebac.html" target="element"> Marketing</a></td>
+											<td><a href="../elements/id-6f1e97f2-f962-4853-b211-ad1f254d6ecc.html" target="element"> Segment Customers</a></td>
+										</tr><tr>
+											<td><a href="../elements/rel-flow-hiedrs-0049.html" target="element" title="Prospect Record">Prospect Record</a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef.html" target="element"> Recruit Prospects</a></td>
+											<td><a href="../elements/id-6f1e97f2-f962-4853-b211-ad1f254d6ecc.html" target="element"> Segment Customers</a></td>
+										</tr><tr>
+											<td><a href="../elements/rel-flow-hiedrs-0050.html" target="element" title="Engagement Metric Set">Engagement Metric Set</a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-c442ac23-7d84-40ae-83f0-05cbdd824769.html" target="element"> Execute Programs</a></td>
+											<td><a href="../elements/id-6f1e97f2-f962-4853-b211-ad1f254d6ecc.html" target="element"> Segment Customers</a></td>
+										</tr><tr>
+											<td><a href="../elements/rel-vstrig-hiedrs-0002.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-TriggeringRelationship" /></td>
+											<td><a href="../elements/id-85305cf8-0cba-49a6-a668-a99f37128a68.html" target="element"> Plan Programs</a></td>
+											<td><a href="../elements/id-6f1e97f2-f962-4853-b211-ad1f254d6ecc.html" target="element"> Segment Customers</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

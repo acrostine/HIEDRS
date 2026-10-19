@@ -1,0 +1,9 @@
+source \ target,Account Management,Customer Portfolio Management,Lead and Opportunity Management,Multi-Channel Sales,Price and Commission Management,Sales Force Management,Sales Planning and Forecasting,OUT (row sum)
+Account Management,0,1,0,0,1,0,0,2
+Customer Portfolio Management,1,0,0,0,0,1,0,2
+Lead and Opportunity Management,1,0,0,0,0,0,1,2
+Multi-Channel Sales,1,0,0,0,0,0,0,1
+Price and Commission Management,1,0,0,1,0,1,0,3
+Sales Force Management,1,0,0,0,0,0,0,1
+Sales Planning and Forecasting,0,0,0,1,0,1,0,2
+IN (col sum),5,1,0,2,1,3,1,13

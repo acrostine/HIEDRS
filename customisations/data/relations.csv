@@ -1,0 +1,1702 @@
+"ID","Type","Name","Documentation","Source","Target","Specialization"
+"rel-comp-id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009","CompositionRelationship","","","id-ae0ab1dc-95a9-4226-8013-05a65cb447de","id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009",""
+"rel-comp-id-8abb076b-05fc-4e17-8f75-51b43cf80016","CompositionRelationship","","","id-ae0ab1dc-95a9-4226-8013-05a65cb447de","id-8abb076b-05fc-4e17-8f75-51b43cf80016",""
+"rel-comp-id-a4637e89-2929-4077-a22a-d756585cb025","CompositionRelationship","","","id-32ef1aee-f646-4fb4-8a01-90c553ac705a","id-a4637e89-2929-4077-a22a-d756585cb025",""
+"rel-comp-id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3","CompositionRelationship","","","id-32ef1aee-f646-4fb4-8a01-90c553ac705a","id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3",""
+"rel-comp-id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2","CompositionRelationship","","","id-32ef1aee-f646-4fb4-8a01-90c553ac705a","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2",""
+"rel-comp-id-a398a43a-7375-47d1-af1b-49bf78188b6c","CompositionRelationship","","","id-32ef1aee-f646-4fb4-8a01-90c553ac705a","id-a398a43a-7375-47d1-af1b-49bf78188b6c",""
+"rel-comp-id-54df2c7e-67f4-4959-8243-c1c192a5cf63","CompositionRelationship","","","id-32ef1aee-f646-4fb4-8a01-90c553ac705a","id-54df2c7e-67f4-4959-8243-c1c192a5cf63",""
+"rel-comp-id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9","CompositionRelationship","","","id-32ef1aee-f646-4fb4-8a01-90c553ac705a","id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9",""
+"rel-comp-id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651","CompositionRelationship","","","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651",""
+"rel-comp-id-c442ac23-7d84-40ae-83f0-05cbdd824769","CompositionRelationship","","","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","id-c442ac23-7d84-40ae-83f0-05cbdd824769",""
+"rel-comp-id-99e8ec1c-bd58-4c5a-b20b-ac6b885c1253","CompositionRelationship","","","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","id-99e8ec1c-bd58-4c5a-b20b-ac6b885c1253",""
+"rel-comp-id-4d75a20e-4723-4e0a-b0f8-c439ccd4037f","CompositionRelationship","","","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","id-4d75a20e-4723-4e0a-b0f8-c439ccd4037f",""
+"rel-comp-id-85305cf8-0cba-49a6-a668-a99f37128a68","CompositionRelationship","","","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","id-85305cf8-0cba-49a6-a668-a99f37128a68",""
+"rel-comp-id-05994d0d-610b-45e2-b8c2-a60663547d24","CompositionRelationship","","","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","id-05994d0d-610b-45e2-b8c2-a60663547d24",""
+"rel-comp-id-6f1e97f2-f962-4853-b211-ad1f254d6ecc","CompositionRelationship","","","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","id-6f1e97f2-f962-4853-b211-ad1f254d6ecc",""
+"rel-comp-id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b","CompositionRelationship","","","id-c60c95fc-180b-4784-9b6f-08c912f70dce","id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b",""
+"rel-comp-id-1db93bd4-1dfe-459a-8324-c55dee07ec4f","CompositionRelationship","","","id-c60c95fc-180b-4784-9b6f-08c912f70dce","id-1db93bd4-1dfe-459a-8324-c55dee07ec4f",""
+"rel-comp-id-fea4c7b7-058d-4326-a804-3451a3d9276e","CompositionRelationship","","","id-c60c95fc-180b-4784-9b6f-08c912f70dce","id-fea4c7b7-058d-4326-a804-3451a3d9276e",""
+"rel-comp-id-23e7115f-0500-4038-95a8-21e2597ef3b0","CompositionRelationship","","","id-c60c95fc-180b-4784-9b6f-08c912f70dce","id-23e7115f-0500-4038-95a8-21e2597ef3b0",""
+"rel-comp-id-a1b2e963-145c-42d9-a3b0-fdaff60f0fc3","CompositionRelationship","","","id-c60c95fc-180b-4784-9b6f-08c912f70dce","id-a1b2e963-145c-42d9-a3b0-fdaff60f0fc3",""
+"rel-comp-id-51cd6874-501c-40ec-b797-8d46bc6d2240","CompositionRelationship","","","id-c60c95fc-180b-4784-9b6f-08c912f70dce","id-51cd6874-501c-40ec-b797-8d46bc6d2240",""
+"rel-comp-id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d",""
+"rel-comp-id-2e6834a2-c238-4cf4-989a-cca3222baa9f","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-2e6834a2-c238-4cf4-989a-cca3222baa9f",""
+"rel-comp-id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3",""
+"rel-comp-id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10",""
+"rel-comp-id-d6e5d220-7427-459d-b8f4-8fae0c27c848","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-d6e5d220-7427-459d-b8f4-8fae0c27c848",""
+"rel-comp-id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca",""
+"rel-comp-id-b334c94a-a2ff-449e-869e-70a0960b4aca","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-b334c94a-a2ff-449e-869e-70a0960b4aca",""
+"rel-comp-id-f02c8a55-396b-4810-ab8a-cea744018b10","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-f02c8a55-396b-4810-ab8a-cea744018b10",""
+"rel-comp-id-3c048211-0449-40be-a766-678a749f7390","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-3c048211-0449-40be-a766-678a749f7390",""
+"rel-comp-id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef",""
+"rel-comp-id-d7a1670b-5b1f-4419-a987-19f2b699fecb","CompositionRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-d7a1670b-5b1f-4419-a987-19f2b699fecb",""
+"rel-comp-id-4a109615-89b7-4d83-9527-666fb431ad35","CompositionRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-4a109615-89b7-4d83-9527-666fb431ad35",""
+"rel-comp-id-8b80a6ea-0dfa-4673-9eab-027449e3bf84","CompositionRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-8b80a6ea-0dfa-4673-9eab-027449e3bf84",""
+"rel-comp-id-d8e4c197-826c-4d16-8f57-a29cd7b40c14","CompositionRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-d8e4c197-826c-4d16-8f57-a29cd7b40c14",""
+"rel-comp-id-8fcac125-67c1-46c5-b3a6-0cb03f136833","CompositionRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-8fcac125-67c1-46c5-b3a6-0cb03f136833",""
+"rel-comp-id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","CompositionRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a",""
+"rel-comp-id-1ca721ed-d3db-46c1-8ad3-1680c683cace","CompositionRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-1ca721ed-d3db-46c1-8ad3-1680c683cace",""
+"rel-comp-id-cbacfae9-ac1b-47fa-9b0f-25a035e0e5c8","CompositionRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-cbacfae9-ac1b-47fa-9b0f-25a035e0e5c8",""
+"rel-comp-id-e5bf6235-0851-40cc-9e21-86b9fbcaac81","CompositionRelationship","","","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81",""
+"rel-comp-id-6d5adb53-67bb-47a3-86a7-6157091b49aa","CompositionRelationship","","","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a","id-6d5adb53-67bb-47a3-86a7-6157091b49aa",""
+"rel-comp-id-a609d67d-c8e5-42b1-86fb-23647dc01b52","CompositionRelationship","","","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a","id-a609d67d-c8e5-42b1-86fb-23647dc01b52",""
+"rel-comp-id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d","CompositionRelationship","","","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a","id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d",""
+"rel-comp-id-a711bf13-8d88-4d21-8410-ab448500566a","CompositionRelationship","","","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a","id-a711bf13-8d88-4d21-8410-ab448500566a",""
+"rel-comp-id-ebfac6ac-707e-497a-b678-abc00810b609","CompositionRelationship","","","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a","id-ebfac6ac-707e-497a-b678-abc00810b609",""
+"rel-comp-id-52f6b145-944f-43d6-8dff-7f43ef37bc51","CompositionRelationship","","","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a","id-52f6b145-944f-43d6-8dff-7f43ef37bc51",""
+"rel-comp-id-a6bbc833-d30e-460f-9df3-0ebe783e8f43","CompositionRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-a6bbc833-d30e-460f-9df3-0ebe783e8f43",""
+"rel-comp-id-9475e03b-21b2-44ad-a009-25c3be831b1e","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-9475e03b-21b2-44ad-a009-25c3be831b1e",""
+"rel-comp-id-1bdefe7d-266e-4b95-8f83-c2539d0148ab","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-1bdefe7d-266e-4b95-8f83-c2539d0148ab",""
+"rel-comp-id-7867ed7a-a6c0-499b-a13e-41619962e307","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-7867ed7a-a6c0-499b-a13e-41619962e307",""
+"rel-comp-id-f7b60e7c-3f68-40f5-9f7d-335d13dd7c1c","CompositionRelationship","","","id-ae0ab1dc-95a9-4226-8013-05a65cb447de","id-f7b60e7c-3f68-40f5-9f7d-335d13dd7c1c",""
+"rel-comp-id-58101092-095e-42fc-a263-ddc537d93a84","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-58101092-095e-42fc-a263-ddc537d93a84",""
+"rel-comp-id-703c3278-af18-4e57-8bd0-ef52b23dc077","CompositionRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-703c3278-af18-4e57-8bd0-ef52b23dc077",""
+"rel-flow-hiedrs-0000","FlowRelationship","Proposal","Content
+The final technical narrative and budget packet, internally endorsed, with the sponsor's required annexes and signatures, in submission-ready state.
+
+Trigger
+The application is certified complete by the proposal team and assigned for institutional review and potential award acceptance.
+
+Unlocks
+Approval and Award can compare sponsor terms to the proposed scope and budget, decide whether terms are acceptable, and prepare for contract negotiation.
+
+Without this
+There is no agreed technical and financial baseline, so Approval and Award cannot determine if the eventual award deviates from what was proposed or whether institutional endorsements cover the work.","id-a1b2e963-145c-42d9-a3b0-fdaff60f0fc3","id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b",""
+"rel-flow-hiedrs-0001","FlowRelationship","Executed Grant Agreement","Content
+The signed grant agreement with start date, budget ceiling, statement of work, deliverable milestones, payment schedule, and indirect cost rate, in force once both sponsor and institutional signatory have signed.
+
+Trigger
+Both the sponsor and the authorized institutional signatory sign the grant agreement.
+
+Unlocks
+Manage Project can assign project roles, begin work against the budget and milestones, and establish the project record.
+
+Without this
+The project manager cannot authorize any grant-funded activity, no budget lines are available, and no milestone schedule exists to track delivery.","id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b","id-fea4c7b7-058d-4326-a804-3451a3d9276e",""
+"rel-flow-hiedrs-0002","FlowRelationship","Executed Grant Agreement","Content
+The signed grant agreement with budget categories, payment conditions, and sponsor reference details, delivered to the billing office.
+
+Trigger
+The grant agreement is executed and the billing unit is notified to set up invoicing.
+
+Unlocks
+Bill Sponsor can verify allowable costs against the agreement's budget lines, calculate sponsor share, and issue invoices that match sponsor payment terms.
+
+Without this
+The billing unit lacks the legal basis to allocate costs or issue invoices, so no sponsor payment can be requested.","id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b","id-1db93bd4-1dfe-459a-8324-c55dee07ec4f",""
+"rel-flow-hiedrs-0003","FlowRelationship","Executed Grant Agreement","Content
+The signed grant agreement in force, including sponsor terms, reporting deadlines, ethics approvals, and data protection clauses.
+
+Trigger
+Execution of the grant agreement triggers distribution to the compliance function for baseline records.
+
+Unlocks
+Monitor Compliance can test every expense, activity report, and data protection record against the specific sponsor terms and applicable law.
+
+Without this
+The compliance function has no standard to detect violations, so noncompliance may go unnoticed until a sponsor audit.","id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b","id-23e7115f-0500-4038-95a8-21e2597ef3b0",""
+"rel-flow-hiedrs-0004","FlowRelationship","Grant Award Record","Content
+The official award record identifying the grant, sponsor, budget ceiling, cost share requirements, and institutional ownership under the correct legal entity.
+
+Trigger
+The award is recorded upon execution of the grant agreement.
+
+Unlocks
+Receive Funding can match incoming sponsor payments to the correct award and ensure public and sponsor funds remain separately allocated.
+
+Without this
+Incoming payments cannot be attributed to a grant, and funds may be posted to the wrong budget or violate public finance traceability.","id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b","id-51cd6874-501c-40ec-b797-8d46bc6d2240",""
+"rel-flow-hiedrs-0005","FlowRelationship","Milestone Completion Certificate","Content
+A certificate stating the milestone number from the grant agreement, confirmation the deliverable was accepted, and the date of completion, signed by the project manager.
+
+Trigger
+A project milestone is completed, reviewed, and accepted by the project manager.
+
+Unlocks
+Bill Sponsor can prepare and submit a milestone-based Payment Request to the sponsor for payment.
+
+Without this
+The billing unit cannot request milestone payments, so cash for the project is delayed and the sponsor may not recognize progress.","id-fea4c7b7-058d-4326-a804-3451a3d9276e","id-1db93bd4-1dfe-459a-8324-c55dee07ec4f",""
+"rel-flow-hiedrs-0006","FlowRelationship","Project Progress Report","Content
+A report covering work performed in the period, milestone completion status, budget variance explanation, and next-period plan, signed by the responsible academic.
+
+Trigger
+The sponsor-required reporting period closes and the project manager submits the progress report.
+
+Unlocks
+Monitor Compliance can check that activities match the agreed work plan, reporting deadlines are met, and deviations are identified for corrective action.
+
+Without this
+The compliance function cannot assess whether the project is performing within the grant terms and must rely on unaudited verbal assurances.","id-fea4c7b7-058d-4326-a804-3451a3d9276e","id-23e7115f-0500-4038-95a8-21e2597ef3b0",""
+"rel-flow-hiedrs-0007","FlowRelationship","Sponsor Invoice","Content
+The sponsor invoice with a unique invoice number, sponsor reference, amount, currency, and budget line allocations, issued after expenditures are verified and cost share documented.
+
+Trigger
+Approved expenditure report and cost share certification are complete, and the billing unit issues the invoice.
+
+Unlocks
+Receive Funding can match a sponsor payment to this invoice, record the cash receipt, and allocate the amount to the correct grant budget lines.
+
+Without this
+Sponsor payments arrive without reference, become unidentified, and cannot be posted to the grant, leaving project accounts unreconciled.","id-1db93bd4-1dfe-459a-8324-c55dee07ec4f","id-51cd6874-501c-40ec-b797-8d46bc6d2240",""
+"rel-flow-hiedrs-0008","FlowRelationship","Allocation Record","Content
+A record showing each sponsor payment matched to a grant award, posted to budget lines, and separated from state-funded or self-financing student fees.
+
+Trigger
+A sponsor payment is matched to an invoice and posted to the grant budget.
+
+Unlocks
+Monitor Compliance can verify that state and sponsor funds are not mixed and that public finance traceability is preserved.
+
+Without this
+There is no auditable evidence of fund separation, creating a compliance violation risk and undermining the institution's accountability.","id-51cd6874-501c-40ec-b797-8d46bc6d2240","id-23e7115f-0500-4038-95a8-21e2597ef3b0",""
+"rel-flow-hiedrs-0009","FlowRelationship","Corrective Action Plan","Content
+A remediation plan issued by the compliance function, describing required actions, owner, and timeline to correct a noncompliance found in grant activity.
+
+Trigger
+A Noncompliance Finding is detected and a corrective action plan is issued.
+
+Unlocks
+Manage Project can incorporate the corrective actions into the project plan and adjust execution to regain compliance.
+
+Without this
+Identified noncompliance is not remediated, exposing the grant to sponsor disallowance or termination.","id-23e7115f-0500-4038-95a8-21e2597ef3b0","id-fea4c7b7-058d-4326-a804-3451a3d9276e",""
+"rel-flow-hiedrs-0010","FlowRelationship","Cash Receipt","Content
+The recorded cash receipt for a sponsor payment, with date, amount, currency, award reference, and budget line allocation, returned to the billing function.
+
+Trigger
+Receive Funding records the Cash Receipt after matching a sponsor payment to a Sponsor Invoice.
+
+Unlocks
+Bill Sponsor can reconcile the paid invoice and close the receivable.
+
+Without this
+The billing unit may continue to pursue a paid invoice and cannot reconcile sponsor accounts.","id-51cd6874-501c-40ec-b797-8d46bc6d2240","id-1db93bd4-1dfe-459a-8324-c55dee07ec4f",""
+"rel-flow-hiedrs-0011","FlowRelationship","Approved Expenditure Report","Content
+A compliance-checked expenditure report for grant costs, with disallowed costs removed and budget line allocations verified against the grant terms.
+
+Trigger
+Monitor Compliance completes expense allowability checks and issues the report to billing.
+
+Unlocks
+Bill Sponsor can prepare accurate Sponsor Invoices based on only allowable, verified expenditures.
+
+Without this
+The billing function lacks a verified expenditure base and may invoice costs that the sponsor later disallows.","id-23e7115f-0500-4038-95a8-21e2597ef3b0","id-1db93bd4-1dfe-459a-8324-c55dee07ec4f",""
+"rel-flow-hiedrs-0012","FlowRelationship","Enrolment Target Plan","Content
+The Enrolment Target Plan leaves Define Marketing Strategy as an approved, programme-level set of intake targets by funding type for the recruitment cycle, aligned to state-funded quotas and self-financing capacity.
+
+Trigger
+Marketing strategy is approved or an enrolment quota decision is published.
+
+Unlocks
+Sales Planning and Forecasting can allocate sold quota by programme and channel, set sales targets and align revenue forecasts with the institution's enrolment goals.
+
+Without this
+Sales planning would have no marketing-derived intake goals, forcing it to forecast solely from historical sales and miss strategic shifts.","id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651","id-52f6b145-944f-43d6-8dff-7f43ef37bc51",""
+"rel-flow-hiedrs-0013","FlowRelationship","Price List","Content
+The current approved Price List for each accredited study programme and service, showing self-financing tuition and the distinction from state-funded places. It is fully authorised and versioned when it leaves Price and Commission Management.
+
+Trigger
+A fee governance decision is approved or a recruitment cycle begins.
+
+Unlocks
+Multi-Channel Sales can publish the Price List to each channel, validate incoming customer orders against correct fees, and compute channel commissions for completed sales.
+
+Without this
+Multi-Channel Sales quotes outdated or conflicting fees, causing customer refusals, pricing disputes, and invalid sales orders.","id-a711bf13-8d88-4d21-8410-ab448500566a","id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d",""
+"rel-flow-hiedrs-0014","FlowRelationship","Territory Target","Content
+Territory Target contains revenue and enrolment targets for each sales territory or segment, derived from the approved Sales Plan and constrained by ministry-fixed quotas.
+
+Trigger
+Sales Planning and Forecasting finalises the Sales Plan for the recruitment cycle.
+
+Unlocks
+Sales Force Management can assign quantitative targets to salespeople, monitor performance, and later calculate incentives against actual results.
+
+Without this
+The sales force operates without measurable goals, making performance evaluation and incentive payment arbitrary and undermining revenue planning.","id-52f6b145-944f-43d6-8dff-7f43ef37bc51","id-ebfac6ac-707e-497a-b678-abc00810b609",""
+"rel-flow-hiedrs-0015","FlowRelationship","Sold Quota Allocation","Content
+Sold Quota Allocation specifies the remaining and allocated self-financing quota by study programme and sales channel, aligned with the ministry-approved enrolment quota and academic calendar.
+
+Trigger
+The ministry quota decision is published and Sales Planning allocates quota across programmes and channels.
+
+Unlocks
+Multi-Channel Sales can validate each customer order against available quota, reserve a seat or cohort place, and reject orders that exceed the allocation.
+
+Without this
+Channels oversell the same programme, producing conflicting confirmations and forcing the institution to refuse valid orders or exceed state-approved capacity.","id-52f6b145-944f-43d6-8dff-7f43ef37bc51","id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d",""
+"rel-flow-hiedrs-0016","FlowRelationship","Account Record","Content
+Account Record leaves Account Management updated after each customer interaction, containing contact details, purchase history, contract status, service complaints, and current segment classification.
+
+Trigger
+A customer interaction, renewal, complaint resolution, or data update is completed.
+
+Unlocks
+Customer Portfolio Management can segment accounts, analyse lifetime value, detect churn risk, and prioritise accounts using current and accurate attributes.
+
+Without this
+Portfolio analysis is built on stale records, so prioritisation and risk assessment misdirect sales effort and revenue protection.","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81","id-6d5adb53-67bb-47a3-86a7-6157091b49aa",""
+"rel-flow-hiedrs-0017","FlowRelationship","Sales Order Record","Content
+Sales Order Record captures the validated buyer, programme or service, price, channel, quota confirmation, and payment terms after Multi-Channel Sales accepts an order.
+
+Trigger
+A Customer Order passes validation and a seat or cohort place is confirmed.
+
+Unlocks
+Account Management can record the purchase history for the customer, update the account, and identify cross-sell opportunities based on the completed sale.
+
+Without this
+Account Management has no evidence of the sale, so the customer's purchase history remains incomplete and renewal or cross-sell decisions are made blind.","id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81",""
+"rel-flow-hiedrs-0018","FlowRelationship","Account Prioritisation List","Content
+Account Prioritisation List ranks customer accounts by value, churn risk, and cross-sell potential, with recommended focus levels produced by the portfolio analysis.
+
+Trigger
+The quarterly portfolio analysis or an urgent risk event is completed.
+
+Unlocks
+Sales Force Management can assign salespeople to high-priority accounts, align territory work, and direct effort to protect revenue and advance cross-sell targets.
+
+Without this
+Every account receives equal attention, high-value accounts are neglected, and churn or lost expansion opportunities go unnoticed.","id-6d5adb53-67bb-47a3-86a7-6157091b49aa","id-ebfac6ac-707e-497a-b678-abc00810b609",""
+"rel-flow-hiedrs-0019","FlowRelationship","Commission Rate Schedule","Content
+Commission Rate Schedule is the approved set of commission rates by product, channel, and segment, issued by Price and Commission Management after governance authorisation.
+
+Trigger
+A commission plan is approved or a rate is revised.
+
+Unlocks
+Sales Force Management can configure salesperson incentive calculations, communicate achievable earnings, and adjust behaviour toward high-margin offerings.
+
+Without this
+Incentives cannot be calculated consistently, leading to disputes, low motivation, and sales effort placed on unprofitable products.","id-a711bf13-8d88-4d21-8410-ab448500566a","id-ebfac6ac-707e-497a-b678-abc00810b609",""
+"rel-flow-hiedrs-0020","FlowRelationship","Discount Authorization","Content
+Discount Authorization is an approved authority for a specific discount, including buyer, programme, conditions, maximum percentage, and required signoff.
+
+Trigger
+A discount request is approved after the required institutional signoff.
+
+Unlocks
+Account Management can include the discount in contract renewal negotiations and offer a lawful, governed price concession.
+
+Without this
+Account managers either lose the deal by refusing a discount or make unauthorised concessions that erode margin and violate pricing policy.","id-a711bf13-8d88-4d21-8410-ab448500566a","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81",""
+"rel-flow-hiedrs-0021","FlowRelationship","Territory Assignment","Content
+Territory Assignment names the salesperson or account manager responsible for each territory or customer segment, with coverage rules and handover notes.
+
+Trigger
+A salesperson is hired, a territory is revised, or an underperformer is reassigned.
+
+Unlocks
+Account Management can route each account to an owner, ensure renewal deadlines are covered, and provide a named contact for the customer.
+
+Without this
+Accounts are unowned, renewal dates are missed, and customer complaints lack a responsible salesperson.","id-ebfac6ac-707e-497a-b678-abc00810b609","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81",""
+"rel-flow-hiedrs-0022","FlowRelationship","Won/Lost Decision","Content
+Won/Lost Decision records the outcome of a closed opportunity, including win/loss reason, product, source campaign, and responsible salesperson.
+
+Trigger
+An opportunity is closed as won or lost.
+
+Unlocks
+Sales Planning and Forecasting can compare actual wins and losses against the forecast, identify patterns, and adjust future revenue and demand assumptions.
+
+Without this
+Forecasting relies on unattributed assumptions and repeats errors in pipeline expectations, weakening quota allocation and revenue plans.","id-a609d67d-c8e5-42b1-86fb-23647dc01b52","id-52f6b145-944f-43d6-8dff-7f43ef37bc51",""
+"rel-flow-hiedrs-0023","FlowRelationship","Opportunity Record","Content
+Opportunity Record is the won deal record containing buyer identity, programme or service, agreed terms, and transition details from Lead and Opportunity Management.
+
+Trigger
+An opportunity is closed as won and handed to account management.
+
+Unlocks
+Account Management can create a new Account Record, initiate onboarding, and begin post-sale relationship management for the customer.
+
+Without this
+Newly acquired customers have no account record, so billing, renewals, and service support are delayed or duplicated.","id-a609d67d-c8e5-42b1-86fb-23647dc01b52","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81",""
+"rel-flow-hiedrs-0024","FlowRelationship","Sales Order Record","Content
+Sales Order Record from Multi-Channel Sales contains the validated payor, amount, programme or service, payment terms, and quota confirmation for a completed sale.
+
+Trigger
+A sales order is validated and a seat or place is confirmed.
+
+Unlocks
+Manage Financial Relationships can set up the Financial Relationship Record and Payment Obligation linking the customer or sponsor to the institution.
+
+Without this
+The institution cannot establish who owes what, so billing cannot start and sold capacity is not converted into a receivable.","id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d","id-b334c94a-a2ff-449e-869e-70a0960b4aca",""
+"rel-flow-hiedrs-0025","FlowRelationship","Price List","Content
+Price List is the approved tuition fee schedule for self-financing and contract services, including fee per ECTS, programme, and payment terms, issued by Price and Commission Management.
+
+Trigger
+Fees are approved or revised before the billing cycle begins.
+
+Unlocks
+Bill Customer or Payor can calculate tuition charges, apply the correct funding-status distinction, and issue accurate invoices.
+
+Without this
+Billing uses outdated or inconsistent fee data, producing incorrect invoices, student disputes, and revenue leakage.","id-a711bf13-8d88-4d21-8410-ab448500566a","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3",""
+"rel-flow-hiedrs-0026","FlowRelationship","Market Research Report","Content
+Market Research Report contains demand forecasts, competitor benchmarks, segment profiles, and enrolment trend analysis from Market Research and Analysis, including programme-level applicant demand projections.
+
+Trigger
+A research project is completed or new enrolment data is analysed.
+
+Unlocks
+Sales Planning and Forecasting can estimate market demand, set sales targets, and allocate quota using current market evidence rather than only historical sales.
+
+Without this
+Sales planning lacks external market demand evidence, making revenue forecasts and quota allocation vulnerable to enrolment shifts.","id-99e8ec1c-bd58-4c5a-b20b-ac6b885c1253","id-52f6b145-944f-43d6-8dff-7f43ef37bc51",""
+"rel-flow-hiedrs-0027","FlowRelationship","Course Catalogue","Content
+Course Catalogue is the official accredited programme catalogue with ECTS credits, cycles, and programme codes from Plan Curriculum and Courses.
+
+Trigger
+A study programme is accredited or revised and the catalogue is published.
+
+Unlocks
+Multi-Channel Sales can publish the Approved Programme Catalogue to channels and validate each order against accredited programmes.
+
+Without this
+Multi-Channel Sales cannot distinguish valid accredited programmes, risking sale of unaccredited or outdated offerings.","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d",""
+"rel-flow-hiedrs-0028","FlowRelationship","Lead Record","Content
+Lead Record captures a prospective student's contact data, consent status, programme interest, and source campaign from Execute Programs.
+
+Trigger
+A marketing campaign or event produces a new prospective student inquiry.
+
+Unlocks
+Lead and Opportunity Management can qualify, score, and convert the lead into an Opportunity Record or reject incomplete contact data.
+
+Without this
+No new leads enter the sales pipeline, so no opportunities are created and future enrollment contracts stall.","id-c442ac23-7d84-40ae-83f0-05cbdd824769","id-a609d67d-c8e5-42b1-86fb-23647dc01b52",""
+"rel-flow-hiedrs-0029","FlowRelationship","Cross-Sell Target List","Content
+Cross-Sell Target List identifies existing accounts with high potential for additional programmes or services, produced by Customer Portfolio Management.
+
+Trigger
+A quarterly portfolio analysis or segment definition refresh is completed.
+
+Unlocks
+Account Management can focus cross-sell recommendations and renewal discussions on accounts most likely to buy more.
+
+Without this
+Cross-sell opportunities remain hidden, leaving expansion revenue uncaptured and account managers without prioritised targets.","id-6d5adb53-67bb-47a3-86a7-6157091b49aa","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81",""
+"rel-flow-hiedrs-0030","FlowRelationship","Discount Approval Request","Content
+Discount Approval Request is a formal request from an account manager for a price concession, including buyer, programme, requested discount, and justification.
+
+Trigger
+A renewal or sales negotiation requires a price concession outside standard terms.
+
+Unlocks
+Price and Commission Management can evaluate the request against pricing policy, approve or reject it, and issue a Discount Authorization if approved.
+
+Without this
+Account managers lack a governed path for price concessions, forcing either lost deals or unauthorised discounts.","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81","id-a711bf13-8d88-4d21-8410-ab448500566a",""
+"rel-flow-hiedrs-0031","FlowRelationship","Knowledge Articles","Content
+Knowledge Articles are updated by Diagnose/Resolve Issues after a root cause is established and a tested fix is documented. Each article leaves containing the symptom, affected service, resolution steps, and any restriction on personal data imposed by the Serbian Law on Personal Data Protection.
+
+Trigger
+A new problem is resolved or a recurring Issue Report reveals a solution not already present in the knowledge base.
+
+Unlocks
+Provide Information and Advice can search and retrieve the current article to answer an incoming inquiry with a verified answer instead of improvising guidance.
+
+Without this
+Frontline staff answer from stale or absent information, misdirect students and staff, and escalate ordinary questions that the resolved article would have closed.","id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009","id-8abb076b-05fc-4e17-8f75-51b43cf80016",""
+"rel-flow-hiedrs-0032","FlowRelationship","Data Protection Guidance","Content
+Data Protection Guidance moves as a written Advisory Response citing the Serbian Law on Personal Data Protection and the EU GDPR. It identifies the lawful basis, response deadline, redaction limits, and the data protection officer's role for the pending Data Subject Access Request.
+
+Trigger
+A student, staff member, or external party submits a Data Subject Access Request to Maintain Student Records and the office asks for interpretation or a new request reveals an unresolved point.
+
+Unlocks
+Maintain Student Records can process the Data Subject Access Request lawfully, decide what to disclose or redact, and issue the Data Correction Confirmation or a lawful refusal.
+
+Without this
+The record office either ignores the request, over-discloses personal data, or misses the legal deadline, exposing the institution to enforcement action and to a personal data breach.","id-8abb076b-05fc-4e17-8f75-51b43cf80016","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca",""
+"rel-flow-hiedrs-0033","FlowRelationship","Recognition Guidance","Content
+Recognition Guidance moves as a written Advisory Response on the formal recognition of foreign qualifications and the current NAT accreditation status of the chosen study programme. It states whether the transcript meets Serbian admission requirements and what additional documents are needed.
+
+Trigger
+An applicant submits an Official Academic Transcript from a foreign institution or asks whether a qualification is recognized in the Serbian system during the admission cycle.
+
+Unlocks
+Admit Students can evaluate the foreign qualification, request the formal Recognition Decision if required, and issue a valid admission decision rather than deferring the application.
+
+Without this
+Admissions staff misclassify foreign qualifications, create an invalid Student Record, or reject a qualified applicant for lack of clarity on recognition.","id-8abb076b-05fc-4e17-8f75-51b43cf80016","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d",""
+"rel-flow-hiedrs-0034","FlowRelationship","Maintenance Escalation","Content
+An escalation from the resource scheduling function reporting that a laboratory, studio, or equipment item is faulty and cannot be reserved for a scheduled course session.
+
+Trigger
+A scheduled resource becomes unavailable due to malfunction or safety failure, preventing its use.
+
+Unlocks
+Diagnose/Resolve Issues can log the escalation as an Issue Report, diagnose the underlying fault, and dispatch a maintenance remedy to restore the resource.
+
+Without this
+Diagnose/Resolve Issues remains unaware of the equipment failure, so the resource stays out of service and practical teaching is cancelled without a repair workflow.","id-cbacfae9-ac1b-47fa-9b0f-25a035e0e5c8","id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009",""
+"rel-flow-hiedrs-0035","FlowRelationship","Student Record","Content
+Master Student Record subset relevant to the reported issue, such as enrolment or grade data, shared under data protection rules.
+
+Trigger
+An Issue Report involving a student's record is being diagnosed.
+
+Unlocks
+Diagnose/Resolve Issues can correlate the reported symptom with the correct student data and resolve the issue without unnecessary personal data exposure.
+
+Without this
+Support staff cannot verify the student's situation, delaying resolution or causing privacy violations.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009",""
+"rel-flow-hiedrs-0036","FlowRelationship","Maintenance Work Order","Content
+Maintenance Work Order moves from housing and auxiliary services to issue resolution when a room, residence facility, or auxiliary service area has a defect that requires diagnosis. It carries the requester, location, symptom, and initial housing service assessment.
+
+Trigger
+A student or staff member reports a fault through housing services, or a scheduled inspection finds a defect.
+
+Unlocks
+Diagnose/Resolve Issues can use the work order as a Maintenance Record or convert it into an Issue Report, then dispatch the appropriate remedy.
+
+Without this
+Facility defects reported to housing remain outside the issue-resolution queue, causing duplicated effort and unresolved defects in accommodation and auxiliary spaces.","id-3c048211-0449-40be-a766-678a749f7390","id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009",""
+"rel-flow-hiedrs-0037","FlowRelationship","Marketing Strategy Document","Content
+The approved Marketing Strategy Document moves from strategic definition to operational planning in final form, setting programme demand assessment, target segments, channel mix, budget allocation and enrolment targets.
+
+Trigger
+The annual planning cycle begins or a new intake cycle is declared.
+
+Unlocks
+Plan Programs can develop the campaign calendar, schedule content, allocate resources and obtain plan approvals for specific programmes because the strategy gives direction and constraints.
+
+Without this
+Plan Programs would plan campaigns without enrolment targets, segment focus or budget limits, producing disconnected promotional activities.","id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651","id-85305cf8-0cba-49a6-a668-a99f37128a68",""
+"rel-flow-hiedrs-0038","FlowRelationship","Lead Record","Content
+Lead Record produced by campaign execution contains prospective student identity, source campaign, contact consent, inquiry details and timestamp. It leaves Execute Programs in a valid, consent-flagged state.
+
+Trigger
+A prospective student submits an inquiry or attends an event and is logged by Execute Programs.
+
+Unlocks
+Measure Program Effectiveness can track conversion from lead to application to enrolment, attribute enrolments to specific campaigns, and compute conversion funnel and ROI.
+
+Without this
+Measure cannot link campaign activity to enrolment outcomes; attribution and ROI are impossible, leaving budget decisions blind.","id-c442ac23-7d84-40ae-83f0-05cbdd824769","id-4d75a20e-4723-4e0a-b0f8-c439ccd4037f",""
+"rel-flow-hiedrs-0039","FlowRelationship","Expense Record","Content
+Expense Record produced by campaign execution captures each campaign cost against a budget line and campaign identifier, ready for profitability allocation.
+
+Trigger
+A campaign period closes or marketing activity incurs expenses.
+
+Unlocks
+Profitability Analysis can aggregate Expense Records into Marketing Cost Data and calculate cost per enrolled student and programme margin by allocating marketing costs to programmes.
+
+Without this
+Profitability cannot accurately allocate marketing spend; programme margin and ROI calculations are incomplete and may understate or overstate profitability.","id-c442ac23-7d84-40ae-83f0-05cbdd824769","id-05994d0d-610b-45e2-b8c2-a60663547d24",""
+"rel-flow-hiedrs-0040","FlowRelationship","Marketing Campaign Result","Content
+Aggregated Marketing Campaign Result produced from advertisements, open days, social media and brochures consists of engagement metrics, leads and event outcomes, with source campaign identifiers.
+
+Trigger
+At the end of a campaign or when a lead batch is collected.
+
+Unlocks
+Recruit Prospects can capture prospect inquiries, create qualified leads, and send subsequent recruitment communication because the result identifies prospects and interest source.
+
+Without this
+Recruit Prospects lacks incoming inquiries to nurture; it would have no raw prospects and would fail to build a pipeline.","id-c442ac23-7d84-40ae-83f0-05cbdd824769","id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef",""
+"rel-flow-hiedrs-0041","FlowRelationship","Market Research Report","Content
+The final Market Research Report leaves analysis in final form, containing survey responses, enrolment trend analysis, competitor benchmarks, demand forecasts and brand perception findings, cleaned and validated.
+
+Trigger
+A research project concludes and the report is issued.
+
+Unlocks
+Define Marketing Strategy can assess demand for each accredited programme, define target segments, set enrolment targets and allocate budget based on evidence.
+
+Without this
+Define would set strategy blind, without data on demand, competitors or perception, risking misallocated budget and missed quota.","id-99e8ec1c-bd58-4c5a-b20b-ac6b885c1253","id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651",""
+"rel-flow-hiedrs-0042","FlowRelationship","Market Research Report","Content
+The current Market Research Report is supplied to Plan Programs in its validated form, with programme demand, target segments and enrolment trend evidence.
+
+Trigger
+Plan Programs begins annual planning or a campaign plan is requested.
+
+Unlocks
+Plan Programs can align campaign calendar, event schedule and content with evidence on segments, demand and enrolment trends.
+
+Without this
+Plan Programs would schedule activities without knowing where demand is, leading to poorly timed or targeted campaigns.","id-99e8ec1c-bd58-4c5a-b20b-ac6b885c1253","id-85305cf8-0cba-49a6-a668-a99f37128a68",""
+"rel-flow-hiedrs-0043","FlowRelationship","Campaign Performance Report","Content
+Campaign Performance Report from effectiveness measurement carries ROI, conversion funnel analysis, cost per enrolment attribution, and optimization recommendations per campaign and programme.
+
+Trigger
+A campaign ends and enrolment conversion data becomes available after the admission cycle.
+
+Unlocks
+Define Marketing Strategy can review lessons from previous campaigns, adjust strategy, reallocate budget, and refine target segments for the next cycle.
+
+Without this
+Strategy would repeat untested assumptions; performance failures would go unexamined and budget would be allocated without evidence.","id-4d75a20e-4723-4e0a-b0f8-c439ccd4037f","id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651",""
+"rel-flow-hiedrs-0044","FlowRelationship","Event Schedule","Content
+Event Schedule leaves Plan Programs as a confirmed schedule of open day and information events, with dates, venues, and programme focus, aligned with the academic calendar and approved plan.
+
+Trigger
+A planned campaign reaches its execution phase and events are due.
+
+Unlocks
+Execute Programs can organise open day and information events, coordinate logistics, publish social content and distribute materials on time.
+
+Without this
+Execution would have no confirmed event dates or venues; promotional events would be uncoordinated and prospective student engagement would be missed.","id-85305cf8-0cba-49a6-a668-a99f37128a68","id-c442ac23-7d84-40ae-83f0-05cbdd824769",""
+"rel-flow-hiedrs-0045","FlowRelationship","Programme Margin Analysis","Content
+Programme Margin Analysis from profitability calculation contains margin per study programme by funding type, separating state-funded and self-financing places, and showing cost per enrolment.
+
+Trigger
+Financial records for a period close and profitability review is requested.
+
+Unlocks
+Define Marketing Strategy can shift marketing budget and enrolment targets toward programmes with sustainable margins and away from loss-making programmes.
+
+Without this
+Strategy would allocate budget without knowledge of which programmes generate net revenue, risking overpromotion of low-margin programmes and quota waste.","id-05994d0d-610b-45e2-b8c2-a60663547d24","id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651",""
+"rel-flow-hiedrs-0046","FlowRelationship","Lead Scoring Model","Content
+Lead Scoring Model produced by Segment Customers contains rules and weights for prioritizing prospective student leads based on behaviour, demographics and programme interest, validated against enrolment outcomes.
+
+Trigger
+A new recruitment cycle begins and leads require prioritization.
+
+Unlocks
+Execute Programs can decide which prospects to target first, focus events and advertisements on high-scoring leads, and allocate follow-up effort efficiently.
+
+Without this
+Execute would contact all leads indiscriminately, lowering conversion and wasting budget.","id-6f1e97f2-f962-4853-b211-ad1f254d6ecc","id-c442ac23-7d84-40ae-83f0-05cbdd824769",""
+"rel-flow-hiedrs-0047","FlowRelationship","Accredited Study Programme Catalogue","Content
+The catalogue of all currently accredited study programmes with their ECTS distribution, duration, and accreditation status, ready for promotional planning.
+
+Trigger
+The annual planning cycle starts and the institution issues the updated catalogue after NAT accreditation decisions.
+
+Unlocks
+Define Marketing Strategy can select which accredited programmes to promote and set enrolment targets aligned with legally permitted offers.
+
+Without this
+Define Marketing Strategy cannot distinguish accredited from expired programmes, risking marketing a programme that cannot legally enrol students, wasting budget and damaging reputation.","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651",""
+"rel-flow-hiedrs-0048","FlowRelationship","Event Schedule","Content
+Event Schedule for recruiting events, with dates, venues, target segments and assigned staff, produced from the recruitment plan.
+
+Trigger
+Recruitment plan approved and event logistics coordinated.
+
+Unlocks
+Execute Programs can run the scheduled recruiting events as part of the promotional campaign and capture prospective student leads.
+
+Without this
+Marketing execution lacks confirmed events, so open days and information sessions cannot be delivered or promoted.","id-f02c8a55-396b-4810-ab8a-cea744018b10","id-c442ac23-7d84-40ae-83f0-05cbdd824769",""
+"rel-flow-hiedrs-0049","FlowRelationship","Prospect Record","Content
+Prospect Record with contact details, consent flag, source, interests and interaction history, usable as prospective student data for segmentation.
+
+Trigger
+A new prospect record is created or updated.
+
+Unlocks
+Segment Customers can group prospects into actionable segments, score leads and assign them to targeted marketing campaigns.
+
+Without this
+Segmentation lacks raw prospect data, forcing campaigns to target undifferentiated audiences with poor results.","id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef","id-6f1e97f2-f962-4853-b211-ad1f254d6ecc",""
+"rel-flow-hiedrs-0050","FlowRelationship","Engagement Metric Set","Content
+Engagement Metric Set produced by campaign execution contains clicks, opens, event attendance, video views and social interactions attributable to a prospect or campaign.
+
+Trigger
+Campaign activity occurs and engagement metrics are logged.
+
+Unlocks
+Segment Customers can use observed engagement signals as Behavioural Data to update segment membership, lead scores and conversion predictions.
+
+Without this
+Segmentation relies only on declared data and cannot adapt to observed prospect engagement.","id-c442ac23-7d84-40ae-83f0-05cbdd824769","id-6f1e97f2-f962-4853-b211-ad1f254d6ecc",""
+"rel-flow-hiedrs-0051","FlowRelationship","Accredited Study Programme","Content
+The study programme record after NAT accreditation, carrying the programme's learning outcomes, ECTS credit total, duration, and the legal basis for enrolling students.
+
+Trigger
+NAT grants accreditation and the institution publishes the accredited programme for the admission cycle.
+
+Unlocks
+Admit Students can verify that a chosen programme is legally permitted to enrol students and issue recognised degrees, allowing it to evaluate applications against a valid programme.
+
+Without this
+Admit Students cannot distinguish accredited from unaccredited programmes, so an application could be evaluated for a programme that lacks the legal right to enrol students, risking admission to an invalid study programme.","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d",""
+"rel-flow-hiedrs-0052","FlowRelationship","Course Catalogue","Content
+The official list of courses from the accredited programme, each with its syllabus, ECTS weight, and learning outcomes, in the approved version.
+
+Trigger
+The academic council approves the course catalogue for the upcoming term and releases it for scheduling.
+
+Unlocks
+Schedule Classes can build the Course Offerings List, knowing which courses must be scheduled and their contact hour requirements from the accredited curriculum.
+
+Without this
+Schedule Classes has no authoritative source for which courses to run, and may omit required courses or include courses not accredited, producing an invalid timetable.","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","id-1ca721ed-d3db-46c1-8ad3-1680c683cace",""
+"rel-flow-hiedrs-0053","FlowRelationship","Study Programme Curriculum","Content
+The definitive curriculum document for each accredited study programme, including required and elective courses, prerequisites, and the ECTS credit allocation per year.
+
+Trigger
+A new or revised study programme is accredited and the curriculum becomes available to student advisors.
+
+Unlocks
+Advise Students can prepare individual Study Plans that respect the 60 ECTS per year workload and the official course requirements.
+
+Without this
+Advise Students must advise from memory or outdated curriculum, leading to course selections that violate ECTS limits or miss required courses, delaying graduation.","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","id-d7a1670b-5b1f-4419-a987-19f2b699fecb",""
+"rel-flow-hiedrs-0054","FlowRelationship","Class Schedule","Content
+The published timetable of all course sections for the term, including instructor, room, time, and the student group or cohort each section serves.
+
+Trigger
+The class schedule is published before registration opens for the term.
+
+Unlocks
+Enroll in Classes can register students into specific course sections, check seat availability, and detect time conflicts for each student.
+
+Without this
+Enroll in Classes cannot confirm section times or availability, forcing students to select courses blind and risking overlapping schedules or overfilled sections.","id-1ca721ed-d3db-46c1-8ad3-1680c683cace","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10",""
+"rel-flow-hiedrs-0055","FlowRelationship","Class Schedule","Content
+The published timetable showing which courses require laboratory, studio, or specialised equipment at specific times.
+
+Trigger
+The class schedule is published and resource-intensive courses are identifiable by their room and equipment requirements.
+
+Unlocks
+Schedule Resources and Facilities can allocate laboratories, studios, and equipment to the correct course sections at the correct times.
+
+Without this
+Schedule Resources and Facilities cannot know which labs are needed when, so practical sessions are left unallocated and equipment may be double-booked or unused.","id-1ca721ed-d3db-46c1-8ad3-1680c683cace","id-cbacfae9-ac1b-47fa-9b0f-25a035e0e5c8",""
+"rel-flow-hiedrs-0056","FlowRelationship","Conflict Notification","Content
+A notification listing a student's overlapping course sections or an instructor's double-booking discovered during scheduling, with the conflicting class identifiers.
+
+Trigger
+A conflict is detected when a student's selected sections or an instructor's assignments have overlapping times.
+
+Unlocks
+Advise Students can alert the student and adjust the Study Plan or Course Selection Advice to resolve the schedule conflict before registration closes.
+
+Without this
+Advise Students remains unaware of conflicts, allowing a student to register for overlapping courses or an instructor to be assigned to two places, causing attendance failure.","id-1ca721ed-d3db-46c1-8ad3-1680c683cace","id-d7a1670b-5b1f-4419-a987-19f2b699fecb",""
+"rel-flow-hiedrs-0057","FlowRelationship","Course Grade","Content
+The final grade for a specific course, expressed in the Serbian higher education grading scale, with the ECTS credits awarded, ready for entry into the student's official record.
+
+Trigger
+The examiner finalises the course grade after all assessments and submits it to the student records office.
+
+Unlocks
+Maintain Student Records can record academic progress, calculate accumulated ECTS credits, and update the Student Record for transcripts and graduation checks.
+
+Without this
+Maintain Student Records cannot update the student's academic history, leaving transcripts incomplete and preventing accurate ECTS accumulation or graduation clearance.","id-8fcac125-67c1-46c5-b3a6-0cb03f136833","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca",""
+"rel-flow-hiedrs-0058","FlowRelationship","Academic Probation Notice","Content
+A formal notice that a student has failed to meet the minimum ECTS credit progression required, issued when the semester or year results are final.
+
+Trigger
+The grade report shows the student's earned credits fall below the satisfactory academic progress threshold.
+
+Unlocks
+Award and Monitor Financial Aid can review the student's aid eligibility, adjust the aid package, or initiate revocation of a state-funded place or scholarship.
+
+Without this
+Award and Monitor Financial Aid continues paying aid to students who are not progressing, misallocating public funds and failing to enforce the statutory study progress condition.","id-8fcac125-67c1-46c5-b3a6-0cb03f136833","id-2e6834a2-c238-4cf4-989a-cca3222baa9f",""
+"rel-flow-hiedrs-0059","FlowRelationship","Grade Report","Content
+The aggregated set of course grades and pass rates for a study programme, extracted from the official Student Record after the examination period.
+
+Trigger
+The examination period ends and grade reports are generated for all enrolled students.
+
+Unlocks
+Effectiveness can analyse grade distribution to detect anomalies in pass rates and link learning outcomes to actual student achievement.
+
+Without this
+Effectiveness has no quantitative evidence of learning outcomes, making the Academic Program Effectiveness Report anecdotal and unable to justify quality improvement.","id-8fcac125-67c1-46c5-b3a6-0cb03f136833","id-8b80a6ea-0dfa-4673-9eab-027449e3bf84",""
+"rel-flow-hiedrs-0060","FlowRelationship","Program Revision Recommendation","Content
+A formal recommendation identifying gaps between the current accredited programme and NAT or ESG 2015 standards, with suggestions for curriculum changes.
+
+Trigger
+The internal program evaluation finds that a learning outcome, ECTS allocation, or staff qualification requirement is not met.
+
+Unlocks
+Plan Curriculum and Courses can draft a Study Programme Proposal for revision, adjusting courses, ECTS credits, or staffing to bring the programme back into compliance.
+
+Without this
+Plan Curriculum and Courses does not know which parts of the programme have failed evaluation, so revisions miss critical gaps and the programme risks losing accreditation.","id-d8e4c197-826c-4d16-8f57-a29cd7b40c14","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a",""
+"rel-flow-hiedrs-0061","FlowRelationship","Accreditation Evidence File","Content
+The collected evidence of internal quality assurance, including survey responses, grade distributions, and graduate employment data, organised for external review.
+
+Trigger
+A study programme is due for periodic accreditation or self-evaluation under ESG 2015.
+
+Unlocks
+Evaluate Academic Program can use the evidence file to prepare the Accreditation Self-Evaluation Report and demonstrate compliance with NAT standards.
+
+Without this
+Evaluate Academic Program must assemble evidence from scattered records or proceed without proof of learning outcomes, weakening the self-evaluation and risking accreditation conditions.","id-8b80a6ea-0dfa-4673-9eab-027449e3bf84","id-d8e4c197-826c-4d16-8f57-a29cd7b40c14",""
+"rel-flow-hiedrs-0062","FlowRelationship","Quality Improvement Plan","Content
+A plan specifying underperforming learning outcomes, weak satisfaction dimensions, and proposed changes to teaching, assessment, or programme structure.
+
+Trigger
+The Academic Program Effectiveness Report identifies metrics below institutional thresholds or ESG 2015 expectations.
+
+Unlocks
+Plan Curriculum and Courses can design targeted curriculum revisions that address the identified weaknesses before the next accreditation cycle.
+
+Without this
+Plan Curriculum and Courses revises the curriculum without evidence of what is failing, perpetuating weaknesses that damage learning outcomes and accreditation.","id-8b80a6ea-0dfa-4673-9eab-027449e3bf84","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a",""
+"rel-flow-hiedrs-0063","FlowRelationship","Course Selection Advice","Content
+The advisor-approved set of course codes and ECTS credits for the student's next term, aligned with the Study Plan and prerequisites.
+
+Trigger
+The advising session concludes and the student agrees to the recommended course selection.
+
+Unlocks
+Enroll in Classes can turn the advice into a formal Course Selection, validate prerequisites, and register the student into the approved sections.
+
+Without this
+Enroll in Classes receives unvalidated course requests, causing registration into courses that violate prerequisites or exceed the 60 ECTS workload, requiring later corrections.","id-d7a1670b-5b1f-4419-a987-19f2b699fecb","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10",""
+"rel-flow-hiedrs-0064","FlowRelationship","Curriculum Exception Petition","Content
+A formal petition for an individual student to deviate from the accredited curriculum, stating the requested substitution or waiver and the academic justification.
+
+Trigger
+A student requests a deviation and the advisor determines that a formal exception is warranted.
+
+Unlocks
+Plan Curriculum and Courses can assess whether the exception reveals a curriculum gap and, if repeated, propose a structural change to the accredited programme.
+
+Without this
+Plan Curriculum and Courses never learns that students repeatedly need exceptions, leaving underlying curriculum defects unaddressed and forcing ongoing ad hoc approvals.","id-d7a1670b-5b1f-4419-a987-19f2b699fecb","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a",""
+"rel-flow-hiedrs-0065","FlowRelationship","Emergency Financial Support Decision","Content
+A decision awarding or denying emergency financial support to a student, including the amount and source of funds, made after evaluating the Financial Aid Application.
+
+Trigger
+A student in acute financial hardship submits an application and the assistance office completes its evaluation.
+
+Unlocks
+Award and Monitor Financial Aid can incorporate the emergency support into the student's overall aid package and disburse the funds without double-counting.
+
+Without this
+Award and Monitor Financial Aid either ignores a student's emergency need or pays it separately from unverified sources, breaking the single view of aid and risking overpayment.","id-4a109615-89b7-4d83-9527-666fb431ad35","id-2e6834a2-c238-4cf4-989a-cca3222baa9f",""
+"rel-flow-hiedrs-0066","FlowRelationship","Accommodation Letter","Content
+A letter confirming a student's disability-related accommodation need, specifying the required housing adjustment or accessible room features.
+
+Trigger
+The assistance office validates disability documentation and determines the student's accommodation requirements.
+
+Unlocks
+Provide Housing and Auxiliary Services can assign an appropriate room and record the accommodation in the housing contract, ensuring legal compliance.
+
+Without this
+Provide Housing and Auxiliary Services assigns standard housing, ignoring accessibility needs and exposing the institution to discrimination claims and student hardship.","id-4a109615-89b7-4d83-9527-666fb431ad35","id-3c048211-0449-40be-a766-678a749f7390",""
+"rel-flow-hiedrs-0067","FlowRelationship","Student Record","Content
+Master Student Record with academic standing, ECTS credits, completed courses and programme requirements.
+
+Trigger
+Advising session requested or progress review due.
+
+Unlocks
+Advise Students and Provide can assess academic standing and develop a valid study plan for the next term.
+
+Without this
+Advisors work from incomplete data and may approve course selections that violate the curriculum.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-d7a1670b-5b1f-4419-a987-19f2b699fecb",""
+"rel-flow-hiedrs-0068","FlowRelationship","Student Record","Content
+Master Student Record confirming active enrolment and relevant personal data authorised for support handling.
+
+Trigger
+Student submits a support request or is referred for assistance.
+
+Unlocks
+Assistance can verify enrolment status before providing accommodations, financial referrals or learning support.
+
+Without this
+Assistance may be granted to non-enrolled students or without required legitimacy.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-4a109615-89b7-4d83-9527-666fb431ad35",""
+"rel-flow-hiedrs-0069","FlowRelationship","Study Programme Documentation","Content
+The current accredited study programme documentation, including curriculum map, learning outcomes, and ECTS allocation, produced from the official course catalogue and accredited programme record.
+
+Trigger
+A programme is due for internal review or accreditation self-evaluation.
+
+Unlocks
+Evaluate Academic Program can review the documentation against NAT and ESG 2015 criteria and produce the Program Evaluation Report.
+
+Without this
+Evaluate Academic Program has no authoritative basis for assessing curriculum coherence and must request documents ad hoc, delaying accreditation preparation.","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","id-d8e4c197-826c-4d16-8f57-a29cd7b40c14",""
+"rel-flow-hiedrs-0070","FlowRelationship","ECTS Credit Allocation","Content
+The table mapping each course to its ECTS credit weight and the total 60 ECTS per year, derived from the accredited study programme.
+
+Trigger
+The accredited programme is published and course selection begins for the term.
+
+Unlocks
+Enroll in Classes can apply the ECTS credit load when registering a student and reject selections that exceed or fall below the permitted workload.
+
+Without this
+Enroll in Classes cannot enforce the 60 ECTS workload, so students may register for an invalid credit load that threatens progression and accreditation compliance.","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10",""
+"rel-flow-hiedrs-0071","FlowRelationship","Academic Standing Record","Content
+A record of the student's academic standing after the grading period, showing earned ECTS credits and whether minimum progression thresholds are met.
+
+Trigger
+The examination period closes and grades are finalised.
+
+Unlocks
+Advise Students and Provide can assess academic standing and prepare a Study Plan or Course Selection Advice for the next term.
+
+Without this
+Advise Students and Provide lacks the current progression status, so advising occurs on stale data and may approve an unrealistic course load.","id-8fcac125-67c1-46c5-b3a6-0cb03f136833","id-d7a1670b-5b1f-4419-a987-19f2b699fecb",""
+"rel-flow-hiedrs-0072","FlowRelationship","Syllabus Template","Content
+The standardised course syllabus with learning outcomes, teaching methods, assessment criteria and the approved marking scheme.
+
+Trigger
+The course catalogue is published for the term and assessment preparation begins.
+
+Unlocks
+Evaluate Student Performance can mark examination scripts and assignments against the approved scheme, ensuring assessment is aligned with the accredited syllabus.
+
+Without this
+Evaluate Student Performance lacks the authoritative assessment criteria, causing inconsistent grading and potential disputes over course grades.","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","id-8fcac125-67c1-46c5-b3a6-0cb03f136833",""
+"rel-flow-hiedrs-0073","FlowRelationship","Pledged Gift Agreement","Content
+A signed pledge agreement produced by a completed fundraising campaign or event, including donor identity, amount, payment schedule, fund designation, and signatory from the correct legal entity.
+
+Trigger
+A donor signs the pledge after solicitation, or a pledge committed during an event is finalized.
+
+Unlocks
+Manage Pledges and Gifts can record the pledge commitment, establish a Pledge Receivable Record, and schedule payment reminders.
+
+Without this
+Manage Pledges and Gifts has no legally binding commitment to record, revenue is unrecognized, no payments are scheduled, and the donor has no follow-up.","id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3","id-54df2c7e-67f4-4959-8243-c1c192a5cf63",""
+"rel-flow-hiedrs-0074","FlowRelationship","Gift Notification","Content
+A notification of a verified gift payment, carrying donor identity, amount, fund designation, legal entity and gift receipt reference, issued when a bank payment is reconciled to a pledge.
+
+Trigger
+A bank confirmation is reconciled to an open pledge item and the gift notification is issued.
+
+Unlocks
+Acknowledge Donors can match the gift notification to the pledge payment confirmation and produce a personalised acknowledgement letter.
+
+Without this
+Acknowledge Donors lacks proof of the completed gift, cannot issue timely acknowledgement, and donor trust declines.","id-54df2c7e-67f4-4959-8243-c1c192a5cf63","id-a4637e89-2929-4077-a22a-d756585cb025",""
+"rel-flow-hiedrs-0075","FlowRelationship","Annual Giving Report","Content
+The annual giving report summarizing all collected gifts and pledge payment activity by donor, fund, and legal entity for the completed period.
+
+Trigger
+Period close and compilation of the giving report by pledge and gift management.
+
+Unlocks
+Manage Contributors can refresh giving history and update donor retention scores and segment membership based on actual recent giving.
+
+Without this
+Manage Contributors works with stale giving history, retention scores no longer reflect true engagement, and segmentation misprioritizes donors.","id-54df2c7e-67f4-4959-8243-c1c192a5cf63","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2",""
+"rel-flow-hiedrs-0076","FlowRelationship","Initial Gift Principal","Content
+A verified endowment gift receipt carrying the initial principal amount and the donor's fund restriction, produced when a gift is designated to establish an endowed fund.
+
+Trigger
+A donor's endowment gift payment is reconciled and found to match a signed endowment charter or gift agreement.
+
+Unlocks
+Manage Endowments can record the initial principal and establish the endowment fund in compliance with donor restrictions.
+
+Without this
+Manage Endowments cannot establish the endowment, the fund does not exist, and donor restrictions cannot be honored until the gift is re-processed.","id-54df2c7e-67f4-4959-8243-c1c192a5cf63","id-a398a43a-7375-47d1-af1b-49bf78188b6c",""
+"rel-flow-hiedrs-0077","FlowRelationship","Segmentation List","Content
+A current segmentation list of prospects and donors, grouped by giving capacity, engagement, consent status, and communication preference, emitted from the contributor database.
+
+Trigger
+A new solicitation initiative is being planned and prospect selection is due.
+
+Unlocks
+Solicit Prospects can identify major gift prospects and assign solicitors based on reliable segment data and lawful outreach flags.
+
+Without this
+Solicit Prospects works from an ad hoc prospect list, causing non-compliant outreach and low conversion.","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2","id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9",""
+"rel-flow-hiedrs-0078","FlowRelationship","Segmentation List","Content
+A current segmentation list with prospect contact and consent status for each target segment, ready for campaign distribution.
+
+Trigger
+A fundraising campaign or event reaches the launch stage and requires an approved prospect list.
+
+Unlocks
+Execute Fundraising Initiatives can distribute solicitation appeals and event invitations to the correct segments without contacting prospects lacking consent.
+
+Without this
+Execute Fundraising Initiatives delays the campaign or violates data protection law and suffers low response from stale prospect lists.","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2","id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3",""
+"rel-flow-hiedrs-0079","FlowRelationship","Donor Contact Record","Content
+The donor contact record including current contact details and recognition consent, extracted from the maintained contributor profile.
+
+Trigger
+A donor acknowledgement is due for a completed gift and the contact details must be verified.
+
+Unlocks
+Acknowledge Donors can retrieve the correct contact record and consent status to compose a personalized acknowledgement matching donor intent.
+
+Without this
+Acknowledge Donors acknowledges with outdated contact data or without proper recognition consent, causing privacy complaints and impersonal thanks.","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2","id-a4637e89-2929-4077-a22a-d756585cb025",""
+"rel-flow-hiedrs-0080","FlowRelationship","Donor Attendance Record","Content
+A record of attendees at a fundraising event, including their donor identity and level of interaction, produced after the event closes.
+
+Trigger
+The fundraising event concludes and attendance data is compiled.
+
+Unlocks
+Manage Contributors can update contributor profiles with event engagement and incorporate this signal into donor retention scoring and future segmentation.
+
+Without this
+Manage Contributors lacks a current engagement signal, so donor records remain incomplete and subsequent outreach ignores recent event participants.","id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2",""
+"rel-flow-hiedrs-0081","FlowRelationship","Pledged Gift Agreement","Content
+The signed pledge agreement with donor identity, fund designation, and gift purpose, produced when a campaign or event secures a pledge.
+
+Trigger
+A pledge agreement is finalized before the gift payment arrives and acknowledgement later needs the gift terms.
+
+Unlocks
+Acknowledge Donors can confirm the fund designation against the gift agreement when a gift receipt is later matched to the pledge.
+
+Without this
+Acknowledge Donors cannot verify the fund designation and issues an acknowledgement with the wrong fund, damaging donor trust and auditability.","id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3","id-a4637e89-2929-4077-a22a-d756585cb025",""
+"rel-flow-hiedrs-0082","FlowRelationship","Declined Prospect Log","Content
+A log of prospects who declined a solicitation, were unresponsive, or requested no further contact, produced after solicitation outcomes are recorded.
+
+Trigger
+Prospects are marked declined or unresponsive during the solicitation cycle and the log is passed for record update.
+
+Unlocks
+Manage Contributors can update contributor records to suppress future solicitation or mark communication restrictions for those prospects.
+
+Without this
+Manage Contributors leaves declined prospects in active segments, causing repeated unwanted outreach and data protection risk.","id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2",""
+"rel-flow-hiedrs-0083","FlowRelationship","Proposal for Major Gift","Content
+A signed major gift proposal setting out the donor's intended amount, fund designation, payment schedule, and signatory, produced after the donor accepts the proposal.
+
+Trigger
+The donor signs the major gift proposal and the solicitor returns it for gift processing.
+
+Unlocks
+Manage Pledges and Gifts can record the signed proposal as a pledge commitment, create the receivable, and begin payment scheduling.
+
+Without this
+Manage Pledges and Gifts cannot record the major gift pledge; the commitment remains only in the solicitor's notes and no receivable is established.","id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9","id-54df2c7e-67f4-4959-8243-c1c192a5cf63",""
+"rel-flow-hiedrs-0084","FlowRelationship","Acknowledgement History Entry","Content
+An acknowledgement history entry recording the donor identifier, gift reference, acknowledgement date, and channel used, produced after a donor acknowledgement is sent.
+
+Trigger
+The donor acknowledgement letter is issued and logged.
+
+Unlocks
+Manage Contributors can update the contributor profile with the stewardship touchpoint and avoid premature re-solicitation.
+
+Without this
+Manage Contributors lacks the acknowledgement record, treats a donor as unthanked or over-solicits, and retention scoring loses a stewardship signal.","id-a4637e89-2929-4077-a22a-d756585cb025","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2",""
+"rel-flow-hiedrs-0085","FlowRelationship","Endowment Fund Annual Report","Content
+The endowment fund annual report showing principal balance, income distribution, and compliance with donor restrictions for each endowed fund, produced at period close.
+
+Trigger
+The endowment reporting period closes and the annual report is issued to donors and internal stakeholders.
+
+Unlocks
+Manage Contributors can update donor engagement records with evidence of endowment stewardship and adjust donor retention scores for endowment donors.
+
+Without this
+Manage Contributors lacks stewardship proof, misclassifies endowment donors as disengaged, and retention scores for long-term relationships are wrong.","id-a398a43a-7375-47d1-af1b-49bf78188b6c","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2",""
+"rel-flow-hiedrs-0086","FlowRelationship","Solicitation Outcome Log","Content
+A log of responses received from campaign appeals and events, including prospect identifier, response status, requested follow-up, and consent flags, compiled when a campaign or event closes.
+
+Trigger
+A fundraising campaign or event concludes and the solicitation outcome log is compiled.
+
+Unlocks
+Solicit Prospects can update prospect stages, assign follow-up, and suppress prospects who declined or requested no contact.
+
+Without this
+Solicit Prospects works from a stale prospect pipeline, risks duplicate outreach, and misses major gift follow-up.","id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3","id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9",""
+"rel-flow-hiedrs-0087","FlowRelationship","Admission Decision Record","Content
+The final Admission Decision Record for an evaluated applicant, signed by the authorised university or faculty body, showing programme, funding status and acceptance conditions.
+
+Trigger
+An applicant has been evaluated and the admission decision rendered.
+
+Unlocks
+Maintain Student Records can create the master Student Record and establish the student's official enrolment status.
+
+Without this
+No student record can be created, and downstream billing, aid, enrolment and directory capabilities have no person to reference.","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca",""
+"rel-flow-hiedrs-0088","FlowRelationship","Scholarship Award","Content
+Scholarship Award specifying amount and source, issued from financial aid evaluation and valid for the current aid period.
+
+Trigger
+A student's aid package is determined and approved.
+
+Unlocks
+Bill Customer or Payor can offset the awarded amount against tuition charges and issue an accurate invoice.
+
+Without this
+The student is billed the full amount despite being entitled to aid, producing incorrect invoices and payment disputes.","id-2e6834a2-c238-4cf4-989a-cca3222baa9f","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3",""
+"rel-flow-hiedrs-0089","FlowRelationship","Scholarship Award","Content
+Scholarship Award stating amount and source, issued after aid eligibility determination.
+
+Trigger
+Aid decision finalised.
+
+Unlocks
+Manage Financial Relationships can link the aid to the student's financial relationship and record payment obligations for the remaining balance.
+
+Without this
+The financial relationship lacks the aid component, so the payor is not matched with the correct net obligation.","id-2e6834a2-c238-4cf4-989a-cca3222baa9f","id-b334c94a-a2ff-449e-869e-70a0960b4aca",""
+"rel-flow-hiedrs-0090","FlowRelationship","Tuition Invoice","Content
+Tuition Invoice generated for an enrolled student, with charges, fees, study programme, funding status and due date.
+
+Trigger
+Charges calculated and invoice issued for a billing term.
+
+Unlocks
+Manage Financial Relationships can set up or update the payment obligation and link the invoice to the payor or sponsor.
+
+Without this
+The financial relationship has no concrete obligation to collect against, so payor authorisation and payment allocation cannot proceed.","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3","id-b334c94a-a2ff-449e-869e-70a0960b4aca",""
+"rel-flow-hiedrs-0091","FlowRelationship","Enrollment Confirmation","Content
+Enrollment Confirmation for a student registered in specific courses for the term, including ECTS credit load and study programme.
+
+Trigger
+Student course registration is completed and confirmed.
+
+Unlocks
+Bill Customer or Payor can determine fee status and calculate charges based on confirmed enrolment.
+
+Without this
+Billing has no basis for charges, so the student cannot be invoiced and payments cannot be allocated.","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3",""
+"rel-flow-hiedrs-0092","FlowRelationship","Enrollment Confirmation","Content
+Enrollment Confirmation showing the student is registered for the term and the confirmed credit load.
+
+Trigger
+Course registration completed.
+
+Unlocks
+Award and Monitor Financial Aid can verify enrolment before disbursing scholarships or state-funded support, and can adjust aid based on actual credit load.
+
+Without this
+Aid disbursement is paused or made blind, risking payment to non-enrolled students or incorrect aid amounts.","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","id-2e6834a2-c238-4cf4-989a-cca3222baa9f",""
+"rel-flow-hiedrs-0093","FlowRelationship","Enrollment Confirmation","Content
+Enrollment Confirmation with course registrations, credit load and term details.
+
+Trigger
+Registration finalised.
+
+Unlocks
+Maintain Student Records can update the master Student Record with current enrolment status and ECTS progress.
+
+Without this
+The student record shows the student as admitted but not enrolled, so academic progress and status confirmations are incomplete.","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca",""
+"rel-flow-hiedrs-0094","FlowRelationship","Student Record","Content
+Master Student Record with personal data, programme, funding status, academic progress and consent flags, in current and accurate state.
+
+Trigger
+A student's record is updated or requested by the aid office.
+
+Unlocks
+Award and Monitor Financial Aid can evaluate aid applications, verify satisfactory academic progress and determine state-funded place eligibility.
+
+Without this
+Aid decisions are made without reliable student information, causing incorrect awards and compliance risk.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-2e6834a2-c238-4cf4-989a-cca3222baa9f",""
+"rel-flow-hiedrs-0095","FlowRelationship","Student Record","Content
+Master Student Record with programme, funding type and fee-relevant data.
+
+Trigger
+Billing needs to calculate charges for a student.
+
+Unlocks
+Bill Customer or Payor can determine whether the student is state-funded or self-financing and apply the correct tuition fee schedule.
+
+Without this
+Fee status is unknown and billing cannot produce a lawful invoice.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3",""
+"rel-flow-hiedrs-0096","FlowRelationship","Student Record","Content
+Master Student Record with personal data, academic standing and programme details.
+
+Trigger
+Student initiates course selection or registration for a new term.
+
+Unlocks
+Enroll in Classes can verify the student's identity, programme and prerequisites before registering courses.
+
+Without this
+Registration cannot proceed because the student's standing cannot be confirmed.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10",""
+"rel-flow-hiedrs-0097","FlowRelationship","Student Record","Content
+Master Student Record with contact details and valid consent flag for directory publication.
+
+Trigger
+Directory update or publication requested for a student.
+
+Unlocks
+Maintain Campus Community Directory can publish an accurate entry only if consent is recorded and contact data is correct.
+
+Without this
+The directory cannot list the student, or would risk publishing without lawful basis.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-d6e5d220-7427-459d-b8f4-8fae0c27c848",""
+"rel-flow-hiedrs-0098","FlowRelationship","Student Record","Content
+Master Student Record confirming enrolled status, student standard eligibility and personal data.
+
+Trigger
+Housing application submitted or housing assignment reviewed.
+
+Unlocks
+Provide Housing and Auxiliary Services can verify that the student is enrolled and eligible for subsidised accommodation before issuing a housing contract.
+
+Without this
+Housing may be assigned to an ineligible or non-enrolled applicant, violating student standard rules.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-3c048211-0449-40be-a766-678a749f7390",""
+"rel-flow-hiedrs-0099","FlowRelationship","Target Prospect List","Content
+Target Prospect List of prioritised prospective student segments and contacts to be approached during the recruiting cycle, aligned with programme capacity and quotas.
+
+Trigger
+Recruitment targets set and approved.
+
+Unlocks
+Recruit Prospects can focus outreach on the identified prospects and avoid unqualified contacts, improving conversion to qualified leads.
+
+Without this
+Prospect engagement is untargeted, wasting effort and risking contact with people outside the intended segment.","id-f02c8a55-396b-4810-ab8a-cea744018b10","id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef",""
+"rel-flow-hiedrs-0100","FlowRelationship","Housing Contract","Content
+Housing Contract signed by the student and housing office, stating assignment, period, fees and meal plan if applicable.
+
+Trigger
+Room assigned and contract issued.
+
+Unlocks
+Bill Customer or Payor can add housing and meal charges to the student's account and include them in the next invoice.
+
+Without this
+Housing charges are not billed, revenue is lost and the student account is incomplete.","id-3c048211-0449-40be-a766-678a749f7390","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3",""
+"rel-flow-hiedrs-0101","FlowRelationship","Qualified Lead","Content
+Qualified Lead containing a prospective student's profile, contact consent, programme interest and readiness to apply, passed from recruitment to admissions.
+
+Trigger
+Prospect is scored and meets qualification criteria.
+
+Unlocks
+Admit Students can invite the lead to submit a formal Application for Admission and begin evaluation for a specific programme.
+
+Without this
+Admissions has no pipeline from recruitment and must rely on unprompted applications, missing interested prospects.","id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d",""
+"rel-flow-hiedrs-0102","FlowRelationship","Payor Authorization","Content
+Payor Authorization identifying who is authorised to pay for a self-financing student and the financial relationship details.
+
+Trigger
+Financial relationship set up or payor confirmed for a student.
+
+Unlocks
+Bill Customer or Payor can direct the invoice to the correct payor and apply payment obligations under the authorised relationship.
+
+Without this
+Billing cannot issue an invoice to the right party, leading to unpaid charges or disputes.","id-b334c94a-a2ff-449e-869e-70a0960b4aca","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3",""
+"rel-flow-hiedrs-0103","FlowRelationship","Admission Decision Record","Content
+The final Admission Decision Record showing programme, funding status and acceptance conditions, used to establish initial aid eligibility and state-funded or self-financing status.
+
+Trigger
+An admission decision is rendered and the student is accepted.
+
+Unlocks
+Award and Monitor Financial Aid can verify the student's funding status before scholarships or state-funded support are awarded.
+
+Without this
+The aid office lacks the official funding status for newly admitted students, risking incorrect aid decisions.","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d","id-2e6834a2-c238-4cf4-989a-cca3222baa9f",""
+"rel-flow-hiedrs-0104","FlowRelationship","Student Record","Content
+Master Student Record with identity, programme, funding type and contact data needed to set up a payor, sponsor or state-funded financial relationship.
+
+Trigger
+A financial relationship is set up for a student.
+
+Unlocks
+Manage Financial Relationships can verify student identity and funding status before recording payment obligations.
+
+Without this
+Financial relationships may be attached to the wrong student or fail to distinguish state-funded from self-financing obligations.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-b334c94a-a2ff-449e-869e-70a0960b4aca",""
+"rel-flow-hiedrs-0105","FlowRelationship","Enrollment Confirmation","Content
+Enrollment Confirmation showing registered courses and confirmed ECTS credit load for the term, used to set or update payment obligations in the financial relationship.
+
+Trigger
+Student course registration is completed and confirmed.
+
+Unlocks
+Manage Financial Relationships can verify that the obligation corresponds to an enrolled term and avoid recording charges for a student not actively registered.
+
+Without this
+Financial relationship obligations may be created without confirmed enrolment, leading to incorrect payor contracts.","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","id-b334c94a-a2ff-449e-869e-70a0960b4aca",""
+"rel-flow-hiedrs-0106","FlowRelationship","Program Evaluation Report","Content
+The Program Evaluation Report moves as a written assessment of a study programme against accreditation criteria, signed by internal reviewers and containing strengths, weaknesses, and a recommendation. It leaves Evaluate Academic Program after internal review, with mandatory sections and traceable evidence.
+
+Trigger
+Evaluation of a programme is completed because accreditation renewal or internal review is due.
+
+Unlocks
+Manage Accreditation can assemble the accreditation application and self-evaluation with an evidence-based internal review rather than only raw documentation.
+
+Without this
+Manage Accreditation would have to rely on unassessed programme documentation and could submit an accreditation file with unknown gaps, risking NAT rejection.","id-d8e4c197-826c-4d16-8f57-a29cd7b40c14","id-a6bbc833-d30e-460f-9df3-0ebe783e8f43",""
+"rel-flow-hiedrs-0107","FlowRelationship","Evidence File for Accreditation","Content
+The Evidence File for Accreditation moves from Effectiveness as a structured package of course evaluation summaries, grade distribution reports, and graduate employment findings tied to ESG 2015 Part 1.
+
+Trigger
+Effectiveness finishes its annual effectiveness analysis or a programme review cycle closes.
+
+Unlocks
+Manage Accreditation can attach verified internal quality-assurance evidence to the annual self-evaluation and accreditation renewal submissions.
+
+Without this
+Manage Accreditation would assemble a self-evaluation without raw performance data, leaving it unable to demonstrate the quality cycle NAT and ESG 2015 require.","id-8b80a6ea-0dfa-4673-9eab-027449e3bf84","id-a6bbc833-d30e-460f-9df3-0ebe783e8f43",""
+"rel-flow-hiedrs-0108","FlowRelationship","Study Programme Documentation","Content
+The Study Programme Documentation moves as the final draft of a programme proposal, curriculum map, ECTS allocation and syllabus pack produced before NAT submission.
+
+Trigger
+A new programme or major revision has been planned and signed by the academic body.
+
+Unlocks
+Manage Accreditation can compare the planned programme against NAT accreditation standards and prepare the formal application.
+
+Without this
+Manage Accreditation would have no normative curriculum text to evaluate, so accreditation status of the programme could not be verified or maintained.","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","id-a6bbc833-d30e-460f-9df3-0ebe783e8f43",""
+"rel-flow-hiedrs-0109","FlowRelationship","Accreditation Status Confirmation","Content
+Accreditation Status Confirmation moves as an internal notice that a specific study programme holds valid NAT accreditation for the relevant cycle and that enrolment is lawful.
+
+Trigger
+Admission cycle begins or a programme accreditation is renewed or expires.
+
+Unlocks
+Admit Students can lawfully evaluate applications for that programme and issue admission decisions because the legal precondition is met.
+
+Without this
+Admit Students could enrol applicants into a programme whose accreditation has lapsed, requiring reversal of admissions and risking ministry sanctions.","id-a6bbc833-d30e-460f-9df3-0ebe783e8f43","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d",""
+"rel-flow-hiedrs-0110","FlowRelationship","Accreditation Status Confirmation","Content
+The confirmation moves as a formal internal statement that the programme to be awarded holds valid NAT accreditation at the moment of graduation.
+
+Trigger
+Graduation clearance is requested for a student in a final-year cohort.
+
+Unlocks
+Issue Diplomas and Diploma Supplements can lawfully verify the study programme is accredited before issuing a recognised diploma and supplement.
+
+Without this
+The capability would issue diplomas blind to accreditation status, potentially issuing invalid credentials and undermining legal recognition.","id-a6bbc833-d30e-460f-9df3-0ebe783e8f43","id-7867ed7a-a6c0-499b-a13e-41619962e307",""
+"rel-flow-hiedrs-0111","FlowRelationship","Transcript of Records","Content
+Transcript of Records moves as an official, digital-signed transcript of all graded courses and ECTS credits earned by the candidate, complete for the study programme.
+
+Trigger
+Evaluate Student Performance finalises the student's grades and credits at the end of the final year.
+
+Unlocks
+Issue Diplomas and Diploma Supplements can verify that all degree requirements are met and confirm the total ECTS load before awarding the diploma.
+
+Without this
+The diploma process cannot confirm academic completion, so the diploma would be delayed or issued without verified credits.","id-8fcac125-67c1-46c5-b3a6-0cb03f136833","id-7867ed7a-a6c0-499b-a13e-41619962e307",""
+"rel-flow-hiedrs-0112","FlowRelationship","Recognition Decision","Content
+Recognition Decision moves as a signed, binding decision under the Law on Higher Education stating that a foreign qualification is comparable to a Serbian study programme in the same Bologna cycle.
+
+Trigger
+A foreign qualification submitted with an application for admission has been authenticated and assessed.
+
+Unlocks
+Admit Students can treat the applicant's prior education as verified and rank them for admission without further foreign credential checks.
+
+Without this
+Admit Students cannot complete admission for applicants with foreign qualifications, causing them to reject eligible applicants or admit on unverified documents.","id-9475e03b-21b2-44ad-a009-25c3be831b1e","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d",""
+"rel-flow-hiedrs-0113","FlowRelationship","Recognition Record","Content
+Recognition Record moves as a durable entry of the recognition decision, including the foreign qualification details, the Serbian comparability statement, and the issuing official.
+
+Trigger
+Recognize Foreign Qualifications issues a positive or negative Recognition Decision and logs it.
+
+Unlocks
+Maintain Student Records can store the recognition outcome in the student file, ensuring later transcript and diploma processes see verified prior education.
+
+Without this
+The student record would lack proof of qualification equivalence, and future status checks would be incomplete.","id-9475e03b-21b2-44ad-a009-25c3be831b1e","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca",""
+"rel-flow-hiedrs-0114","FlowRelationship","Data Protection Impact Assessment","Content
+The Data Protection Impact Assessment moves as a documented evaluation of the risks of sending foreign qualification documents to ENIC-NARIC or another external verifier, signed by the data protection officer.
+
+Trigger
+Manage Data Protection conducts a DPIA when Recognize Foreign Qualifications indicates verification will involve cross-border personal data transfer.
+
+Unlocks
+Recognize Foreign Qualifications can proceed with the verification knowing the transfer is lawful and risk-mitigated.
+
+Without this
+The capability would be unable to send documents abroad safely, blocking authentication of foreign qualifications.","id-f7b60e7c-3f68-40f5-9f7d-335d13dd7c1c","id-9475e03b-21b2-44ad-a009-25c3be831b1e",""
+"rel-flow-hiedrs-0115","FlowRelationship","Cross-Border Transfer Authorisation","Content
+Cross-Border Transfer Authorisation moves as a data protection officer's approval for sending student mobility records, learning agreements, and personal data to partner institutions in the EU or beyond under GDPR safeguards.
+
+Trigger
+An Erasmus+ mobility period is approved and personal data must move to a partner institution.
+
+Unlocks
+Manage Erasmus+ Mobility can legally exchange learning agreements, transcripts, and personal data with partner institutions for the mobility duration.
+
+Without this
+Mobility management cannot share student data abroad, so learning agreements and host institution transcripts cannot be processed, blocking the mobility.","id-f7b60e7c-3f68-40f5-9f7d-335d13dd7c1c","id-1bdefe7d-266e-4b95-8f83-c2539d0148ab",""
+"rel-flow-hiedrs-0116","FlowRelationship","Approved Learning Agreement","Content
+Approved Learning Agreement moves as the signed three-party Erasmus+ learning agreement, listing courses to be taken abroad with ECTS credits and sending/home institution approvals.
+
+Trigger
+The student, sending institution and host institution have all signed the learning agreement.
+
+Unlocks
+Enroll in Classes can record the incoming or outgoing mobility student's agreed course load and ECTS credits, integrating it with local enrollment records.
+
+Without this
+Enroll in Classes cannot register mobility students with correct ECTS credit load, causing administrative mismatches and credit recognition failures.","id-1bdefe7d-266e-4b95-8f83-c2539d0148ab","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10",""
+"rel-flow-hiedrs-0117","FlowRelationship","Student Record","Content
+Student Record moves as the master record of the student's personal data, enrolment history, programme, funding status, and academic standing, released for graduation clearance.
+
+Trigger
+Issue Diplomas and Diploma Supplements requests the record for a candidate in the final phase of study.
+
+Unlocks
+Issue Diplomas can match the transcript and thesis defense to the correct student identity and programme, ensuring the diploma is issued to the right graduate.
+
+Without this
+The diploma process would lack authoritative personal and programme data, risking misidentification and invalid issuance.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-7867ed7a-a6c0-499b-a13e-41619962e307",""
+"rel-flow-hiedrs-0118","FlowRelationship","Consent Record","Content
+Consent Record moves as a timestamped record of an individual's opt-in consent for recruitment contact, including the channel and purpose, produced by the prospect management activity.
+
+Trigger
+Recruit Prospects captures a prospect's consent checkbox on an inquiry form or event registration.
+
+Unlocks
+Manage Data Protection can maintain the central record of lawful bases and verify consent validity if challenged.
+
+Without this
+The institution cannot demonstrate that consent was collected, making recruitment outreach unlawful under the Law on Personal Data Protection and GDPR.","id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef","id-f7b60e7c-3f68-40f5-9f7d-335d13dd7c1c",""
+"rel-flow-hiedrs-0119","FlowRelationship","Ranking of Applicants","Content
+Ranking of Applicants moves as the final merit list of admitted candidates for each study programme, ordered by admission criteria and indicating qualification for budget places.
+
+Trigger
+Admit Students completes evaluation and ranking after the admission examination or documents are assessed.
+
+Unlocks
+Manage State Funding can assign state-funded places according to the approved quota and the ranking, ensuring public funds follow the most qualified applicants.
+
+Without this
+State-funded places would be allocated without a lawful ranking, risking ministry challenge and misuse of quota.","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d","id-58101092-095e-42fc-a263-ddc537d93a84",""
+"rel-flow-hiedrs-0120","FlowRelationship","State-Funded Place Confirmation","Content
+State-Funded Place Confirmation moves as a decision that a specific student is awarded a budget place for the academic year, tied to the ministry-set quota and study programme, issued to confirm the assignment.
+
+Trigger
+Manage State Funding has assigned quota places after ranking and quota distribution.
+
+Unlocks
+Award and Monitor Financial Aid can activate the student's state-funded aid package, including any associated scholarships and subsidies, without duplicating quota decisions.
+
+Without this
+Financial aid would not know whether a student is state-funded, causing wrong disbursements and potential overpayment of self-financing students.","id-58101092-095e-42fc-a263-ddc537d93a84","id-2e6834a2-c238-4cf4-989a-cca3222baa9f",""
+"rel-flow-hiedrs-0121","FlowRelationship","Self-Financing Status Confirmation","Content
+Self-Financing Status Confirmation moves as an official record that a student is not awarded a state-funded place and must pay the full tuition fee for the programme.
+
+Trigger
+Manage State Funding completes assignment of state-funded places and confirms the remaining admitted students as self-financing.
+
+Unlocks
+Bill Customer or Payor can issue the correct tuition invoice and set the fee status for the student.
+
+Without this
+The billing capability would not know whether to bill full tuition or only non-subsidised fees, causing incorrect invoices and revenue leakage.","id-58101092-095e-42fc-a263-ddc537d93a84","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3",""
+"rel-flow-hiedrs-0122","FlowRelationship","Student Funding Status","Content
+Student Funding Status moves as an official update of the student's public funding classification, to be recorded in the master student record.
+
+Trigger
+Manage State Funding determines or changes a student's funding status.
+
+Unlocks
+Maintain Student Records can reflect the correct funding status in the student record, ensuring consistency across all downstream processes.
+
+Without this
+The master record would disagree with funding decisions, causing billing, financial aid, and reporting errors.","id-58101092-095e-42fc-a263-ddc537d93a84","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca",""
+"rel-flow-hiedrs-0123","FlowRelationship","Student Standard Record","Content
+Student Standard Record moves as a certified record of the student's entitlement to subsidised accommodation, meals, or other services, including the specific decision and any conditions.
+
+Trigger
+Administer Student Standard issues a subsidy or scholarship decision and sends the record to the student centre's implementation unit.
+
+Unlocks
+Provide Housing and Auxiliary Services can allocate a dormitory place or meal plan according to the confirmed entitlement.
+
+Without this
+Housing and auxiliary services would not know which students are subsidised, causing either denial of service or provision without verified eligibility.","id-703c3278-af18-4e57-8bd0-ef52b23dc077","id-3c048211-0449-40be-a766-678a749f7390",""
+"rel-flow-hiedrs-0124","FlowRelationship","Student Record","Content
+Student Record moves as an authorised extract of the student's enrolment and personal status to confirm active student status for student standard evaluation.
+
+Trigger
+Administer Student Standard requests verification when a student applies for subsidised accommodation, meals, or scholarships.
+
+Unlocks
+Administer Student Standard can confirm the applicant is enrolled and eligible before evaluating income and capacity.
+
+Without this
+The capability could allocate student standard support to non-enrolled persons, violating the Law on Higher Education and wasting public resources.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-703c3278-af18-4e57-8bd0-ef52b23dc077",""
+"rel-flow-hiedrs-0125","FlowRelationship","Scholarship Award Decision","Content
+Scholarship Award Decision moves as a formal outcome of the scholarship ranking under the applicable scholarship rule, naming the student, amount, and source.
+
+Trigger
+Administer Student Standard completes ranking and approval of scholarship applications.
+
+Unlocks
+Award and Monitor Financial Aid can include the student standard scholarship in the student's overall aid package and instruct disbursement.
+
+Without this
+A scholarship granted through the student centre would not be integrated into the central financial aid record, causing duplicate or missing payments.","id-703c3278-af18-4e57-8bd0-ef52b23dc077","id-2e6834a2-c238-4cf4-989a-cca3222baa9f",""
+"rel-flow-hiedrs-0126","FlowRelationship","Student Record","Content
+Student Record moves as the verified record of student identity and admission status needed to assign state-funded or self-financing places accurately.
+
+Trigger
+Manage State Funding requests the record when distributing quotas and assigning student funding status.
+
+Unlocks
+State funding can rank and assign students only against verified enrolment and admission data, reducing errors and duplication.
+
+Without this
+Quota assignments could be based on inaccurate identities or statuses, leading to incorrect budget place allocation and funding claims.","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","id-58101092-095e-42fc-a263-ddc537d93a84",""
+"rel-flow-hiedrs-0127","FlowRelationship","Graduation Register Entry","Content
+Graduation Register Entry moves as the official record that a diploma and supplement were issued, including the date, programme, cycle, and graduate identity.
+
+Trigger
+Issue Diplomas records graduation after verifying all requirements and issuing the credential.
+
+Unlocks
+Maintain Student Records can update the student's final status and archive the completion of studies in the master record.
+
+Without this
+The master record would never reflect graduation, leaving the student as an active or incomplete record and corrupting downstream statistics.","id-7867ed7a-a6c0-499b-a13e-41619962e307","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca",""
+"rel-flow-hiedrs-0128","FlowRelationship","Data Breach Report","Content
+Data Breach Report moves as a structured notification from the service desk or resolver containing affected systems, data categories, scope, and an initial severity assessment.
+
+Trigger
+Diagnose/Resolve Issues detects a security incident or unauthorised disclosure involving personal data.
+
+Unlocks
+Manage Data Protection can assess breach severity, determine whether notification to the Commissioner for Information of Public Importance and Personal Data Protection is required, and coordinate response.
+
+Without this
+Breaches would go unreported, exposing the institution to regulatory sanctions and data subjects to harm.","id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009","id-f7b60e7c-3f68-40f5-9f7d-335d13dd7c1c",""
+"rel-flow-hiedrs-0129","FlowRelationship","Data Subject Response","Content
+Data Subject Response moves as the formal decision from the data protection officer granting or denying a data subject's request, including required rectification, erasure, or restriction.
+
+Trigger
+Manage Data Protection completes the assessment of a Data Subject Access Request and issues the response.
+
+Unlocks
+Maintain Student Records can lawfully correct, archive, or restrict personal data in the Student Record in line with the data protection officer's determination.
+
+Without this
+A lawful data subject request would not be applied to the Student Record, leaving the institution non-compliant with the Serbian Law on Personal Data Protection and GDPR.","id-f7b60e7c-3f68-40f5-9f7d-335d13dd7c1c","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca",""
+"rel-mot-hiedrs-0000","InfluenceRelationship","","","dr-state-budget-quota-limits-volume","sh-students",""
+"rel-mot-hiedrs-0001","InfluenceRelationship","","","dr-margin-gap","sh-students",""
+"rel-mot-hiedrs-0002","InfluenceRelationship","","","dr-margin-gap","sh-ministry-higher-education",""
+"rel-mot-hiedrs-0003","InfluenceRelationship","","","dr-margin-gap","sh-staff",""
+"rel-mot-hiedrs-0004","InfluenceRelationship","","","dr-margin-gap","sh-facility-providers",""
+"rel-mot-hiedrs-0005","InfluenceRelationship","","","dr-accreditation-gate","sh-students",""
+"rel-mot-hiedrs-0006","InfluenceRelationship","","","dr-accreditation-gate","sh-employers",""
+"rel-mot-hiedrs-0007","InfluenceRelationship","","","dr-accreditation-gate","sh-nat",""
+"rel-mot-hiedrs-0008","InfluenceRelationship","","","dr-accreditation-gate","sh-ministry-higher-education",""
+"rel-mot-hiedrs-0009","InfluenceRelationship","","","dr-esg-qa-alignment","sh-nat",""
+"rel-mot-hiedrs-0010","InfluenceRelationship","","","dr-esg-qa-alignment","sh-students",""
+"rel-mot-hiedrs-0011","InfluenceRelationship","","","dr-esg-qa-alignment","sh-employers",""
+"rel-mot-hiedrs-0012","InfluenceRelationship","","","dr-esg-qa-alignment","sh-ministry-higher-education",""
+"rel-mot-hiedrs-0013","InfluenceRelationship","","","dr-esg-qa-alignment","sh-partner-institutions",""
+"rel-mot-hiedrs-0014","InfluenceRelationship","","","dr-erasmus-mobility-recognition","sh-students",""
+"rel-mot-hiedrs-0015","InfluenceRelationship","","","dr-erasmus-mobility-recognition","sh-partner-institutions",""
+"rel-mot-hiedrs-0016","InfluenceRelationship","","","dr-data-protection","sh-students",""
+"rel-mot-hiedrs-0017","InfluenceRelationship","","","dr-data-protection","sh-staff",""
+"rel-mot-hiedrs-0018","InfluenceRelationship","","","dr-data-protection","sh-commissioner-data-protection",""
+"rel-mot-hiedrs-0019","InfluenceRelationship","","","dr-data-protection","sh-partner-institutions",""
+"rel-mot-hiedrs-0020","InfluenceRelationship","","","dr-legal-form-split","sh-staff",""
+"rel-mot-hiedrs-0021","InfluenceRelationship","","","dr-legal-form-split","sh-students",""
+"rel-mot-hiedrs-0022","InfluenceRelationship","","","dr-legal-form-split","sh-ministry-higher-education",""
+"rel-mot-hiedrs-0023","InfluenceRelationship","","","dr-legal-form-split","sh-partner-institutions",""
+"rel-mot-hiedrs-0024","InfluenceRelationship","","","dr-state-budget-quota-limits-volume","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0025","InfluenceRelationship","","","dr-state-budget-quota-limits-volume","gl-student-record-service",""
+"rel-mot-hiedrs-0026","InfluenceRelationship","","","dr-state-budget-quota-limits-volume","gl-sales-contract-revenue",""
+"rel-mot-hiedrs-0027","InfluenceRelationship","","","dr-margin-gap","gl-advancement-private-support",""
+"rel-mot-hiedrs-0028","InfluenceRelationship","","","dr-margin-gap","gl-grant-funding-compliance",""
+"rel-mot-hiedrs-0029","InfluenceRelationship","","","dr-margin-gap","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0030","InfluenceRelationship","","","dr-margin-gap","gl-sales-contract-revenue",""
+"rel-mot-hiedrs-0031","InfluenceRelationship","","","dr-accreditation-gate","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0032","InfluenceRelationship","","","dr-accreditation-gate","gl-academic-program-delivery",""
+"rel-mot-hiedrs-0033","InfluenceRelationship","","","dr-accreditation-gate","gl-student-record-service",""
+"rel-mot-hiedrs-0034","InfluenceRelationship","","","dr-accreditation-gate","gl-sales-contract-revenue",""
+"rel-mot-hiedrs-0035","InfluenceRelationship","","","dr-esg-qa-alignment","gl-academic-program-delivery",""
+"rel-mot-hiedrs-0036","InfluenceRelationship","","","dr-erasmus-mobility-recognition","gl-support-resolution",""
+"rel-mot-hiedrs-0037","InfluenceRelationship","","","dr-erasmus-mobility-recognition","gl-student-record-service",""
+"rel-mot-hiedrs-0038","InfluenceRelationship","","","dr-erasmus-mobility-recognition","gl-academic-program-delivery",""
+"rel-mot-hiedrs-0039","InfluenceRelationship","","","dr-data-protection","gl-support-resolution",""
+"rel-mot-hiedrs-0040","InfluenceRelationship","","","dr-data-protection","gl-advancement-private-support",""
+"rel-mot-hiedrs-0041","InfluenceRelationship","","","dr-data-protection","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0042","InfluenceRelationship","","","dr-data-protection","gl-grant-funding-compliance",""
+"rel-mot-hiedrs-0043","InfluenceRelationship","","","dr-data-protection","gl-student-record-service",""
+"rel-mot-hiedrs-0044","InfluenceRelationship","","","dr-data-protection","gl-academic-program-delivery",""
+"rel-mot-hiedrs-0045","InfluenceRelationship","","","dr-data-protection","gl-sales-contract-revenue",""
+"rel-mot-hiedrs-0046","InfluenceRelationship","","","dr-legal-form-split","gl-support-resolution",""
+"rel-mot-hiedrs-0047","InfluenceRelationship","","","dr-legal-form-split","gl-advancement-private-support",""
+"rel-mot-hiedrs-0048","InfluenceRelationship","","","dr-legal-form-split","gl-grant-funding-compliance",""
+"rel-mot-hiedrs-0049","InfluenceRelationship","","","dr-legal-form-split","gl-student-record-service",""
+"rel-mot-hiedrs-0050","InfluenceRelationship","","","dr-legal-form-split","gl-sales-contract-revenue",""
+"rel-mot-hiedrs-0051","InfluenceRelationship","","","gl-support-resolution","sh-students",""
+"rel-mot-hiedrs-0052","InfluenceRelationship","","","gl-support-resolution","sh-staff",""
+"rel-mot-hiedrs-0053","InfluenceRelationship","","","gl-marketing-accredited-demand","sh-students",""
+"rel-mot-hiedrs-0054","InfluenceRelationship","","","gl-grant-funding-compliance","sh-ministry-higher-education",""
+"rel-mot-hiedrs-0055","InfluenceRelationship","","","gl-grant-funding-compliance","sh-staff",""
+"rel-mot-hiedrs-0056","InfluenceRelationship","","","gl-grant-funding-compliance","sh-partner-institutions",""
+"rel-mot-hiedrs-0057","InfluenceRelationship","","","gl-student-record-service","sh-students",""
+"rel-mot-hiedrs-0058","InfluenceRelationship","","","gl-student-record-service","sh-ministry-higher-education",""
+"rel-mot-hiedrs-0059","InfluenceRelationship","","","gl-student-record-service","sh-commissioner-data-protection",""
+"rel-mot-hiedrs-0060","InfluenceRelationship","","","gl-academic-program-delivery","sh-students",""
+"rel-mot-hiedrs-0061","InfluenceRelationship","","","gl-academic-program-delivery","sh-employers",""
+"rel-mot-hiedrs-0062","InfluenceRelationship","","","gl-academic-program-delivery","sh-nat",""
+"rel-mot-hiedrs-0063","InfluenceRelationship","","","gl-sales-contract-revenue","sh-students",""
+"rel-mot-hiedrs-0064","InfluenceRelationship","","","gl-sales-contract-revenue","sh-employers",""
+"rel-mot-hiedrs-0065","InfluenceRelationship","","","id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009","gl-support-resolution",""
+"rel-mot-hiedrs-0066","InfluenceRelationship","","","id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009","gl-student-record-service",""
+"rel-mot-hiedrs-0067","InfluenceRelationship","","","id-8abb076b-05fc-4e17-8f75-51b43cf80016","gl-support-resolution",""
+"rel-mot-hiedrs-0068","InfluenceRelationship","","","id-a4637e89-2929-4077-a22a-d756585cb025","gl-advancement-private-support",""
+"rel-mot-hiedrs-0069","InfluenceRelationship","","","id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3","gl-advancement-private-support",""
+"rel-mot-hiedrs-0070","InfluenceRelationship","","","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2","gl-advancement-private-support",""
+"rel-mot-hiedrs-0071","InfluenceRelationship","","","id-a398a43a-7375-47d1-af1b-49bf78188b6c","gl-advancement-private-support",""
+"rel-mot-hiedrs-0072","InfluenceRelationship","","","id-54df2c7e-67f4-4959-8243-c1c192a5cf63","gl-advancement-private-support",""
+"rel-mot-hiedrs-0073","InfluenceRelationship","","","id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9","gl-advancement-private-support",""
+"rel-mot-hiedrs-0074","InfluenceRelationship","","","id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0075","InfluenceRelationship","","","id-c442ac23-7d84-40ae-83f0-05cbdd824769","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0076","InfluenceRelationship","","","id-99e8ec1c-bd58-4c5a-b20b-ac6b885c1253","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0077","InfluenceRelationship","","","id-4d75a20e-4723-4e0a-b0f8-c439ccd4037f","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0078","InfluenceRelationship","","","id-85305cf8-0cba-49a6-a668-a99f37128a68","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0079","InfluenceRelationship","","","id-05994d0d-610b-45e2-b8c2-a60663547d24","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0080","InfluenceRelationship","","","id-6f1e97f2-f962-4853-b211-ad1f254d6ecc","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0081","InfluenceRelationship","","","id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b","gl-grant-funding-compliance",""
+"rel-mot-hiedrs-0082","InfluenceRelationship","","","id-1db93bd4-1dfe-459a-8324-c55dee07ec4f","gl-grant-funding-compliance",""
+"rel-mot-hiedrs-0083","InfluenceRelationship","","","id-fea4c7b7-058d-4326-a804-3451a3d9276e","gl-grant-funding-compliance",""
+"rel-mot-hiedrs-0084","InfluenceRelationship","","","id-23e7115f-0500-4038-95a8-21e2597ef3b0","gl-grant-funding-compliance",""
+"rel-mot-hiedrs-0085","InfluenceRelationship","","","id-a1b2e963-145c-42d9-a3b0-fdaff60f0fc3","gl-grant-funding-compliance",""
+"rel-mot-hiedrs-0086","InfluenceRelationship","","","id-51cd6874-501c-40ec-b797-8d46bc6d2240","gl-grant-funding-compliance",""
+"rel-mot-hiedrs-0087","InfluenceRelationship","","","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d","gl-student-record-service",""
+"rel-mot-hiedrs-0088","InfluenceRelationship","","","id-2e6834a2-c238-4cf4-989a-cca3222baa9f","gl-student-record-service",""
+"rel-mot-hiedrs-0089","InfluenceRelationship","","","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3","gl-student-record-service",""
+"rel-mot-hiedrs-0090","InfluenceRelationship","","","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","gl-student-record-service",""
+"rel-mot-hiedrs-0091","InfluenceRelationship","","","id-d6e5d220-7427-459d-b8f4-8fae0c27c848","gl-student-record-service",""
+"rel-mot-hiedrs-0092","InfluenceRelationship","","","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","gl-student-record-service",""
+"rel-mot-hiedrs-0093","InfluenceRelationship","","","id-b334c94a-a2ff-449e-869e-70a0960b4aca","gl-student-record-service",""
+"rel-mot-hiedrs-0094","InfluenceRelationship","","","id-f02c8a55-396b-4810-ab8a-cea744018b10","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0095","InfluenceRelationship","","","id-3c048211-0449-40be-a766-678a749f7390","gl-student-record-service",""
+"rel-mot-hiedrs-0096","InfluenceRelationship","","","id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef","gl-marketing-accredited-demand",""
+"rel-mot-hiedrs-0097","InfluenceRelationship","","","id-d7a1670b-5b1f-4419-a987-19f2b699fecb","gl-academic-program-delivery",""
+"rel-mot-hiedrs-0098","InfluenceRelationship","","","id-4a109615-89b7-4d83-9527-666fb431ad35","gl-student-record-service",""
+"rel-mot-hiedrs-0099","InfluenceRelationship","","","id-8b80a6ea-0dfa-4673-9eab-027449e3bf84","gl-academic-program-delivery",""
+"rel-mot-hiedrs-0100","InfluenceRelationship","","","id-d8e4c197-826c-4d16-8f57-a29cd7b40c14","gl-academic-program-delivery",""
+"rel-mot-hiedrs-0101","InfluenceRelationship","","","id-8fcac125-67c1-46c5-b3a6-0cb03f136833","gl-academic-program-delivery",""
+"rel-mot-hiedrs-0102","InfluenceRelationship","","","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","gl-academic-program-delivery",""
+"rel-mot-hiedrs-0103","InfluenceRelationship","","","id-1ca721ed-d3db-46c1-8ad3-1680c683cace","gl-academic-program-delivery",""
+"rel-mot-hiedrs-0104","InfluenceRelationship","","","id-cbacfae9-ac1b-47fa-9b0f-25a035e0e5c8","gl-academic-program-delivery",""
+"rel-mot-hiedrs-0105","InfluenceRelationship","","","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81","gl-sales-contract-revenue",""
+"rel-mot-hiedrs-0106","InfluenceRelationship","","","id-6d5adb53-67bb-47a3-86a7-6157091b49aa","gl-sales-contract-revenue",""
+"rel-mot-hiedrs-0107","InfluenceRelationship","","","id-a609d67d-c8e5-42b1-86fb-23647dc01b52","gl-sales-contract-revenue",""
+"rel-mot-hiedrs-0108","InfluenceRelationship","","","id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d","gl-sales-contract-revenue",""
+"rel-mot-hiedrs-0109","InfluenceRelationship","","","id-a711bf13-8d88-4d21-8410-ab448500566a","gl-sales-contract-revenue",""
+"rel-mot-hiedrs-0110","InfluenceRelationship","","","id-ebfac6ac-707e-497a-b678-abc00810b609","gl-sales-contract-revenue",""
+"rel-mot-hiedrs-0111","InfluenceRelationship","","","id-52f6b145-944f-43d6-8dff-7f43ef37bc51","gl-sales-contract-revenue",""
+"rel-vstrig-hiedrs-0000","TriggeringRelationship","","","id-99e8ec1c-bd58-4c5a-b20b-ac6b885c1253","id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651",""
+"rel-vstrig-hiedrs-0001","TriggeringRelationship","","","id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651","id-85305cf8-0cba-49a6-a668-a99f37128a68",""
+"rel-vstrig-hiedrs-0002","TriggeringRelationship","","","id-85305cf8-0cba-49a6-a668-a99f37128a68","id-6f1e97f2-f962-4853-b211-ad1f254d6ecc",""
+"rel-vstrig-hiedrs-0003","TriggeringRelationship","","","id-6f1e97f2-f962-4853-b211-ad1f254d6ecc","id-c442ac23-7d84-40ae-83f0-05cbdd824769",""
+"rel-vstrig-hiedrs-0004","TriggeringRelationship","","","id-c442ac23-7d84-40ae-83f0-05cbdd824769","id-4d75a20e-4723-4e0a-b0f8-c439ccd4037f",""
+"rel-vstrig-hiedrs-0005","TriggeringRelationship","","","id-4d75a20e-4723-4e0a-b0f8-c439ccd4037f","id-05994d0d-610b-45e2-b8c2-a60663547d24",""
+"rel-vs-hiedrs-0000","ServingRelationship","","","id-99e8ec1c-bd58-4c5a-b20b-ac6b885c1253","vs-campaign-to-profitability",""
+"rel-vs-hiedrs-0001","ServingRelationship","","","id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651","vs-campaign-to-profitability",""
+"rel-vs-hiedrs-0002","ServingRelationship","","","id-85305cf8-0cba-49a6-a668-a99f37128a68","vs-campaign-to-profitability",""
+"rel-vs-hiedrs-0003","ServingRelationship","","","id-6f1e97f2-f962-4853-b211-ad1f254d6ecc","vs-campaign-to-profitability",""
+"rel-vs-hiedrs-0004","ServingRelationship","","","id-c442ac23-7d84-40ae-83f0-05cbdd824769","vs-campaign-to-profitability",""
+"rel-vs-hiedrs-0005","ServingRelationship","","","id-4d75a20e-4723-4e0a-b0f8-c439ccd4037f","vs-campaign-to-profitability",""
+"rel-vs-hiedrs-0006","ServingRelationship","","","id-05994d0d-610b-45e2-b8c2-a60663547d24","vs-campaign-to-profitability",""
+"rel-vstrig-hiedrs-0006","TriggeringRelationship","","","id-f02c8a55-396b-4810-ab8a-cea744018b10","id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef",""
+"rel-vstrig-hiedrs-0007","TriggeringRelationship","","","id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d",""
+"rel-vstrig-hiedrs-0008","TriggeringRelationship","","","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10",""
+"rel-vstrig-hiedrs-0009","TriggeringRelationship","","","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca",""
+"rel-vs-hiedrs-0007","ServingRelationship","","","id-f02c8a55-396b-4810-ab8a-cea744018b10","vs-prospect-to-enrollment",""
+"rel-vs-hiedrs-0008","ServingRelationship","","","id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef","vs-prospect-to-enrollment",""
+"rel-vs-hiedrs-0009","ServingRelationship","","","id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d","vs-prospect-to-enrollment",""
+"rel-vs-hiedrs-0010","ServingRelationship","","","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","vs-prospect-to-enrollment",""
+"rel-vs-hiedrs-0011","ServingRelationship","","","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","vs-prospect-to-enrollment",""
+"rel-vstrig-hiedrs-0010","TriggeringRelationship","","","id-d7a1670b-5b1f-4419-a987-19f2b699fecb","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10",""
+"rel-vstrig-hiedrs-0011","TriggeringRelationship","","","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","id-8fcac125-67c1-46c5-b3a6-0cb03f136833",""
+"rel-vstrig-hiedrs-0012","TriggeringRelationship","","","id-8fcac125-67c1-46c5-b3a6-0cb03f136833","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca",""
+"rel-vs-hiedrs-0012","ServingRelationship","","","id-d7a1670b-5b1f-4419-a987-19f2b699fecb","vs-enrollment-to-graduation",""
+"rel-vs-hiedrs-0013","ServingRelationship","","","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","vs-enrollment-to-graduation",""
+"rel-vs-hiedrs-0014","ServingRelationship","","","id-8fcac125-67c1-46c5-b3a6-0cb03f136833","vs-enrollment-to-graduation",""
+"rel-vs-hiedrs-0015","ServingRelationship","","","id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","vs-enrollment-to-graduation",""
+"rel-vstrig-hiedrs-0013","TriggeringRelationship","","","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","id-1ca721ed-d3db-46c1-8ad3-1680c683cace",""
+"rel-vstrig-hiedrs-0014","TriggeringRelationship","","","id-1ca721ed-d3db-46c1-8ad3-1680c683cace","id-cbacfae9-ac1b-47fa-9b0f-25a035e0e5c8",""
+"rel-vs-hiedrs-0016","ServingRelationship","","","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","vs-curriculum-to-class-schedule",""
+"rel-vs-hiedrs-0017","ServingRelationship","","","id-1ca721ed-d3db-46c1-8ad3-1680c683cace","vs-curriculum-to-class-schedule",""
+"rel-vs-hiedrs-0018","ServingRelationship","","","id-cbacfae9-ac1b-47fa-9b0f-25a035e0e5c8","vs-curriculum-to-class-schedule",""
+"rel-vstrig-hiedrs-0015","TriggeringRelationship","","","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","id-d8e4c197-826c-4d16-8f57-a29cd7b40c14",""
+"rel-vstrig-hiedrs-0016","TriggeringRelationship","","","id-d8e4c197-826c-4d16-8f57-a29cd7b40c14","id-8b80a6ea-0dfa-4673-9eab-027449e3bf84",""
+"rel-vs-hiedrs-0019","ServingRelationship","","","id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","vs-programme-proposal-to-accreditation",""
+"rel-vs-hiedrs-0020","ServingRelationship","","","id-d8e4c197-826c-4d16-8f57-a29cd7b40c14","vs-programme-proposal-to-accreditation",""
+"rel-vs-hiedrs-0021","ServingRelationship","","","id-8b80a6ea-0dfa-4673-9eab-027449e3bf84","vs-programme-proposal-to-accreditation",""
+"rel-vstrig-hiedrs-0017","TriggeringRelationship","","","id-a1b2e963-145c-42d9-a3b0-fdaff60f0fc3","id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b",""
+"rel-vstrig-hiedrs-0018","TriggeringRelationship","","","id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b","id-fea4c7b7-058d-4326-a804-3451a3d9276e",""
+"rel-vstrig-hiedrs-0019","TriggeringRelationship","","","id-fea4c7b7-058d-4326-a804-3451a3d9276e","id-23e7115f-0500-4038-95a8-21e2597ef3b0",""
+"rel-vstrig-hiedrs-0020","TriggeringRelationship","","","id-23e7115f-0500-4038-95a8-21e2597ef3b0","id-1db93bd4-1dfe-459a-8324-c55dee07ec4f",""
+"rel-vstrig-hiedrs-0021","TriggeringRelationship","","","id-1db93bd4-1dfe-459a-8324-c55dee07ec4f","id-51cd6874-501c-40ec-b797-8d46bc6d2240",""
+"rel-vs-hiedrs-0022","ServingRelationship","","","id-a1b2e963-145c-42d9-a3b0-fdaff60f0fc3","vs-call-to-grant-closeout",""
+"rel-vs-hiedrs-0023","ServingRelationship","","","id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b","vs-call-to-grant-closeout",""
+"rel-vs-hiedrs-0024","ServingRelationship","","","id-fea4c7b7-058d-4326-a804-3451a3d9276e","vs-call-to-grant-closeout",""
+"rel-vs-hiedrs-0025","ServingRelationship","","","id-23e7115f-0500-4038-95a8-21e2597ef3b0","vs-call-to-grant-closeout",""
+"rel-vs-hiedrs-0026","ServingRelationship","","","id-1db93bd4-1dfe-459a-8324-c55dee07ec4f","vs-call-to-grant-closeout",""
+"rel-vs-hiedrs-0027","ServingRelationship","","","id-51cd6874-501c-40ec-b797-8d46bc6d2240","vs-call-to-grant-closeout",""
+"rel-vstrig-hiedrs-0022","TriggeringRelationship","","","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2","id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9",""
+"rel-vstrig-hiedrs-0023","TriggeringRelationship","","","id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9","id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3",""
+"rel-vstrig-hiedrs-0024","TriggeringRelationship","","","id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3","id-54df2c7e-67f4-4959-8243-c1c192a5cf63",""
+"rel-vstrig-hiedrs-0025","TriggeringRelationship","","","id-54df2c7e-67f4-4959-8243-c1c192a5cf63","id-a4637e89-2929-4077-a22a-d756585cb025",""
+"rel-vstrig-hiedrs-0026","TriggeringRelationship","","","id-a4637e89-2929-4077-a22a-d756585cb025","id-a398a43a-7375-47d1-af1b-49bf78188b6c",""
+"rel-vs-hiedrs-0028","ServingRelationship","","","id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2","vs-donor-prospect-to-endowment",""
+"rel-vs-hiedrs-0029","ServingRelationship","","","id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9","vs-donor-prospect-to-endowment",""
+"rel-vs-hiedrs-0030","ServingRelationship","","","id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3","vs-donor-prospect-to-endowment",""
+"rel-vs-hiedrs-0031","ServingRelationship","","","id-54df2c7e-67f4-4959-8243-c1c192a5cf63","vs-donor-prospect-to-endowment",""
+"rel-vs-hiedrs-0032","ServingRelationship","","","id-a4637e89-2929-4077-a22a-d756585cb025","vs-donor-prospect-to-endowment",""
+"rel-vs-hiedrs-0033","ServingRelationship","","","id-a398a43a-7375-47d1-af1b-49bf78188b6c","vs-donor-prospect-to-endowment",""
+"rel-vstrig-hiedrs-0027","TriggeringRelationship","","","id-52f6b145-944f-43d6-8dff-7f43ef37bc51","id-ebfac6ac-707e-497a-b678-abc00810b609",""
+"rel-vstrig-hiedrs-0028","TriggeringRelationship","","","id-ebfac6ac-707e-497a-b678-abc00810b609","id-a711bf13-8d88-4d21-8410-ab448500566a",""
+"rel-vstrig-hiedrs-0029","TriggeringRelationship","","","id-a711bf13-8d88-4d21-8410-ab448500566a","id-a609d67d-c8e5-42b1-86fb-23647dc01b52",""
+"rel-vstrig-hiedrs-0030","TriggeringRelationship","","","id-a609d67d-c8e5-42b1-86fb-23647dc01b52","id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d",""
+"rel-vstrig-hiedrs-0031","TriggeringRelationship","","","id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81",""
+"rel-vstrig-hiedrs-0032","TriggeringRelationship","","","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81","id-6d5adb53-67bb-47a3-86a7-6157091b49aa",""
+"rel-vs-hiedrs-0034","ServingRelationship","","","id-52f6b145-944f-43d6-8dff-7f43ef37bc51","vs-sales-plan-to-revenue",""
+"rel-vs-hiedrs-0035","ServingRelationship","","","id-ebfac6ac-707e-497a-b678-abc00810b609","vs-sales-plan-to-revenue",""
+"rel-vs-hiedrs-0036","ServingRelationship","","","id-a711bf13-8d88-4d21-8410-ab448500566a","vs-sales-plan-to-revenue",""
+"rel-vs-hiedrs-0037","ServingRelationship","","","id-a609d67d-c8e5-42b1-86fb-23647dc01b52","vs-sales-plan-to-revenue",""
+"rel-vs-hiedrs-0038","ServingRelationship","","","id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d","vs-sales-plan-to-revenue",""
+"rel-vs-hiedrs-0039","ServingRelationship","","","id-e5bf6235-0851-40cc-9e21-86b9fbcaac81","vs-sales-plan-to-revenue",""
+"rel-vs-hiedrs-0040","ServingRelationship","","","id-6d5adb53-67bb-47a3-86a7-6157091b49aa","vs-sales-plan-to-revenue",""
+"rel-vstrig-hiedrs-0033","TriggeringRelationship","","","id-8abb076b-05fc-4e17-8f75-51b43cf80016","id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009",""
+"rel-vs-hiedrs-0041","ServingRelationship","","","id-8abb076b-05fc-4e17-8f75-51b43cf80016","vs-issue-report-to-resolution",""
+"rel-vs-hiedrs-0042","ServingRelationship","","","id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009","vs-issue-report-to-resolution",""
+"rel-vstrig-hiedrs-0034","TriggeringRelationship","","","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","id-2e6834a2-c238-4cf4-989a-cca3222baa9f",""
+"rel-vstrig-hiedrs-0035","TriggeringRelationship","","","id-2e6834a2-c238-4cf4-989a-cca3222baa9f","id-b334c94a-a2ff-449e-869e-70a0960b4aca",""
+"rel-vstrig-hiedrs-0036","TriggeringRelationship","","","id-b334c94a-a2ff-449e-869e-70a0960b4aca","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3",""
+"rel-vs-hiedrs-0043","ServingRelationship","","","id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","vs-enrollment-to-paid-tuition",""
+"rel-vs-hiedrs-0044","ServingRelationship","","","id-2e6834a2-c238-4cf4-989a-cca3222baa9f","vs-enrollment-to-paid-tuition",""
+"rel-vs-hiedrs-0045","ServingRelationship","","","id-b334c94a-a2ff-449e-869e-70a0960b4aca","vs-enrollment-to-paid-tuition",""
+"rel-vs-hiedrs-0046","ServingRelationship","","","id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3","vs-enrollment-to-paid-tuition",""
+"trig-dom-manage-students--support","TriggeringRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-ae0ab1dc-95a9-4226-8013-05a65cb447de",""
+"trig-dom-manage-students--manage-academics","TriggeringRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9",""
+"trig-dom-manage-students--marketing","TriggeringRelationship","","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac",""
+"trig-dom-support--manage-students","TriggeringRelationship","","","id-ae0ab1dc-95a9-4226-8013-05a65cb447de","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58",""
+"trig-dom-manage-academics--manage-students","TriggeringRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58",""
+"trig-dom-manage-academics--support","TriggeringRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-ae0ab1dc-95a9-4226-8013-05a65cb447de",""
+"trig-dom-manage-academics--marketing","TriggeringRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac",""
+"trig-dom-manage-academics--sales","TriggeringRelationship","","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a",""
+"trig-dom-marketing--manage-students","TriggeringRelationship","","","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58",""
+"trig-dom-marketing--sales","TriggeringRelationship","","","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a",""
+"trig-dom-sales--manage-students","TriggeringRelationship","","","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58",""
+"flow-dom-manage-students--support","FlowRelationship","Student Record","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-ae0ab1dc-95a9-4226-8013-05a65cb447de",""
+"flow-dom-manage-students--manage-academics","FlowRelationship","Student Record","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9",""
+"flow-dom-manage-students--marketing","FlowRelationship","Event Schedule","","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac",""
+"flow-dom-support--manage-students","FlowRelationship","Data Protection Guidance","","id-ae0ab1dc-95a9-4226-8013-05a65cb447de","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58",""
+"flow-dom-manage-academics--manage-students","FlowRelationship","Accreditation Status Confirmation","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58",""
+"flow-dom-manage-academics--support","FlowRelationship","Maintenance Escalation","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-ae0ab1dc-95a9-4226-8013-05a65cb447de",""
+"flow-dom-manage-academics--marketing","FlowRelationship","Accredited Study Programme Catalogue","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac",""
+"flow-dom-manage-academics--sales","FlowRelationship","Course Catalogue","","id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a",""
+"flow-dom-marketing--manage-students","FlowRelationship","Marketing Campaign Result","","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58",""
+"flow-dom-marketing--sales","FlowRelationship","Enrolment Target Plan","","id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a",""
+"flow-dom-sales--manage-students","FlowRelationship","Sales Order Record","","id-d282e41f-2f23-4160-9a6f-d9401cc14f2a","id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58",""

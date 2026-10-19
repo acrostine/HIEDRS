@@ -1,0 +1,8 @@
+source \ target,Approval and Award,Bill Sponsor,Manage Project,Monitor Compliance,Proposal and Application,Receive Funding,OUT (row sum)
+Approval and Award,0,1,1,1,0,1,4
+Bill Sponsor,0,0,0,0,0,1,1
+Manage Project,0,1,0,1,0,0,2
+Monitor Compliance,0,1,1,0,0,0,2
+Proposal and Application,1,0,0,0,0,0,1
+Receive Funding,0,1,0,1,0,0,2
+IN (col sum),1,4,2,3,0,2,12

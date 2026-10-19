@@ -1,0 +1,909 @@
+"ID","Type","Name","Documentation","Specialization"
+"id-ebfc2ab0-2c6f-42e4-b1d7-a387d571b009","Capability","Diagnose/Resolve Issues","**A reported malfunction triggers a diagnosis.** When an Issue Report arrives from a student, faculty member, or administrative staff member, the cause is identified and a remedy applied to restore the affected service or process. The work lives in the operational layer of the institution and runs on the principle that a blocked task gets unblocked, not just logged. If the report lacks enough detail, it goes back for clarification before work proceeds.
+
+**Diagnosis draws on more than the report.** It correlates symptoms with Diagnostic Logs from IT systems, Maintenance Records from facilities, and Student Records when enrollment or grades are involved. A resolution is verified against the original symptoms and then closed with a Closure Notification. Where first-level support cannot resolve the issue, an Escalation Ticket goes to a specialist. Because the work touches personal data, it follows the Serbian Law on Personal Data Protection, limiting who sees details and what the record exposes.
+
+**A Resolution Record fixes accountability.** Each closed issue produces a Resolution Record that captures the root cause, the actions taken, and the time to resolution. It is traceable to the original Issue Report and auditable by the institutional data protection officer. When an external body such as the National Accreditation Body requires evidence that a student complaint was resolved, the record is available within the time set by the institution's complaint procedure.
+
+### Key processes
+- Log Issue Report
+- Triage Issue
+- Diagnose Root Cause
+- Resolve Issue
+- Escalate Problem
+- Document Resolution
+- Close Issue",""
+"id-8abb076b-05fc-4e17-8f75-51b43cf80016","Capability","Provide Information and Advice","**A question before a decision gets a sourced answer.** Inquiries about admission, enrollment, fees, examination schedules, and institutional policies are answered with accurate, regulation-aligned guidance. Advisory Requests for procedures such as recognition of foreign qualifications, Erasmus+ credit mobility, or submission of a complaint are handled the same way. If a question is ambiguous, it is returned with a request for clarification before an answer is given.
+
+**Answers rest on current rules and a shared base.** The work searches Knowledge Articles and retrieves the applicable text from the Law on Higher Education or the institutional rulebook. If an inquiry concerns a faculty-specific matter, it is redirected to the competent office; if the answer is unclear, it escalates to a legal advisor. When a new question reveals a gap, that gap is closed by updating a Knowledge Article.
+
+**An Advisory Response states the next step.** It answers the question, cites the relevant regulation, and is traceable to the source document and date. For advice about accreditation status, the response reflects the current decision of the National Accreditation Body. The response is retained for audit, so the reasoning behind an answer remains available after it is delivered.
+
+### Key processes
+- Receive Inquiry
+- Interpret Question
+- Search Knowledge Base
+- Formulate Response
+- Verify Against Regulation
+- Deliver Response
+- Update Knowledge Article
+- Redirect Inquiry",""
+"id-a4637e89-2929-4077-a22a-d756585cb025","Capability","Acknowledge Donors","**A completed gift starts with a thank-you.** When a donation or pledge payment lands, the institution has to confirm it and send recognition that matches the donor's wishes. This capability issues personalized donor acknowledgements and keeps a durable record of each one, so a donor is never thanked twice or overlooked.
+
+**It sits between gift records and the next solicitation.** It works from a gift notification and a pledge payment confirmation. It confirms the fund designation against the gift agreement, retrieves the donor contact record and recognition consent, and then composes a personalized letter. If consent for public recognition is absent, the acknowledgement goes out privately. The result includes a donor recognition statement and an acknowledgement history entry, leaving the donor on record as thanked with the date and channel used. This operates under the Serbian Law on Personal Data Protection and GDPR for cross-border donors.
+
+**The donor acknowledgement letter carries the record.** Each letter is traceable to the gift and issued before the next solicitation cycle. When the gift cannot be matched to a donor or fund, it is returned to pledge and gift management for correction rather than sent incomplete.
+
+### Key processes
+- Record Gift Receipt
+- Issue Donor Acknowledgement
+- Update Donor History
+- Manage Anonymous Donations
+- Handle Returned Mail
+- Generate Recognition List",""
+"id-6abc9eb9-f507-4dcf-8200-f9e870ec19a3","Capability","Execute Fundraising Initiatives","**A fundraising campaign begins when the plan is approved.** The capability plans and runs campaigns and events that turn prospect interest into signed commitments. It distributes approved communication collateral, hosts fundraising events, and records donor attendance. Responses are tracked in a solicitation outcome log, with follow-up on pledged gift agreements to secure signatures.
+
+**It depends on prepared prospect lists and lawful outreach.** A campaign plan sets measurable goals, budget, timeline, and approved message before launch. Prospect lists carry consent flags aligned with the Serbian Law on Personal Data Protection; prospects without a lawful basis are excluded from the distribution. Campaign materials that lack approved budget or consent flags are rejected. The work sits inside the integrated or federated university structure, so event authority and gift agreement signing happen at the legal entity holding fundraising capacity.
+
+**The pledged gift agreement turns interest into commitment.** It records the donor's promise to give and is followed up until signed. Only a complete agreement signed by the proper legal entity moves on to pledge management. That keeps campaign revenue from stalling on unsigned paper.
+
+### Key processes
+- Launch Annual Giving Campaign
+- Host Fundraising Event
+- Distribute Solicitation Appeal
+- Track Campaign Responses
+- Follow Up on Pledged Gift Agreements
+- Close Campaign and Report",""
+"id-96bbedb3-ee3c-46fc-8623-e16a8fa4e7d2","Capability","Manage Contributors","**A gift, registration, or consent update arrives.** A donor gives, someone registers for an event, or a contact changes how they want to be reached. That is the moment contributor records need attention. The work here keeps donor, prospect, and alumni data accurate and tied to the correct legal entity, with consent and lawful basis recorded for each contact channel. Outreach later depends on that foundation.
+
+**Records feed outreach and solicitation.** Incoming prospect data, giving history, event attendance, and consent choices all need to resolve into one accurate profile before outreach. This work resolves those records into one profile and hands solicitation current contributor profiles and segmentation lists. The database stays queryable, and every profile carries a data protection classification before it is released.
+
+**Donor retention score reflects recent giving.** Giving history is analyzed to update that score, so segmentation follows current engagement rather than an old record. Outdated consent or a wrong legal entity blocks or misdirects outreach and risks non-compliance with the Serbian Law on Personal Data Protection; this updating protects against that.
+
+### Key processes
+- Capture Prospect Data
+- Validate Contributor Identity
+- Merge Duplicate Records
+- Record Consent Preferences
+- Update Donor Retention Score
+- Maintain Segmentation List",""
+"id-a398a43a-7375-47d1-af1b-49bf78188b6c","Capability","Manage Endowments","**An endowed gift comes with binding instructions.** When a donor establishes an endowment, the principal must be preserved and the income used only as the donor allows. This capability records the charter and principal, monitors investment performance, and calculates what can be distributed under the spending policy and underwater rules.
+
+**It depends on clear charters and accurate investment data.** An endowment charter states donor restrictions, spending rule, and legal owner (university or faculty); if any element is missing, the charter returns to gift processing before a fund is established. Investment performance statements must reconcile to the custodian before income is calculated. Donor restrictions are legally binding on the correct legal entity in the integrated or federated structure, so each fund is held and reported under that entity.
+
+**The endowment fund annual report carries compliance.** It is issued at period close to donors and internal stakeholders, showing the balance sheet and documenting that distributions respected donor intent. That report is traceable to the charter for external audit.
+
+### Key processes
+- Establish Endowment Fund
+- Record Endowment Principal
+- Monitor Investment Performance
+- Calculate Distributable Income
+- Review Donor Restrictions
+- Issue Endowment Annual Report",""
+"id-54df2c7e-67f4-4959-8243-c1c192a5cf63","Capability","Manage Pledges and Gifts","**A signed pledge starts a payment schedule.** When a donor commits, the institution records the pledge amount, schedule, and fund designation, then keeps track until every payment arrives. This capability schedules pledge payments, sends reminders, reconciles bank confirmations, and issues a receipt once the gift is verified.
+
+**It ties every payment to the right fund and legal entity.** Each pledge commitment form must be signed by an authorized officer and include donor identity, amount, schedule, fund designation, and legal entity. Incomplete forms are returned for correction. Bank confirmations are matched to open pledge items within the reporting period; unreconciled items are escalated before revenue is recognized. The work follows the institution's accounting standards and records each pledge under the university or faculty entity entitled to receive it.
+
+**The pledge receivable record keeps the aging clear.** It shows outstanding pledges with their payment status and flags overdue items. That record supports write-off recommendations and the annual giving report, so collected gifts stay reconciled and donors receive proof of giving.
+
+### Key processes
+- Record Pledge Commitment
+- Schedule Pledge Payments
+- Reconcile Gift Receipts
+- Send Payment Reminders
+- Issue Gift Receipts
+- Age Pledge Receivables",""
+"id-4ea30967-ff0b-4c5d-9d5e-1523da7907d9","Capability","Solicit Prospects","**A new prospect starts the work.** When a prospect appears or a major event or campaign targeting stage triggers activity, the team identifies prospective donors from the prospect list and event attendance, then researches their capacity and affinity using wealth screening data and giving history. Each prospect gets a solicitor and a documented next action. Outreach checks consent first; a record without a lawful basis is removed from solicitation until consent is verified.
+
+**Consent and data set the reach.** The prospect list carries consent flags and the date of last contact or gift; wealth screening data is current, because outdated data is rejected and refreshed before research. Prior giving history and event attendance shape the approach. Before a donor meeting is requested, the solicitation plan and proposal go to the responsible legal entity for approval under the Serbian Law on Personal Data Protection and GDPR. No solicitation proceeds without documented consent or legitimate interest.
+
+**The proposal for major gift asks.** Drafted after researching capacity and affinity, it moves a prospect from research toward a donor meeting. The responsible legal entity approves it before any donor meeting request is sent. This protects conversion rates and prevents complaints under data protection law.
+
+### Key processes
+- Identify Major Gift Prospects
+- Research Donor Capacity
+- Assign Solicitor
+- Prepare Solicitation Proposal
+- Record Solicitation Outcome
+- Manage Declined Prospects",""
+"id-b08a3dbb-d42a-4bcc-b7c2-eab26c498651","Capability","Define Marketing Strategy","**A fresh enrolment quota lands.** The marketing team turns that quota, the institutional strategic plan, and market intelligence into one coherent approach for study programmes. It sets enrolment targets by programme and funding type, allocates the marketing budget across media channels, selects the channel mix for each target segment, and approves the brand message for the cycle. When this works, every downstream campaign has a clear direction tied to places that actually exist.
+
+**The strategy connects planning to campaigns.** It pulls the previous Campaign Performance Report back into the cycle so lessons from the last campaign shape the next one. It is approved only after an internal review against NAT accreditation status and the Law on Higher Education advertising rules. The strategy is re-baselined against every annual Enrolment Quota Decision and any change in NAT accreditation, because state-funded places are fixed and programmes without accreditation cannot be promoted.
+
+**Decisions become one document.** The **Marketing Strategy Document** brings together the agreed enrolment targets, channel mix and budget allocation. It is issued only after the internal review, so campaign teams start from an approved base.
+
+### Key processes
+- Assess Programme Demand
+- Set Enrolment Targets
+- Allocate Marketing Budget
+- Define Target Segments
+- Select Marketing Channels
+- Approve Brand Message
+- Review Previous Campaign Performance
+- Adjust Strategy for Accreditation Changes",""
+"id-c442ac23-7d84-40ae-83f0-05cbdd824769","Capability","Execute Programs","**Campaigns go live on schedule.** When a campaign plan reaches its start date or a scheduled event is due, the team turns approved campaign plans into actual promotional activity. It produces content, runs paid advertising, organises open day and information events, distributes programme brochures and digital assets, and captures the interest of prospective students. Every activity is tracked against the Approved Budget, and evidence is logged as it happens.
+
+**Consent and accreditation gate every step.** The work consumes the Approved Campaign Brief, Promotional Material, Approved Budget, Prospect Contact List, Event Schedule, Media Placement Contract, and Brand Asset. A Campaign Brief that lists a programme without a valid NAT accreditation is rejected. A Prospect Contact List entry without documented consent for marketing contact is removed before execution. This protects the institution by keeping personal data processing in line with the Serbian Law on Personal Data Protection and, for cross-border campaigns or joint programmes, the EU GDPR.
+
+**Lead Record logs real interest.** Each prospective student inquiry becomes a Lead Record, issued only after the activity has occurred and evidence is logged. If no Prospect Contact List is available due to a data protection block, or the Approved Budget is exhausted before the main recruitment period, no materials are distributed and no Lead Records are generated. The Lead Record is the result that shows a campaign turned a contact into a potential applicant.
+
+### Key processes
+- Execute Advertising Campaign
+- Organise Open Day Event
+- Publish Social Media Content
+- Distribute Programme Brochures
+- Capture Prospective Student Leads
+- Track Campaign Expenses
+- Coordinate Media Placements
+- Report Event Outcomes",""
+"id-99e8ec1c-bd58-4c5a-b20b-ac6b885c1253","Capability","Market Research and Analysis","**Research begins with a commissioned study.** When a research project is commissioned or new enrolment data is released, the team collects survey responses, analyses enrolment trends by programme and funding type, benchmarks competitor programmes on ECTS structure and accreditation, and forecasts demand for each accredited study programme. The work gathers and interprets data about prospective students, labour market demand, and competitor programmes to inform marketing decisions.
+
+**Consent is a hard precondition.** Every survey response and focus group transcript must come from participants who gave explicit consent. Incomplete or non-consented responses are discarded before analysis; a focus group transcript without a signed consent form is quarantined and not included. This keeps personal data processing in line with the Serbian Law on Personal Data Protection and the EU GDPR for cross-border data flows, under the oversight of a data protection officer.
+
+**Market Research Report carries the evidence.** The cleaned, validated, and analysed data produces the Market Research Report, along with Demand Forecast and Customer Segment Profile. The report is issued only after the raw data has been cleaned, validated, and analysed. It is the piece that later strategy uses to set enrolment targets and allocate marketing budget. If no consent is obtained from survey respondents, the collected data is unusable and no Market Research Report is issued, leaving strategy without evidence.
+
+### Key processes
+- Conduct Prospective Student Survey
+- Analyse Enrolment Trends
+- Benchmark Competitor Programmes
+- Forecast Applicant Demand
+- Evaluate Brand Perception
+- Segment Prospective Students
+- Produce Market Research Report
+- Run Focus Group",""
+"id-4d75a20e-4723-4e0a-b0f8-c439ccd4037f","Capability","Measure Program Effectiveness","**A campaign ends.** The team tracks each lead from first contact through application to enrolment, calculates return on marketing investment, and compares actual performance against the enrolment targets. It separates state-funded from self-financing students because those groups carry different revenue implications. The result tells budget holders which channels earned their money before the next cycle's decisions are made.
+
+**Analysis depends on linked data.** It receives campaign data with identifiers, lead records with source campaign and consent flag, and enrolment conversion data with marketing source codes. It feeds the budget office, which accepts the Campaign Performance Report only when every cost line is allocated. Late conversion data delays the report but does not stop it; the report is issued and marked as late.
+
+**The report lands with the budget office.** The **Campaign Performance Report** records the ROI calculation, conversion funnel analysis, and optimisation recommendation. If a cost line is missing, the budget office returns it; only a complete report moves forward.
+
+### Key processes
+- Track Campaign Conversion
+- Calculate Marketing ROI
+- Attribute Enrolments to Campaign
+- Compare Performance to Targets
+- Analyse Conversion Funnel
+- Produce Campaign Performance Report
+- Recommend Campaign Optimisation
+- Review Cost per Enrolment",""
+"id-85305cf8-0cba-49a6-a668-a99f37128a68","Capability","Plan Programs","**Planning starts from the academic year.** When the annual planning cycle starts or a programme launch is requested, the team develops the campaign calendar, plans open day and information events, schedules content production and publication, and allocates staff and budget to campaigns. If the Academic Calendar is not yet fixed for the next year, no campaign calendar is built and no Event Schedule is confirmed.
+
+**Plan follows deadlines and accreditation.** The work starts from the Marketing Strategy Document, Market Research Report, Marketing Budget Allocation, Academic Calendar, Event Venue Availability, and the Accredited Study Programme Catalogue. The plan aligns with the Serbian academic calendar and the official application deadlines set by the ministry and the institution. The plan does not schedule promotion for a programme before NAT accreditation is granted.
+
+**Campaign Plan sequences the work.** The Campaign Plan is issued after review against the academic calendar and budget. It is the artefact that sets deadlines for material production, coordinates event logistics with venues and speakers, and obtains plan approvals from the institutional governance body. A Plan Approval Request is judged by the governance body on compliance with the Advertising Code and data protection rules. When the plan is approved, each study programme has a timed sequence of promotional activities.
+
+### Key processes
+- Develop Campaign Calendar
+- Plan Open Day Events
+- Schedule Content
+- Allocate Campaign Resources
+- Obtain Plan Approvals
+- Coordinate Event Logistics
+- Set Campaign Deadlines
+- Align Plan with Academic Calendar",""
+"id-05994d0d-610b-45e2-b8c2-a60663547d24","Capability","Profitability Analysis","**After the financial records close.** Marketing spend is checked against enrolment and revenue by programme and funding type. The analysis separates state-funded places, where income is set by the ministry, from self-financing places, where income varies with recruitment. This keeps one funding type from hiding the other's performance in the report.
+
+**It depends on clean attribution.** Enrolment Data must record the funding type for every student; records without it are rejected. Marketing Cost Data must trace to specific campaigns or programmes; costs that cannot be traced are excluded. The Student Funding Mix must match the official quota decision before the analysis is accepted.
+
+**The Profitability Report reaches the committee.** It reports programme profitability against quotas and is judged on adherence to the cost accounting policy.
+
+### Key processes
+- Calculate Cost per Enrolment
+- Analyse Programme Margin
+- Compare State-Funded to Self-Financing Returns
+- Model Enrolment Scenarios
+- Evaluate Marketing ROI by Segment
+- Allocate Marketing Costs to Programmes
+- Produce Profitability Report
+- Report Programme Profitability",""
+"id-6f1e97f2-f962-4853-b211-ad1f254d6ecc","Capability","Segment Customers","**New leads and survey responses arrive.** The marketing team groups these prospects into segments for targeted campaigns and lead prioritisation. Personal data is cleansed and pseudonymised where required before any segmentation happens. Records without a consent timestamp or source are rejected, so no individual is assigned to a segment without a lawful basis. A segment with fewer than ten leads is not used, keeping campaign effort focused on groups large enough to act on.
+
+**The outputs go to the campaign team.** This work depends on consent-carrying Prospective Student Data and complete Survey Responses, and it produces a Customer Segment Profile and a Segment Assignment Rule for campaign planning. Segmentation on personal data adheres to the Serbian Law on Personal Data Protection, and cross-border segmentation for joint programmes meets GDPR requirements, including data minimisation and pseudonymisation.
+
+**Lead Scoring Model checked yearly.** Every year, the model is compared against actual enrolment outcomes. If it no longer predicts enrolment, it is retired. That keeps lead prioritisation tied to whether a prospect actually converts.
+
+### Key processes
+- Define Segmentation Criteria
+- Create Prospect Segment
+- Score Prospective Student Lead
+- Assign Leads to Campaign
+- Update Segment with New Data
+- Monitor Segment Conversion
+- Pseudonymise Personal Data
+- Validate Segment Accuracy",""
+"id-59c01b9a-4dd2-4265-bb01-11c8157b4d2b","Capability","Approval and Award","**A proposal clears internal review.** The next step is deciding whether the sponsor's terms are acceptable and getting the right person to sign. This is where a selected proposal becomes a signed award, or a rejection if the terms conflict with the Law on Higher Education. No signed agreement means no project starts and no invoice goes out.
+
+**It depends on written sponsor terms and a legal review.** The sponsor's award letter must be in writing and match the proposal; a verbal award is not accepted. The output feeds everything downstream: the award record begins the project, and the signed agreement becomes the basis for billing. In the integrated form the rector signs; in the federated form each faculty dean signs.
+
+**The Executed Grant Agreement locks in the conditions.** It must carry both signatures, a start date, a budget ceiling, and an indirect cost rate. Without that document, the institution has no basis to bill the sponsor.
+
+### Key processes
+- Review Sponsor Terms
+- Negotiate Grant Agreement
+- Obtain Institutional Sign-off
+- Execute Grant Agreement
+- Record Award
+- Reject Unacceptable Proposal",""
+"id-1db93bd4-1dfe-459a-8324-c55dee07ec4f","Capability","Bill Sponsor","**An approved expenditure report lands.** It becomes a sponsor invoice only after the costs are checked and the cost share is documented. This capability turns approved grant spending and completed milestones into cash and tracks every payment. If an invoice is rejected because costs are unallowable, the project account runs dry and staff and suppliers go unpaid from grant funds.
+
+**Every invoice follows the grant agreement's budget categories.** It pulls from approved expenditure reports, milestone certificates and cost share certifications, and it produces sponsor invoices, payment requests and cash receipts. Serbian public finance control requires every grant fund to be traced to specific invoices, so the linkage back to budget lines is not optional.
+
+**The Sponsor Invoice carries three identifying marks.**
+
+- A unique invoice number
+- The sponsor reference
+- The budget line
+
+These three marks let the sponsor and the university finance office trace the payment.
+
+### Key processes
+- Verify Expenditure Allowability
+- Prepare Sponsor Invoice
+- Submit Payment Request
+- Reconcile Payment
+- Handle Sponsor Rejection
+- Issue Credit Note",""
+"id-fea4c7b7-058d-4326-a804-3451a3d9276e","Capability","Manage Project","**A signed grant agreement starts the work.** The project gets a plan, a budget line by line, and named owners for each work package, then the team tracks milestones, manages change, and reviews deliverables. When a budget line deviates, a reallocation request goes to the sponsor instead of letting the project drift. The sponsor withholds payment if work moves away from the approved plan without an approved change request.
+
+**The academic calendar shapes every schedule.** The project depends on a signed agreement with a clear statement of work, a budget approved at grant line level, and work packages with responsible owners. It feeds progress reports, deliverables, change requests and the final report into the rest of the institution. Teaching duties and the academic year set the staffing boundary, not the sponsor's deadlines alone.
+
+**The progress report carries three obligations.** The **Project Progress Report** must state truthful progress, explain variances, and lay out the next period. If it hides a variance, the sponsor suspends payments.
+
+### Key processes
+- Assign Project Roles
+- Track Milestones
+- Monitor Budget Variances
+- Submit Progress Report
+- Manage Project Change
+- Review Deliverable
+- Close Project",""
+"id-23e7115f-0500-4038-95a8-21e2597ef3b0","Capability","Monitor Compliance","**An expense record arrives for checking.** Compliance work verifies that grant spending, activities and reporting meet the grant agreement, sponsor rules, and Serbian and EU regulations. It exists to catch problems before a sponsor audit does. When it works, the institution keeps its standing with funders and the ministry.
+
+**It works across several rulebooks at once.** The same activity is subject to sponsor terms, the Law on Higher Education, the Law on Personal Data Protection, and for EU-funded projects the General Data Protection Regulation. This capability takes expense records, activity reports and checklists, and it produces compliance reports, audit responses and corrective action plans.
+
+**The Compliance Report has one deadline.** It must be complete and filed by the sponsor deadline. A late report is itself a noncompliance.
+
+### Key processes
+- Check Expense Allowability
+- Verify Ethics Approval
+- Track Reporting Deadlines
+- Prepare Compliance Report
+- Respond to Audit Findings
+- Escalate Noncompliance",""
+"id-a1b2e963-145c-42d9-a3b0-fdaff60f0fc3","Capability","Proposal and Application","**A funding call opens.** The team screens it, assembles the research plan and budget, gets internal sign-off, and submits before the deadline. This is where an idea becomes a proposal that meets the sponsor's requirements. If the call is misread or internal endorsement arrives late, no application goes in and the effort for that cycle is wasted.
+
+**Internal sign-offs take time.** The dean, the university research office, and sometimes the rector must approve before submission. The work depends on a current call, final sponsor guidelines, a research plan that names the principal investigator, and a budget built on the sponsor's template. It produces the proposal, application, budget and submission confirmation.
+
+**The Proposal requires every annex.** A missing annex makes the application ineligible.
+
+### Key processes
+- Screen Funding Opportunity
+- Assemble Proposal Team
+- Draft Technical Narrative
+- Prepare Budget
+- Obtain Institutional Endorsement
+- Submit Application
+- Withdraw Application",""
+"id-51cd6874-501c-40ec-b797-8d46bc6d2240","Capability","Receive Funding","**Sponsor payments need a home.** A sponsor payment lands in the institution’s bank account and staff match it to the right award and budget line before it can be used. Receive Funding records each payment, checks it against the award and invoice, and posts it where it belongs. When this is done correctly, every grant euro is traceable to its source and purpose, and public funding under the Law on Higher Education stays separate from self-financing student fees.
+
+**The work depends on surrounding records.** A sponsor payment arrives with a remittance advice and a bank statement; the grant award record provides the current budget lines. Those documents determine whether the payment is matched, returned, or held as an Unidentified Payment Notice. What Receive Funding produces then flows into project accounts and auditor reports, so a missing match here shows up downstream as an underfunded project or an unreconciled advance.
+
+**A Cash Receipt carries the audit trail.** Each receipt records the date, amount, currency, award reference, and budget line. That detail is what lets an auditor confirm that state and sponsor funds were not mixed.
+
+### Key processes
+- Match Payment to Invoice
+- Record Cash Receipt
+- Allocate Payment
+- Issue Sponsor Acknowledgment
+- Reconcile Bank Statement
+- Handle Overpayment
+- Escalate Unidentified Payment",""
+"id-e7d25916-7b86-47dd-bab7-bf57aa7d5f5d","Capability","Admit Students","**An application arrives with a transcript.** The application includes a programme choice. The admission process verifies that the chosen study programme holds a valid NAT accreditation, authenticates the applicant's Official Academic Transcript, evaluates the application against set criteria, and ranks applicants within the available places. An applicant receives an Admission Offer, a Conditional Acceptance, or a Rejection Notice. A place must be available under the state-set Enrollment Quota. Federated universities have the faculty sign the decision; integrated universities have the university sign.
+
+**Accreditation and prior education gate every decision.** The chosen Study Programme must have a valid Accreditation Decision, and the applicant's prior education must be verifiable. If the programme lacks accreditation or the transcript is not authenticated, no Admission Decision is issued and no initial Student Record is created. Incomplete or unauthenticated transcripts are returned to the applicant, and missing accreditation is a hard stop.
+
+**The Admission Decision Record keeps outcomes traceable.** For each applicant, the decision is logged, and after acceptance an initial Student Record is created with personal data and programme choice. That record is what enrollment and financial aid later build on.
+
+### Key processes
+- Evaluate Application
+- Verify Prior Education
+- Check Accreditation Status
+- Rank Applicants
+- Issue Admission Decision
+- Create Student Record",""
+"id-2e6834a2-c238-4cf4-989a-cca3222baa9f","Capability","Award and Monitor Financial Aid","**A student applies for financial aid.** The application arrives with a certified Family Income Statement. The aid process verifies the certified Family Income Statement against a live Student Record, determines whether a state-funded place is available, calculates an aid package from scholarships and subsidies, and disburses scholarships. If the student is assigned a budget place, the process issues a State-Funded Place Confirmation. Financial Aid Awards specify the amount and source.
+
+**The number of budget places is fixed upstream.** The ministry sets state-funded places through the Enrollment Quota, so awarding does not exceed those places. Each aid decision also depends on an Enrollment Confirmation that matches the aid period; a mismatch pauses disbursement until reconciled. When a student loses a state-funded place or fails satisfactory academic progress, no aid is lawfully paid and the student moves to self-financing billing.
+
+**The Satisfactory Academic Progress Record keeps review honest.** This semester-specific record is checked after each examination period. If it is not accurate, aid status is re-evaluated before the next payment; if progress fails, Financial Aid Revocation follows. Without that record, scholarships and subsidies are not lawfully paid.
+
+### Key processes
+- Evaluate Financial Aid Application
+- Determine State-Funded Place
+- Calculate Aid Package
+- Disburse Scholarship
+- Monitor Academic Progress
+- Revoke Aid Award",""
+"id-cb9285c8-a7b1-40d3-a951-9c75bbc5cdc3","Capability","Bill Customer or Payor","**Enrollment confirmation triggers the bill.** For each enrolled student, the billing process determines funding status, calculates tuition charges from the Tuition Fee Schedule, applies any Scholarship Award offset, and issues a Tuition Invoice. Payments are received, allocated to the student's account, and refunds or overdue notices follow when needed. State-funded students are billed only for fees not covered by the state; self-financing students are billed the full programme tuition.
+
+**A bill needs a valid enrollment.** The Enrollment Confirmation must be complete and valid for the billing term, and it must be consistent with the Student Record. If it is missing or mismatched, no Tuition Invoice is produced and payments are not allocated. An expired enrollment is returned to enrollment processing before any charge is calculated.
+
+**The Payment Receipt guards against misallocation.** It carries the student's identification and the amount paid. A payment that is not matched to a student is held in suspense, not allocated, until it is identified.
+
+### Key processes
+- Calculate Tuition Charges
+- Issue Student Invoice
+- Process Tuition Payment
+- Allocate Payment to Charges
+- Issue Refund
+- Send Payment Reminder",""
+"id-dd24e87e-c22c-4207-8c1a-a42a041e2a10","Capability","Enroll in Classes","**A student submits a course selection.** The enrollment process validates prerequisites, checks seat availability, applies the ECTS credit load, registers the student in the chosen classes, and confirms enrollment. When a course is full, the student is placed on a waitlist. Drop/add changes are processed, and incoming mobility students have their enrollment recorded against their Erasmus Learning Agreement.
+
+**Enrollment must respect workload and prerequisites.** The design allows 60 ECTS per academic year. A missing or outdated Prerequisite Check Result blocks registration for that course until it is re-advised. An incomplete course selection is returned. If a course lacks seats or prerequisites are unmet, the student is not registered and no Enrollment Confirmation is produced, which holds up billing and financial aid adjustments.
+
+**The Enrollment Confirmation signals downstream work.** It is issued after registration and confirms that the student is in the class. Downstream billing and financial aid adjustments use it as the signal to proceed.
+
+### Key processes
+- Validate Course Selection
+- Check Seat Availability
+- Register Student in Class
+- Process Waitlist
+- Record Course Change
+- Confirm Enrollment",""
+"id-d6e5d220-7427-459d-b8f4-8fae0c27c848","Capability","Maintain Campus Community Directory","**A member changes a phone number.** The directory process verifies consent status, publishes contact details, updates entries, restricts access when needed, and processes opt-out requests. Every published entry is personal data, and processing requires a lawful basis and opt-in consent under the Serbian Law on Personal Data Protection and GDPR.
+
+**Student and Staff Records supply details.** Those records provide contact details only when a valid consent flag exists. An outdated consent status blocks publication. A Directory Update Request must be authenticated; an unauthenticated update is rejected to prevent impersonation. If the underlying record is inaccurate, stale contact details are removed and the directory does not publish or update that entry.
+
+**A Campus Directory Entry needs consent.** It is published only after consent is recorded. When a member withdraws consent, an Opt-Out Confirmation is issued and access to the entry is restricted. An Access Restriction Log records that restriction.
+
+### Key processes
+- Collect Directory Consent
+- Publish Contact Details
+- Update Directory Entry
+- Restrict Directory Access
+- Process Opt-Out Request",""
+"id-ab7d54b7-532a-45a6-9e8f-f4be13b38dca","Capability","Maintain Student Records","**A signed admission decision opens a record.** When a final, signed admission decision arrives, the institution creates a master Student Record and keeps it current through each personal data change, enrollment status, and course grade that follows. That record is the authority behind every official transcript and status confirmation, so its accuracy matters before anything else moves.
+
+**Grades and clearance flow into the record.** Course grades arrive after assessment and must carry the course code and ECTS value. Graduation clearance arrives only after degree requirements are verified. Three checks govern what enters the record:
+- Admission Decision must be final and signed.
+- Personal Data Change Request must carry proof of identity.
+- Course Grade must include the course code and ECTS value.
+A grade missing its ECTS value stops a transcript from being issued until the grade is corrected.
+
+**A request for mobility issues the transcript.** The **Transcript of Records** is issued on request or for mobility from the master record. When a Course Grade fails to match an existing Student Record, the transcript is not produced until the match is made.
+
+### Key processes
+- Create Student Record
+- Update Personal Data
+- Record Academic Progress
+- Issue Transcript of Records
+- Archive Student Record
+- Process Data Subject Request",""
+"id-b334c94a-a2ff-449e-869e-70a0960b4aca","Capability","Manage Financial Relationships","**Tuition starts with a payor.** A state-funded student's primary financial relationship is with the state through the Enrollment Quota; a self-financing student must provide a payor or self-pay authorization before billing or collection begins. Without that authorization, the account stays unpaid.
+
+**Sponsor agreements and invoices meet in one record.** The Financial Relationship Record links a payor to a student. A signed Sponsor Agreement identifies the student before any third-party payment is accepted, and a Tuition Invoice is associated with that payor. No payment settles until it is matched to the invoice it pays.
+
+**A payment record ties money to an invoice.** The **Payment Allocation Record** traces each payment to the specific Tuition Invoice it settles. A payment without a match is held until the relationship is confirmed, so a student account does not show a false balance.
+
+### Key processes
+- Set Up Payor Relationship
+- Record Payment Obligation
+- Apply Payment
+- Reconcile Student Account
+- Report Outstanding Balance",""
+"id-f02c8a55-396b-4810-ab8a-cea744018b10","Capability","Plan Recruiting Initiatives","**Planning starts with the seats available.** Before the recruiting season, institutional leadership sets a recruitment goal, and planners set targets and a budget against programme capacity and state enrollment quotas. Targets cannot exceed state-approved Enrollment Quota or accredited programme capacity.
+
+**The plan depends on complete past-cycle data.** Program capacity must be current and programme-specific; a stale figure is rejected and re-obtained before target setting. Past Enrollment Report must be complete from the previous cycle before budget allocation. After events, a Tracking Report records results and feeds adjustment of the Recruitment Plan.
+
+**After events, the report adjusts the plan.** The **Tracking Report** is issued after recruiting events and shows what the outreach produced. Planners use it to adjust targets and the budget, so the next cycle starts from evidence rather than assumption.
+
+### Key processes
+- Analyze Enrollment Data
+- Set Recruitment Targets
+- Allocate Recruitment Budget
+- Schedule Recruiting Event
+- Coordinate with Secondary Schools",""
+"id-3c048211-0449-40be-a766-678a749f7390","Capability","Provide Housing and Auxiliary Services","**A housing application starts with eligibility.** Students apply for accommodation and meal plans under the studentski standard, and the institution assigns rooms and contracts once enrollment and subsidy status are confirmed. An application with missing or unconfirmed subsidy stays on the waiting list until the subsidy is confirmed.
+
+**The subsidy decision and the student record shape the assignment.** The institution respects the student centre's eligibility decision for subsidized accommodation and meals. Housing Application must include the Student Standard Subsidy Confirmation; Student Record must confirm enrolled status. Once a room is assigned, a Housing Contract is issued.
+
+**A room assignment leads to a contract.** The **Housing Contract** is issued when a room is allocated to an enrolled student. Move-in waits until eligibility is complete, so no student enters housing on an incomplete record.
+
+### Key processes
+- Evaluate Housing Application
+- Assign Room
+- Issue Housing Contract
+- Assign Meal Plan
+- Bill Auxiliary Charges
+- Handle Maintenance Request",""
+"id-42e5f948-24cb-4fd9-8dcd-d99ec588dcef","Capability","Recruit Prospects","**Consent comes before communication.** When a prospective student contacts the institution, the first requirement is a valid Consent Record from the inquiry form. Without it, no further recruitment communication is sent, the prospect is not nurtured, and the lead is not passed to admissions. For minors, guardian consent is required.
+
+**Consent and scoring determine who moves forward.** The institution captures inquiries into a Prospect Record, verifies consent, and scores interest. High School Data and Marketing Campaign Results arrive from outreach; only a prospect meeting readiness criteria becomes a Qualified Lead.
+
+**A qualified lead is handed to admissions.** The **Qualified Lead** is produced when a prospect meets readiness criteria and consent is verified. The lead then passes to Admissions, while the rest of the prospect list continues in nurture.
+
+### Key processes
+- Capture Prospect Inquiry
+- Qualify Prospect
+- Maintain Prospect Record
+- Send Recruitment Communication
+- Invite Prospect to Event",""
+"id-d7a1670b-5b1f-4419-a987-19f2b699fecb","Capability","Advise Students and Provide","**A student planning next term needs direction.** Advisors translate the accredited study programme into individual course choices, working from the Student Record, the current Study Programme Curriculum, and the latest Academic Standing Record. The advice keeps each student on a valid path to graduation and within the 60 ECTS yearly workload.
+
+**The work depends on complete, current records.** Before any advising starts, the Student Record must be authenticated by the administrative office; an outdated Study Programme Curriculum stops the session until the latest version arrives. Once the advisor reviews the Academic Standing Record, the student gets Course Selection Advice for the next semester. If a deviation from the standard programme is needed, the advisor prepares a Curriculum Exception Petition.
+
+**The Study Plan carries the outcome.** Issued after the advising session, it is updated each term to show completed credits and remaining requirements, and it is the document the student follows until the next review.
+
+### Key processes
+- Assess Academic Standing
+- Develop Study Plan
+- Conduct Advising Session
+- Approve Course Selection
+- Prepare Curriculum Exception Petition
+- Record Advising Outcome",""
+"id-4a109615-89b7-4d83-9527-666fb431ad35","Capability","Assistance","**A student reports a need beyond the classroom.** When a report arrives, the institution logs the category, confirms active enrolment, and assesses any medical or financial documentation. The support covers:
+- learning support
+- disability accommodations
+- financial hardship referrals
+- well-being service coordination
+
+The aim is to remove barriers outside the curriculum so a student can continue studying.
+
+**This work moves between the student and specialist providers.** It starts with a Student Support Request, a validated Disability Documentation, or a signed Financial Aid Application, and it uses the Student Record only to verify enrolment. Because disability and health information are protected under the Serbian Law on Personal Data Protection, such details are shared only on a lawful basis and through the Data Protection Officer when required.
+
+**The Accommodation Letter makes the adjustment official.** Issued after the disability documentation is validated and the required adjustments are determined, it tells teaching staff exactly what the student is entitled to and puts the institution's legal obligation into practice.
+
+### Key processes
+- Triage Support Request
+- Verify Student Status
+- Assess Accommodation Need
+- Issue Accommodation Letter
+- Refer to Specialist Service
+- Document Assistance Outcome",""
+"id-8b80a6ea-0dfa-4673-9eab-027449e3bf84","Capability","Effectiveness","**After each course and exam period ends.** The institution collects anonymous course evaluations, grade distributions, and graduate employment survey responses, then compares them against ESG 2015 and its own benchmarks. This produces the evidence base that internal quality assurance and external accreditation require. Without it, the institution cannot justify continuing a programme.
+
+**It turns raw feedback into a formal review cycle.** Course Evaluation Survey Responses arrive in the final two weeks of a course; Grade Distribution Reports must come from the official Student Record and include all enrolled students; Graduate Employment Survey responses require a consent form. These inputs feed the report and, when results fall below thresholds, a Quality Improvement Plan.
+
+**The Academic Program Effectiveness Report is the standing output.** Issued annually and whenever a programme undergoes external review, it carries the findings and recommendations that the National Accreditation Body reads when deciding on renewal.
+
+### Key processes
+- Administer Course Evaluation
+- Analyse Grade Distribution
+- Conduct Graduate Survey
+- Assess Learning Outcomes
+- Compile Effectiveness Report
+- Propose Quality Improvement",""
+"id-d8e4c197-826c-4d16-8f57-a29cd7b40c14","Capability","Evaluate Academic Program","**Before a programme is re-accredited or revised.** The institution checks the programme documentation, maps the curriculum against the accreditation standards, and verifies each instructor's CV. This evaluation produces the formal report that supports accreditation, re-accreditation, and programme revision decisions.
+
+**It depends on authoritative versions.** Study Programme Documentation must be the current accredited version with all amendments recorded; Accreditation Standards must be the latest published NAT and ESG texts; Teaching Staff CVs must be dated and signed. The evaluation follows only those published criteria, with no political, financial, or internal preference substituting for them.
+
+**The Program Evaluation Report closes the review.** Issued after the internal review is completed, it records strengths and weaknesses, and it is the document that tells the institution whether the programme can go forward to accreditation renewal or needs revision.
+
+### Key processes
+- Review Programme Documentation
+- Map Curriculum to Standards
+- Assess Staff Qualifications
+- Conduct Self-Evaluation
+- Issue Program Evaluation Report
+- Recommend Program Revision",""
+"id-8fcac125-67c1-46c5-b3a6-0cb03f136833","Capability","Evaluate Student Performance","**After each exam and assignment period.** Marked scripts and assignments become official grades. The institution computes the course grade from all assessment components, records it in the Student Record, and handles any grade change request against the original evidence. This is the authoritative source for grades and ECTS credits, so progression and graduation rest on it.
+
+**It guards the trail from assessment to achievement.** Examination Scripts must be anonymised before marking; Assignment Submissions carry a timestamp; a Grade Change Request must be signed by both the examiner and the program director. These checks protect the integrity of the Grade Report and the financial aid decisions that read it.
+
+**The Transcript of Records makes achievement portable.** Issued on student request and at graduation, it is digitally signed and dated, and it is the document that carries the final record of grades and ECTS credits to employers and other institutions.
+
+### Key processes
+- Mark Examination Script
+- Grade Assignment
+- Compute Course Grade
+- Record Grade
+- Handle Grade Appeal
+- Issue Transcript",""
+"id-4d2511d9-a1f7-4fd0-aa32-3792735a926a","Capability","Plan Curriculum and Courses","**A proposal starts the work.** When a new study programme is conceived or an existing one needs substantial revision, the institution drafts a Study Programme Proposal with a rationale and intended learning outcomes. Each course is mapped to ECTS credits at 60 per academic year, and course syllabi set out teaching methods and assessment criteria. The design must follow the three Bologna cycles and NAT accreditation requirements. Meeting those requirements is what keeps enrolment and recognised degree issuance open.
+
+**It depends on current inputs.** The work uses the latest Accreditation Requirements from NAT, a labour market needs analysis no older than five years, and faculty expertise profiles to map teaching staff to proposed courses. From it come the Accredited Study Programme, the Course Catalogue, and a Syllabus Template for each course. These become the basis that enrolment and teaching draw on.
+
+**The Course Catalogue is published.** This is the official list of courses with ECTS credits and learning outcomes. It is the named record that tells students and staff what a programme actually contains.
+
+### Key processes
+- Design Study Programme
+- Allocate ECTS Credits
+- Define Learning Outcomes
+- Develop Syllabus
+- Prepare Accreditation Submission
+- Respond to Accreditation Feedback",""
+"id-1ca721ed-d3db-46c1-8ad3-1680c683cace","Capability","Schedule Classes","**Scheduling starts after approval.** Once the academic council approves the Course Offerings List and student course selections close, teaching staff availability and room inventory are used to assemble a term timetable. The Class Schedule places instructors, student groups, and rooms without overlapping commitments. Every accredited course is given an instructor and a room in the required time slot, so the term’s credit load remains complete.
+
+**It uses verified records.** The schedule depends on a final Course Offerings List, teaching availability verified by the human resources office, and room inventory that includes accessibility and equipment details. Rooms missing required equipment are not assigned to courses that need them. The published Class Schedule drives room booking confirmations and teaching load reports for payroll.
+
+**The Class Schedule is published.** It goes out through the student and staff portals before the term starts. That one timetable is what students and instructors rely on to get to the right room at the right time.
+
+### Key processes
+- Collect Instructor Availability
+- Match Room to Class
+- Resolve Time Conflicts
+- Assign Instructors
+- Publish Class Schedule
+- Process Schedule Change",""
+"id-cbacfae9-ac1b-47fa-9b0f-25a035e0e5c8","Capability","Schedule Resources and Facilities","**Practical work needs the right room.** Specialised laboratories, studios, and equipment are allocated to support scheduled classes. Facility Inventory is reviewed to see which spaces are serviceable, and equipment sets are reserved for hands-on sessions. Double bookings between course sections are resolved, and a Resource Booking Confirmation is issued to the requesting instructor. This keeps laboratory-based learning outcomes assessable.
+
+**It runs on current facility records.** Facility Inventory is refreshed after each maintenance cycle and includes safety certification; the Equipment Availability Schedule reflects current repair status. The published Class Schedule is the demand signal. From this come:
+- Laboratory Schedules for each laboratory
+- Equipment Loan Records for portable equipment
+- Maintenance Escalations when a reserved resource becomes unavailable
+
+**The Resource Booking Confirmation is issued.** Instructors receive it when a laboratory or equipment set is reserved for a specific course session. That single confirmation fixes the practical session in the term.
+
+### Key processes
+- Review Facility Inventory
+- Reserve Laboratory Time
+- Book Equipment
+- Issue Resource Confirmation
+- Handle Double Booking
+- Request Maintenance",""
+"id-e5bf6235-0851-40cc-9e21-86b9fbcaac81","Capability","Account Management","**A customer signs a first contract.** Account Management maintains and grows relationships with existing customers—corporate clients, government bodies, and education agencies—at the account layer, not the individual student record. Its outcome is a current Account Record and a signed Renewal Proposal. When accounts are updated after each interaction, renewal deadlines are met and repeat contract revenue continues. When Service Complaints are resolved, contracts are retained.
+
+**It connects contracts to repeat revenue.** The capability depends on accurate Account Records and reconciled Purchase History. From those, it issues Renewal Proposals when a contract enters its notice period and Cross-Sell Recommendations when purchase history shows eligibility for another accredited programme. A Service Complaint receives attention, and unresolved complaints escalate to legal or academic bodies. Incoming data must comply with the Serbian Law on Personal Data Protection and contractual signature authority at the university or faculty.
+
+**A signed Renewal Proposal keeps contract revenue flowing.** The capability issues a **Renewal Proposal** when a contract enters its notice period. The authorised signatory must sign it before it is accepted. That document is the point where an existing relationship becomes future fee income; without it, renewal deadlines pass unnoticed.
+
+### Key processes
+- Manage Account Relationship
+- Prepare Renewal Proposal
+- Resolve Service Complaint
+- Update Account Plan
+- Review Purchase History
+- Negotiate Contract Amendment
+- Escalate Service Issue",""
+"id-6d5adb53-67bb-47a3-86a7-6157091b49aa","Capability","Customer Portfolio Management","**A new account is created.** Customer Portfolio Management analyses, segments, and prioritises the institution's customer accounts. It uses account and transaction data to focus sales effort on the most valuable relationships and reduce revenue risk. The outcome is a current Customer Portfolio Analysis that directs allocation of sales resources. When this works, high-value accounts receive sufficient attention and low-value accounts do not consume effort.
+
+**It depends on consistent classification and reconciled history.** Sales History must be complete for the most recent three fiscal periods and reconciled with Tuition Payment Records. An Account Record must have a valid customer type. Incoming Credit Records must come from an authorised credit bureau. From that data, the capability produces a quarterly Customer Portfolio Analysis, an Account Prioritisation List, a Risk Assessment for each high-value account, and a Cross-Sell Target List for account managers. Serbian higher education institutions do not pool all customers into one undifferentiated portfolio; the segment definition distinguishes state-funded and self-financing places.
+
+**A planning cycle produces a ranked list.** The **Account Prioritisation List** ranks accounts each planning cycle. It directs sales effort to the most valuable relationships and away from low-value accounts, protecting revenue by making sure high-value accounts are not overlooked.
+
+### Key processes
+- Analyse Customer Profitability
+- Segment Accounts
+- Model Churn Risk
+- Prioritise Accounts
+- Update Portfolio Analysis
+- Set Cross-Sell Targets
+- Adjust Credit Limits",""
+"id-a609d67d-c8e5-42b1-86fb-23647dc01b52","Capability","Lead and Opportunity Management","**A web form or phone call brings an inquiry.** Lead and Opportunity Management converts that inquiry into a qualified opportunity and tracks it until it is won or lost. It operates before any contract exists. The outcome is a pipeline of Opportunity Records ready to hand to account managers or salespeople. When this works, new Enrollment Contracts and Sales Agreements have a steady source of qualified prospects.
+
+**It depends on valid contact and consent.** A Prospect Inquiry must contain a valid contact mechanism. A Referral must indicate the referral source and consent to contact. An Opportunity Record must trace back to a prior Lead Record. For leads involving foreign qualifications or cross-border mobility, recognition procedures and GDPR-compliant consent are handled before any sales contact. The capability produces Qualified Leads, Opportunity Records, Proposal Requests, and Won/Lost Decisions as the pipeline moves forward.
+
+**A qualified opportunity moves to a proposal.** When an opportunity reaches the proposal stage, the capability issues a **Proposal Request**. That document is the handoff from sales qualification to the next step of assembling an offer. Without it, the pipeline does not advance to a signed Enrollment Contract or Sales Agreement.
+
+### Key processes
+- Qualify Prospect Inquiry
+- Score Lead
+- Assign Salesperson
+- Convert Lead to Opportunity
+- Update Opportunity Stage
+- Close Opportunity
+- Merge Duplicate Lead
+- Reopen Opportunity",""
+"id-8ef1a7e0-4d0f-4e57-bcf7-50501651842d","Capability","Multi-Channel Sales","**A customer order arrives from a corporate client or a self-financing student.** Multi-Channel Sales sells accredited programmes and services through direct sales, online portals, education agents, and government procurement platforms. It maintains one consistent offer across those channels. The outcome is a validated Sales Order Record. Each order is fulfilled without conflict. When this works, students do not receive conflicting confirmations and the institution honours each placement.
+
+**It depends on the current catalogue and price list.** The Approved Programme Catalogue must be current with accreditation status for each programme and cycle. The Price List must match the approved tuition fee schedule. A Channel Partner Agreement must state commission terms. Every channel sells only currently accredited programmes within the ministry-fixed enrolment quota. The capability issues Sales Order Records, Booking Confirmations, Channel Commissions, or Order Rejections according to order validation.
+
+**A reserved seat gets confirmed.** When a Customer Order passes validation and a seat or training session is available, the capability issues a **Booking Confirmation**. That document confirms a student's place in a specific cohort, protecting against overselling. It is the point where a valid order becomes a confirmed placement.
+
+### Key processes
+- Publish Programme Catalogue
+- Process Online Order
+- Process Agent Order
+- Validate Order Against Quota
+- Issue Channel Commission
+- Reject Invalid Order
+- Reserve Cohort Seat",""
+"id-a711bf13-8d88-4d21-8410-ab448500566a","Capability","Price and Commission Management","**A fee schedule arrives after governance approval.** Price and Commission Management sets and maintains tuition fees, contract service prices, discounts, and sales commissions across all channels. The outcome is a current Price List and Commission Rate Schedule that all sales activities use. When the Price List is updated before the application window opens, sales staff quote current fees and channel partners continue selling.
+
+**It connects cost, accreditation, and commission plans.** The capability calculates the cost per ECTS credit and verifies each Approved Tuition Fee Schedule against NAT accreditation for the relevant cycle and programme. Fees distinguish state-funded and self-financing places; budget-funded places carry no charge. A Commission Rate Schedule must be authorised by finance before it is configured. From these inputs, the capability produces Price Lists, Discount Authorizations, Incentive Statements, and Price Revisions.
+
+**A current schedule protects quoting.** The **Price List** is issued for each recruitment cycle and sales staff use it to quote fees. If it is not updated before the application window opens, quotes are outdated and clients refuse to sign. The Price List ties every programme fee to its NAT accreditation and ECTS credit workload.
+
+### Key processes
+- Set Programme Fee
+- Approve Discount
+- Maintain Price List
+- Configure Commission Rate
+- Audit Commission Payment
+- Revise Fee
+- Reject Unauthorised Discount",""
+"id-ebfac6ac-707e-497a-b678-abc00810b609","Capability","Sales Force Management","**A new salesperson joins the team.** When a Salesperson Profile arrives with a signed employment contract, the sales force work begins. The capability recruits salespeople, assigns territories, sets sales targets, monitors performance, calculates sales incentives, delivers training, and reassigns or terminates where needed. The outcome is a Sales Force Roster that puts the right salesperson on each territory or account segment. Without assigned targets and evaluated performance, sales activity goes unmeasured, incentives go unpaid, and revenue goals slip.
+
+**Planning targets reach people here.** Sales Target, Territory Definition, and Training Plan arrive from planning, market revisions, and professional development. The work here converts those into assignments, evaluations, and incentive payments. In a Serbian higher education institution, every Salesperson Profile must include an employment contract and tax number; a profile missing either is returned before it enters the roster. Mandatory data protection training under the Serbian Law on Personal Data Protection must appear in the Training Plan, or no training is scheduled.
+
+**A Territory Assignment fixes the match.** Once a salesperson is matched to a region or segment, this record is issued. It becomes the basis for sales incentives and performance evaluations.
+
+### Key processes
+- Recruit Salesperson
+- Assign Territory
+- Set Sales Target
+- Evaluate Sales Performance
+- Calculate Sales Incentive
+- Deliver Training
+- Reassign Underperforming Salesperson
+- Terminate Salesperson",""
+"id-52f6b145-944f-43d6-8dff-7f43ef37bc51","Capability","Sales Planning and Forecasting","**After each recruitment cycle ends.** Historical Sales Data covering at least three recent cycles arrives, along with Market Analysis, the ministry-approved Enrollment Quota, the Academic Calendar, and Competitor Activity. This capability creates a Sales Plan that guides all sales activities for the next cycle. Without a Sales Plan finalised before the ministry quota decision, staffing, budgets, and channel plans cannot align, and the sales force works without a target.
+
+**Ministry quotas and ECTS cycles set the frame.** The planning work uses the ministry-approved Enrollment Quota and the Academic Calendar as fixed inputs. Forecasts rest on Historical Sales Data covering at least three recent recruitment cycles; incomplete payment history widens the confidence band. Market Analysis without source citations is kept out of the quantitative forecast.
+
+**A Sold Quota Allocation fixes programme numbers.** Each planning cycle, the capability issues a Sold Quota Allocation for each programme and channel. That document divides the ministry-approved quota across the institution's offerings.
+
+### Key processes
+- Analyse Historical Sales
+- Estimate Market Demand
+- Set Sales Target
+- Allocate Quota
+- Forecast Revenue
+- Review Forecast Accuracy
+- Reforecast After Enrolment Deadline",""
+"id-a6bbc833-d30e-460f-9df3-0ebe783e8f43","Capability","Manage Accreditation and Quality Assurance","**Accreditation must stay current.** The institution and each study programme hold accreditation with the National Accreditation Body (NAT). This work prepares and submits accreditation applications, files an Annual Self-Evaluation Report, and monitors accreditation expiry. When external evaluation findings identify non-conformities, a Corrective Action Plan is drafted and corrective actions are reassessed. Keeping accreditation valid is a legal precondition for enrolment and recognised degree issuance.
+
+**It draws on official NAT requirements.** Accreditation Requirements must be the official NAT text; outdated versions are not used. Self-evaluation inputs come from course evaluation summaries, grade distribution reports, and staff development records. These feed Institution and Study Programme Accreditation Applications, the Annual Self-Evaluation Report, and renewal applications before each certificate expires. Self-evaluation aligns with ESG 2015 Part 1 and external findings with Part 2.
+
+**The Annual Self-Evaluation Report is filed.** It is submitted internally and to NAT, assembled from course evaluation summaries, grade distribution reports, and staff development records. That report is how the institution shows it still meets the standards.
+
+### Key processes
+- Assemble Accreditation Application
+- Conduct Self-Evaluation
+- Respond to External Evaluation
+- Monitor Accreditation Expiry
+- Implement Corrective Actions
+- Maintain Internal QA Records",""
+"id-9475e03b-21b2-44ad-a009-25c3be831b1e","Capability","Recognize Foreign Qualifications","**A completed application for recognition arrives.** Staff examine it, check the foreign diploma and transcript against the Serbian study programme for the relevant cycle, and request ENIC-NARIC verification when authenticity needs confirmation. The result is a binding Recognition Decision, positive or negative. This formal procedure under the Law on Higher Education is what lets a qualification earned abroad count toward admission or a Serbian diploma.
+
+**The decision feeds student records.** Each Recognition Decision is recorded in the Recognition Register and stored in the student's file. Incomplete applications are returned with a deficiency note, and appeals trigger a reassessment. The student file and register are where the outcome becomes part of the record for later enrolment and diploma issuing.
+
+**The Recognition Decision fixes the outcome.** It cites the verified sources. A decision without full evidence is reassessed, protecting the applicant from a wrong result based on unverified documents.
+
+### Key processes
+- Assess Foreign Qualification
+- Verify Document Authenticity
+- Issue Recognition Decision
+- Record Recognition
+- Handle Recognition Appeal",""
+"id-1bdefe7d-266e-4b95-8f83-c2539d0148ab","Capability","Manage Erasmus+ Mobility","**Annual mobility applications arrive.** Staff evaluate them against quotas, issue a Mobility Selection Decision, and coordinate the Learning Agreement sign-off by the student, sending institution, and host institution. After the stay, the host transcript is compared against the learning agreement so credits earned abroad are recognised in ECTS and recorded in the student record.
+
+**Mobility depends on two signed documents.** Every mobility requires a valid Inter-Institutional Agreement and a Learning Agreement. Credits earned abroad are recognised only if they match the agreed study plan; without a modified learning agreement, students lose credit. In federated universities, signatory authority for agreements rests with the faculty while integrated universities sign centrally.
+
+**The Learning Agreement anchors the recognition.** It must be complete with ECTS credits and signed by all three parties. An official Host Institution Transcript of Records is required, and an unofficial transcript triggers a request for the official copy.
+
+### Key processes
+- Conclude Inter-Institutional Agreement
+- Select Mobility Participants
+- Approve Learning Agreement
+- Recognise ECTS Credits Abroad
+- Report Mobility Outcomes",""
+"id-7867ed7a-a6c0-499b-a13e-41619962e307","Capability","Issue Diplomas and Diploma Supplements","**Final-year records undergo completion checks.** Staff verify that all required ECTS credits appear in the Transcript of Records and, for master's and doctoral programmes, that the Thesis Defense Record is signed. Once academic staff confirm the study programme requirements are met, the Diploma is issued with the cycle and programme name, and a Diploma Supplement is produced for every graduate.
+
+**The diploma depends on accredited data.** The Transcript of Records must be complete and traceable to accredited courses; incomplete transcripts are returned for correction. When discrepancies exist in the Student Record, issuance is suspended until they are resolved. Each graduate is then recorded in the Graduation Register Entry within the Student Record.
+
+**Diploma Supplement follows European template.** It carries the Bologna cycle and all ECTS credits, so the graduate has what is needed for further study or professional recognition. A diploma is valid only if the study programme held accreditation at the time of awarding.
+
+### Key processes
+- Confirm Graduation Eligibility
+- Issue Diploma
+- Issue Diploma Supplement
+- Record Graduation
+- Handle Duplicate Diploma",""
+"id-f7b60e7c-3f68-40f5-9f7d-335d13dd7c1c","Capability","Manage Data Protection","**A data request or breach sets the work in motion.** Students, staff, and research participants exercise rights over their personal data. Manage Data Protection logs the request, checks the lawful basis, and answers within statutory deadlines. A designated data protection officer oversees the work. The point is to keep processing lawful and to be able to show it is lawful.
+
+**It is the control point before data moves or changes.** Every processing operation is registered in the Record of Processing Activities. External processors are covered by Controller-Processor Agreements before data leaves the institution. Cross-border transfers require an adequacy decision or standard contractual clauses. When this works, the institution demonstrates lawful processing and the Commissioner for Information of Public Importance and Personal Data Protection receives notifications only when legally required.
+
+**High-risk processing is assessed first.** A **Data Protection Impact Assessment** documents the risk and the safeguard before the processing goes ahead. It is the one artefact that turns a legal obligation into a documented decision.
+
+### Key processes
+- Maintain Records of Processing
+- Handle Data Subject Request
+- Notify Data Breach
+- Conduct DPIA
+- Authorise Cross-Border Transfer",""
+"id-58101092-095e-42fc-a263-ddc537d93a84","Capability","Manage State Funding and Enrollment Quotas","**The ministry publishes state-funded quotas.** Staff distribute that Enrollment Quota across accredited study programmes, rank applicants on admission criteria, and assign each admitted student either state-funded or self-financing status. The funding claimed from the ministry is calculated from the enrolled state-funded students and submitted in a Funding Claim Report.
+
+**Accurate records protect both.** Student Records must be accurate and traceable to admission data; discrepancies are returned for correction before funding claims are calculated. An unofficial quota figure is rejected and the official ministry text is requested. State-funded places are fixed by the ministry-set quota, so reports must match enrolled numbers.
+
+**Funding Claim Report reaches ministry.** It carries the enrolled state-funded student numbers and is submitted only after the Budget Allocation Notification confirms funding. When the notification is missing, the report is not sent, which prevents a claim on an unconfirmed budget place.
+
+### Key processes
+- Allocate Enrollment Quotas
+- Assign Student Funding Status
+- Claim State Funding
+- Report Enrollment Numbers
+- Reconcile Quotas",""
+"id-703c3278-af18-4e57-8bd0-ef52b23dc077","Capability","Administer Student Standard","**Student standard applications arrive.** Staff verify student status and, for need-based help, proof of income. Accommodation applications are checked against the current Dormitory Capacity Report from the student centre; meal subsidies are calculated from funding status; scholarship applications are ranked using the Scholarship Rule.
+
+**Eligibility checks protect limited places.** The Student Record must be accurate; inconsistent records suspend allocation until corrected. Incomplete applications are returned for resubmission. When a student contests a negative outcome, the decision is reassessed.
+
+**Accommodation and Meal Subsidy Decision transmitted.** It tells the student centre who is entitled to subsidised accommodation or meals, and is supported by a Student Standard Record sent for implementation. Only enrolled students who meet the criteria receive these services.
+
+### Key processes
+- Assess Student Standard Eligibility
+- Allocate Subsidised Accommodation
+- Approve Meal Subsidy
+- Award Scholarship
+- Appeal Student Standard Decision",""
+"dr-state-budget-quota-limits-volume","Driver","State-funded enrolment quota limits volume","**Budget places come with a cap.** State funding is allocated for budget places fixed by enrolment quotas. The number of state-funded students is therefore capped, and the volume of that revenue is constrained.
+
+**The enrolment quota fixes the cap.** It sets the ceiling on state-funded places, so financial planning for that stream stays inside a known boundary.",""
+"dr-margin-gap","Driver","Margin gap between delivery cost and funding per place","**A study place carries a margin.** The margin on a study place is determined by the gap between the cost of delivering that place and the state funding or tuition per place.
+
+**The margin is that gap.** It shows whether the funding per place covers the cost of delivering it.",""
+"dr-accreditation-gate","Driver","Accreditation gates enrolment and degree issuance","**Enrolment and degrees wait on accreditation.** A study programme cannot enrol students or issue recognised degrees unless it holds a valid NAT accreditation certificate, renewed periodically, and the institution is accredited for that programme.
+
+**The NAT accreditation certificate gates.** It keeps unrecognised programmes from admitting students or awarding degrees, and periodic renewal keeps that gate valid.",""
+"dr-esg-qa-alignment","Driver","ESG 2015 quality assurance alignment","**Quality assurance follows ESG 2015.** Serbian quality assurance is read against ESG 2015, the Standards and Guidelines for Quality Assurance in the European Higher Education Area. That alignment strengthens internal self-evaluation and external evaluation.
+
+**NAT accreditation depends on that evaluation.** The strengthened evaluations feed the accreditation body, so accreditation decisions rest on a clearer read of a programme's quality.",""
+"dr-erasmus-mobility-recognition","Driver","Erasmus+ credit mobility recognition requirement","**Erasmus+ mobility requires recognition.** Credits earned abroad are recognised using ECTS and the Diploma Supplement. Recognition pushes comparability of learning outcomes across institutions.
+
+**The Diploma Supplement carries recognition.** Together with ECTS, it recognises credits earned abroad, and that shared format pushes comparability of learning outcomes.",""
+"dr-data-protection","Driver","Data protection law applies across mobility","**Personal data law applies to records.** **The Serbian Law on Personal Data Protection**, modelled on GDPR, applies to:
+- student records
+- staff records
+- research participant data
+
+**Cross-border mobility brings GDPR in.** Joint programmes and mobility arrangements put the same protections directly onto those records, so one legal standard follows the data.",""
+"dr-legal-form-split","Driver","Integrated and federated university forms split accountability","**Integrated and federated forms move authority.** A university running both integrated and federated legal forms does not keep signing authority, accountability or records in one place. They sit at university or faculty level depending on the form.
+
+**The split reaches signing and filing.** Processes needing a signature, an accountable owner or a stored record follow the legal form. The record ends up where the form places it.
+
+**Integrated and federated university legal forms set the two positions.** The integrated form consolidates at university level; the federated form places them at faculty level. The coexistence of the two forms is what shifts the line.",""
+"gl-support-resolution","Goal","Resolve reported issues and answer inquiries authoritatively","**When an issue is reported.** The institution resolves it with a documented, authoritative answer, not a holding pattern. Students finish enrollment, staff reach student records, and applicants meet legal deadlines.
+
+**Support depends on triage.** If resolver queues exceed capacity or the knowledge base goes stale, reports pile up and those same groups hit dead ends.
+
+**An Issue Report becomes a documented resolution.** Each report ends with an authoritative answer, never left in a queue.",""
+"gl-advancement-private-support","Goal","Secure private support through lawful donor relationships","**Donor relationships need clear consent.** The institution secures private support only where consent is demonstrable, gift records are correctly attributed, and pledge payments are collected.
+
+**That clarity protects revenue.** If consent is not demonstrated, records are not attributed, or pledges go uncollected, private revenue and endowment growth stall.
+
+**A gift record settles attribution.** Correct attribution to the right legal entity keeps donor intent and collected support together.",""
+"gl-marketing-accredited-demand","Goal","Promote only accredited programmes and generate qualified demand","**A campaign promotes a programme.** The institution promotes only study programmes with a valid accreditation decision and accurate ECTS information, and it generates qualified prospective student demand within state-funded quotas.
+
+**Accuracy decides whether demand qualifies.** A programme without valid accreditation or with misstated ECTS credits leaves materials removed and no qualified Lead Record generated, so the quota goes unfilled.
+
+**A Lead Record turns interest into quota.** Qualified prospective students become Lead Records, and those records fill the state-funded enrolment quota.",""
+"gl-grant-funding-compliance","Goal","Meet sponsor terms and recover grant funds","**Grant funding follows sponsor terms.** The institution meets those terms, secures usable awards, recovers funds, and answers audit findings so externally funded projects deliver without returning money or losing future awards.
+
+**Compliance keeps projects running.** If terms are unmet, sponsors reject proposals or withhold payment; staff salaries charged to grants go unpaid and funds are returned.
+
+**An audit finding gets answered.** Each answered finding keeps future awards open, not blocked.",""
+"gl-student-record-service","Goal","Ensure every student has a lawful record on an accredited programme","**Every student needs a lawful record.** The institution ensures each student is associated with an accredited study programme and a lawful Student Record.
+
+**That record issues the services.** Admissions, enrollment confirmations, aid awards, housing assignments, tuition invoices and transcripts all draw from the master Student Record.
+
+**A Student Record anchors the whole flow.** Without that association, every one of those services halts.",""
+"gl-academic-program-delivery","Goal","Offer accredited programmes and schedulable required courses","**A cohort needs a programme.** The institution offers accredited study programmes and schedules required courses with qualified instructors and appropriate rooms so students register, are graded and graduate.
+
+**Scheduling depends on instructors and rooms.** If no qualified instructor or appropriate room is available, a required course is not scheduled, and grades and degrees stall.
+
+**A required course carries the schedule.** Each scheduled course with a qualified instructor and a room is what lets students move from registration to graduation.",""
+"gl-sales-contract-revenue","Goal","Convert prospects into signed revenue agreements","**Qualified prospects become signed agreements.** The institution converts qualified prospects into signed enrollment contracts or sales agreements within each recruitment cycle. Fee revenue from self-financing students and contract clients is recognised. A signed agreement is the first point where that revenue becomes real.
+
+**Between prospect record and billing.** A qualified Prospect Record becomes a signed **Enrollment Contract or Sales Agreement**, and billing then issues payment obligations. The commitment protects fee revenue recognition, budget commitments, and billing's ability to issue payment obligations. The signed Enrollment Contract or Sales Agreement tells billing what to invoice.",""
+"id-c60c95fc-180b-4784-9b6f-08c912f70dce","Grouping","Grant Management","**A call for proposals arrives.** The university screens it and then manages the award through every stage: proposal, signed agreement, spending, delivery, compliance and closeout. This is the part of the institution that keeps externally funded projects usable, recovers sponsor money, and proves the work was done lawfully. When it runs well, staff charged to grants are paid and the university does not return funds it has already received.
+
+**It sits between sponsors and project work.** It depends on clear sponsor calls, accurate expense records and timely audit responses, and it turns those into proposal submissions, signed agreements, invoices, progress reports and compliance reports. A missed audit finding blocks future awards from the same sponsor, so the corrective loop matters as much as the original application.
+
+**The Executed Grant Agreement controls the award.** It exists only after both the institution and the sponsor have signed, and the institution keeps it as the controlling document for everything that follows.",""
+"id-32ef1aee-f646-4fb4-8a01-90c553ac705a","Grouping","Institutional Advancement","**Private support supplements public funding.** Serbian higher education relies on state-funded places and self-financing tuition, so institutional advancement secures philanthropic support, builds donor relationships, and grows endowed funds. Each incoming pledge or gift is checked against the Serbian Law on Personal Data Protection and recorded under the correct university or faculty legal entity. That protects revenue and donor trust across both integrated and federated university forms.
+
+**It feeds a chain of receipts, schedules, and recognition.** Donor prospect lists, gift notifications, and consent records arrive here. When a gift is verified, a pledge signed, or a campaign milestone reached, the domain issues outputs such as gift receipts, pledge payment schedules, and donor acknowledgement letters. Those records keep donors informed and make future outreach lawful and targeted.
+
+**The gift receipt carries the weight.** A verified gift becomes a gift receipt that ties the payment to the specific donor and fund, leaving a traceable record for the institution and the supporter.",""
+"id-b3783a69-5a26-4c8c-b0dc-f13ebb34baf9","Grouping","Manage Academics","**Before each term starts.** The institution must turn approved study programmes into a workable schedule of courses, instructors, and rooms. Manage Academics carries this from curriculum planning through student assessment and academic support. When it works, every enrolled student follows a validated study path, earns ECTS credits, and receives a recognised qualification.
+
+**It links planning to the records the rest of the institution reads.** This work depends on the Study Programme Proposal, Course Syllabus, Teaching Staff Availability, and Room Inventory. The grades it records and the Transcript of Records it issues keep enrolment verification, tuition billing, and graduation certification running, because those downstream processes read the same student data.
+
+**The Course Catalogue publishes the plan.** It is the official list of available courses for a given academic year, and it is what students check before registration opens.",""
+"id-7eb7c6a1-4864-4c4b-9b13-d344309f4f58","Grouping","Manage Students","**From first contact to separation.** A student's administrative lifecycle covers recruitment, admission, enrollment, financial arrangements, housing, records, and billing. Every student on the books is attached to an accredited study programme, holds a lawful Student Record, and receives the services their status carries.
+
+**Accreditation and quota sit upstream.** A Student Record is opened only when NAT has issued a valid Accreditation Decision for the programme. Admissions, enrollment confirmations, financial aid awards, housing assignments, tuition invoices, and transcripts all depend on that central record. When a student is not associated with both an accredited programme and a lawful Student Record, those downstream documents stop.
+
+**The Student Record anchors the rest.** It is the central record, updated when a Personal Data Change Request is verified. When it is accurate, each downstream service proceeds against the same lawful record.",""
+"id-bd24036d-055c-476f-8c7c-ada1e2d8ebac","Grouping","Marketing","**Promotion ties each claim to accreditation.** The marketing function presents accredited study programmes, builds institutional reputation, and generates qualified prospective student demand within state-funded enrolment quotas and the European Higher Education Area. It owns the message that reaches prospective students, parents, employers, and public bodies, and that message must stay in line with the Law on Higher Education and the Standards and Guidelines for Quality Assurance in the European Higher Education Area.
+
+**Every claim traces to official specifications.** The function works from the ministry's Enrolment Quota Decision and the Accredited Study Programme Catalogue with ECTS credit values. Every public claim must be traceable to the official programme specification. Before any public material goes out, it is checked against the accredited programme portfolio and the Law on Higher Education. The check protects against promoting a programme without a valid accreditation decision or misstating its ECTS workload. When that happens, materials are removed and no qualified Lead Record is generated, so the institution cannot fill its state-funded quota.
+
+**Programme Fact Sheet carries the standard.** The Programme Fact Sheet is issued only after a compliance review against accreditation status and ECTS presentation rules. It states the learning outcomes, accreditation status, and workload in ECTS for a study programme, so every public claim can be traced back to the official NAT-accredited programme specification.",""
+"id-d282e41f-2f23-4160-9a6f-d9401cc14f2a","Grouping","Sales","**Prospects arrive from inquiries and campaigns.** The Sales domain turns those prospects into signed revenue agreements for study places, contract education, research services, and other chargeable offerings. In the Serbian and EHEA setting, that means selling nationally accredited programmes to self-financing students and corporate clients within state-set enrolment quotas. The outcome is a signed Sales Agreement or Enrollment Contract valid under the Law on Higher Education and usable for fee collection. When this works, fee revenue from self-financing students and contract clients is recognised, and downstream billing issues payment obligations.
+
+**It depends on accreditation and quotas.** Each saleable programme must hold current NAT accreditation and fit within the ministry-fixed enrolment quota. A programme without current accreditation or with exhausted quota is not sold. The domain builds a valid offer from each Accredited Study Programme record and validates Draft Tuition Fee Schedules against cost and regulatory requirements before use. The signed documents it produces carry the legal signatory of the university or faculty and feed fee collection downstream.
+
+**One quota caps self-financing places.** The ministry-approved **Enrollment Quota** sets the maximum number of sellable places per programme and cycle. A programme that exhausts its quota is not sold, regardless of demand. This protects the institution from committing places it is not authorised to deliver.",""
+"id-ae0ab1dc-95a9-4226-8013-05a65cb447de","Grouping","Support","**Problems are logged, sorted, and answered.** When a student or staff member hits a broken IT system, a facilities fault, or a question about enrollment or fees, the Support domain takes the report and routes it to the right resolver or knowledge source. Its job is to make sure every Issue Report and Inquiry receives a documented resolution or response. Unresolved blockers are what this domain exists to remove.
+
+**It sits across both central and faculty-level help.** The same type of issue is handled by a central support unit or by a faculty-level office, depending on whether the university is integrated or federated. The domain keeps ownership and escalation paths clear while respecting the legal personality of faculties. That consistency is what lets a student complete enrollment or a staff member access records without knowing who is behind the resolution.
+
+**After a fix, the knowledge is kept.** A **Knowledge Article** captures the solution for reuse, so the next person with the same issue does not wait for diagnosis from scratch. It turns a single fix into institutional memory.",""
+"sh-students","Stakeholder","Students","**Institutions sell education to two kinds of students.** Operators offer study programmes to learners who are either state-funded on budget places or self-financing. Both routes bring revenue into the institution.
+
+**The funding status shapes the exchange.** A state-funded budget place means the state pays; self-financing means the student pays directly. That distinction determines how public and private money supports each programme. The funding route that carries public money into enrolment is a **budget place**.",""
+"sh-employers","Stakeholder","Employers","**Employers buy three things from institutions.** Higher education operators sell graduates, research results, and contract education to employers. These purchases turn academic output into a commercial exchange.
+
+**Employer demand gives this exchange shape.** Institutions sell research results and graduates to employers. That flow links academic work to the labour market. A direct transaction between an institution and a business is the purchase of **research results**.",""
+"sh-ministry-higher-education","Stakeholder","Ministry responsible for higher education","**The ministry supervises and funds institutions.** The ministry responsible for higher education allocates budget funding, supervises institutions, and purchases education, research and public services through ministry funding. This makes it the main buyer and supervisor in the sector.
+
+**Public funding reaches institutions through this.** The ministry buys capacity on state-funded places, which directs budget funding into institutions. The transaction that turns a policy decision into a funded study place is the purchase of **capacity on state-funded places**.",""
+"sh-nat","Stakeholder","National Accreditation Body","**Accreditation is the gateway to recognised degrees.** The National Accreditation Body accredits institutions and study programmes. That approval acts as a precondition for enrolling students and issuing recognised degrees.
+
+**Formal records follow each approval.** The body issues Accreditation Certificates and Study Programme Accreditations. The document that unlocks enrolment for a specific programme is a **Study Programme Accreditation**.",""
+"sh-commissioner-data-protection","Stakeholder","Commissioner for Information of Public Importance and Personal Data Protection","**Personal data handling has an external supervisor.** The Commissioner for Information of Public Importance and Personal Data Protection oversees personal data processing under the Law on Personal Data Protection. That oversight applies to any processing of personal data in the sector.
+
+**The law defines the boundary.** The Commissioner supervises personal data processing to the standard set by the law. The baseline institutions must meet when processing personal data is the **Law on Personal Data Protection**.",""
+"sh-partner-institutions","Stakeholder","Partner institutions","**Erasmus+ credit mobility connects institutions across borders.** Serbian institutions exchange learning agreements and inter-institutional agreements with foreign partner institutions. These agreements set the terms for mobility.
+
+**Partner institutions formalise the exchange through agreements.** Under Erasmus+ credit mobility, institutions exchange Learning Agreements and Inter-Institutional Agreements. The relationship for a specific mobility arrangement is defined by an **Inter-Institutional Agreement**.",""
+"sh-staff","Stakeholder","Academic and non-academic staff","**Staff provide what institutions buy.** Academic and non-academic staff supply **teaching, research and administrative inputs** to higher education institutions.
+
+**The operating model records those purchases.** Operators buy those inputs from staff.",""
+"sh-publishers","Stakeholder","Publishers","**Publishers supply the content.** Publishers supply **published content** for teaching and research inputs.
+
+**The operating model shows the purchase.** Operators buy teaching, research and administrative inputs from publishers.",""
+"sh-equipment-suppliers","Stakeholder","Equipment suppliers","**Institutions buy their equipment.** Equipment suppliers provide **teaching, laboratory and research equipment** used by higher education institutions.
+
+**These purchases appear in the operating model.** Operators buy teaching, research and administrative inputs from equipment suppliers.",""
+"sh-facility-providers","Stakeholder","Facility providers","**Physical space comes from providers.** Facility providers supply **physical facilities and related services** used by higher education institutions.
+
+**The operating model lists these purchases.** Operators buy teaching, research and administrative inputs from facility providers.",""
+"vs-campaign-to-profitability","ValueStream","Campaign-to-Profitability","**A new recruitment cycle begins.** Market research is commissioned, bringing in prospective student and competitor data. The stream carries that evidence through to a demonstrated campaign return, ending with a profitability report that shows which programmes and funding types repay marketing spend. Marketing and finance leadership receive a Profitability Report and Campaign Performance Report. The point is to tie spend to enrolment outcomes, so future budget follows evidence.
+
+**Marketing spend needs evidence.** Enrolment conversion data must carry a marketing source code from first contact to enrolment, and campaign budget must still be available during the main recruitment period. When both hold, the stream hands leadership a clear link between spend and enrolled students, and next cycle's budget is allocated on evidence.
+
+**A Profitability Report settles the budget.** It lists which programmes and funding types repay marketing spend.",""
+"vs-prospect-to-enrollment","ValueStream","Prospect-to-Enrollment","**A prospective student submits an inquiry.** The inquiry form or event registration includes recorded consent. The stream carries that contact through recruitment planning, lead qualification, admission, course registration and master record creation. It ends with an Enrollment Confirmation and an active Student Record for a place on an accredited study programme. Admission is protected by two conditions: the programme holds current NAT accreditation, and the prospect has a lawful consent record.
+
+**Accreditation and consent are required.** The stream depends on those conditions before any admission offer is issued. When they hold, the new student record becomes active and downstream academic services begin. This connects recruitment to the institution's academic records.
+
+**An Enrollment Confirmation marks the transition.** It confirms a place on an accredited study programme, turning a prospect into an enrolled student.",""
+"vs-enrollment-to-graduation","ValueStream","Enrollment-to-Graduation","**An enrolled student seeks course advice.** At the start of a term, the student requests guidance on course selection. The stream carries them through advising, registration, assessment and record completion. It ends with a cumulative Student Record, a Transcript of Records and a Diploma Supplement after final assessment. The purpose is to accumulate ECTS credits course by course, so the student graduates.
+
+**Credits depend on assessment evidence.** The stream requires assessment evidence for each course and a path to pass required courses. When those are present, credits accumulate and final records are issued. This protects the student's progression and the integrity of the transcript.
+
+**A Diploma Supplement completes the record.** It is issued after final assessment, alongside the cumulative Student Record and the Transcript of Records.",""
+"vs-curriculum-to-class-schedule","ValueStream","Curriculum-to-Class-Schedule","**Council approves the course list.** After an accredited curriculum is in place, the academic council approves the course offerings list. The stream turns those approved courses into bookable classroom sessions with reserved teaching spaces and equipment. The aim is to ensure every required course has a qualified instructor and a room before registration opens. Students and staff receive:
+- a published Class Schedule
+- a Teaching Load Report
+- Resource Booking Confirmations
+
+**Scheduling depends on instructors and rooms.** The stream requires a qualified instructor and an available room for each required course. When those are in place, the course is scheduled and students register. This connects curriculum approval to day-to-day teaching operations.
+
+**A published Class Schedule opens registration.** It lists the bookable classroom sessions for the term.",""
+"vs-programme-proposal-to-accreditation","ValueStream","Programme-Proposal-to-Accreditation","**A Study Programme Proposal is submitted.** The responsible academic body puts forward the proposal. The stream moves through curriculum design, internal program evaluation and effectiveness measurement. It produces a Program Evaluation Report and an Accreditation Self-Evaluation Report sufficient for submission to NAT. The point is to prepare accreditation renewal on complete documentation and current standards, protecting the programme's right to enrol students.
+
+**Documentation and standards must be current.** The stream depends on Study Programme Documentation being complete and standards being up to date. When they are, the evaluation reports are ready for NAT and the programme keeps its enrolment rights. This connects proposal to national accreditation.
+
+**Accreditation Self-Evaluation Report goes to NAT.** It is the evidence package prepared for the national accreditation body.",""
+"vs-call-to-grant-closeout","ValueStream","Call-to-Grant-Closeout","**A Call for Proposals opens.** Sponsor guidelines accompany the call. The stream carries the proposal through award, project execution, compliance and billing. It ends with a Final Project Report and a reconciled sponsor payment recorded against the award. The purpose is to close out the project with every expenditure allowable and aligned with the Law on Higher Education, so payment is released.
+
+**Compliance determines final payment.** The stream depends on sponsor terms aligning with the Law on Higher Education and on every expenditure passing review. When those hold, the sponsor releases payment and the institution records it against the award. This protects the institution from having to return funds.
+
+**Final Project Report closes the award.** It accompanies the reconciled sponsor payment.",""
+"vs-donor-prospect-to-endowment","ValueStream","Donor-Prospect-to-Endowment","**A consented prospect record arrives.** The advancement database receives a new donor prospect with recorded consent, and that entry starts the journey through prospect research, solicitation, gift processing and endowment establishment. The institution is working to turn private support into lasting funds; it does so only when consent is demonstrated at each step and pledge payments are collected.
+
+**The sequence ends with the fund in place.** What began as a record ends as an endowed fund established, gift receipts issued, and an endowment annual report delivered to the donor. If that chain holds, private revenue is protected and endowment growth continues.
+
+**A final report reaches the donor.** The **Endowment Annual Report** is delivered once the fund is established and receipts are issued, giving the donor a clear record of the endowed fund now in place.",""
+"vs-sales-plan-to-revenue","ValueStream","Sales-Plan-to-Revenue","**A ministry-approved enrolment quota starts the year.** Sales staff use that quota to plan territory assignment, pricing, lead conversion, channel sales and account renewal. The work turns the annual plan into revenue; it succeeds when every offer is backed by the accredited programme catalogue and current price list, so no invalid offer goes out.
+
+**The journey ends in account review.** From that planning start, the institution produces three finished outcomes:
+- a Customer Portfolio Analysis
+- renewed contracts
+- signed sales orders for self-financing and contract client places
+Each signed Enrollment Contract or Sales Agreement reflects a valid, deliverable offer.
+
+**The year ends in a single analysis.** The **Customer Portfolio Analysis** gathers the account-level results into one review that closes the sales cycle.",""
+"vs-issue-report-to-resolution","ValueStream","Issue-Report-to-Resolution","**A report reaches the service desk.** A student or staff member submits an Information Inquiry or Issue Report, and support staff route it to the right resolver. The resolver fixes the underlying problem and updates reusable knowledge, so the next similar report is handled more quickly.
+
+**The work depends on two conditions.** Each report needs enough diagnostic detail, and each resolver needs access to the affected system or Student Record. When those hold, the issue is resolved and the requester is not left blocked.
+
+**The fix is documented once.** The **Resolution Record** records what was fixed and is completed before the Closure Notification goes to the requester, giving both sides a record of what was resolved.",""
+"vs-enrollment-to-paid-tuition","ValueStream","Enrollment-to-Paid-Tuition","**Enrollment Confirmation creates a payment obligation.** For every state-funded or self-financing student, that confirmation starts a journey through aid determination, payor relationships and invoice payment allocation. The institution bills and collects tuition only when payor authorization is present and aid eligibility is resolved.
+
+**The account is settled by a recorded allocation.** Once the Tuition Invoice is issued, payments are matched to that invoice. The journey ends when the student account moves out of unpaid status and the obligation is closed.
+
+**The account closure is recorded.** The **Payment Allocation Record** shows where each payment was applied, closing the obligation that enrollment confirmation opened.",""

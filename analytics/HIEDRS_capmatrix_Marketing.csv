@@ -1,0 +1,9 @@
+source \ target,Define Marketing Strategy,Execute Programs,Market Research and Analysis,Measure Program Effectiveness,Plan Programs,Profitability Analysis,Segment Customers,OUT (row sum)
+Define Marketing Strategy,0,0,0,0,1,0,0,1
+Execute Programs,0,0,0,1,0,1,1,3
+Market Research and Analysis,1,0,0,0,1,0,0,2
+Measure Program Effectiveness,1,0,0,0,0,0,0,1
+Plan Programs,0,1,0,0,0,0,0,1
+Profitability Analysis,1,0,0,0,0,0,0,1
+Segment Customers,0,1,0,0,0,0,0,1
+IN (col sum),3,2,0,1,2,1,1,10

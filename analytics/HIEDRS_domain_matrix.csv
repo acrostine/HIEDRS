@@ -1,0 +1,9 @@
+source \ target,Grant Management,Institutional Advancement,Manage Academics,Manage Students,Marketing,Sales,Support,OUT (row sum)
+Grant Management,12,0,0,0,0,0,0,12
+Institutional Advancement,0,14,0,0,0,0,0,14
+Manage Academics,0,0,15,11,1,1,1,29
+Manage Students,0,0,2,32,2,0,3,39
+Marketing,0,0,0,1,10,3,0,14
+Sales,0,0,0,2,0,13,0,15
+Support,0,0,0,5,0,0,2,7
+IN (col sum),12,14,17,51,13,17,6,130
